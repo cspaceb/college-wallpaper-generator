@@ -23,7 +23,7 @@ BG_COLOR = (17, 17, 17)
 # HIGH-QUALITY STICKER BORDER
 # ============================================================
 
-def add_sticker_border(logo: Image.Image, border_size=4):
+def add_sticker_border(logo: Image.Image, border_size=2):
     """
     Adds a clean white die-cut sticker border around a logo PNG.
     High-quality, sharp edge version.
