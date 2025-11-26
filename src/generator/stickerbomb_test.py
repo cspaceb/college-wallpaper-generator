@@ -1,6 +1,6 @@
 import os
 import random
-from PIL import Image
+from PIL import Image, ImageFilter
 from src.generator.wallpaper_base import asset_path, load_small_logo
 
 
@@ -20,7 +20,37 @@ BG_COLOR = (17, 17, 17)
 
 
 # ============================================================
-# LOAD LOGOS
+# HIGH-QUALITY STICKER BORDER
+# ============================================================
+
+def add_sticker_border(logo: Image.Image, border_size=10):
+    """
+    Adds a clean white die-cut sticker border around a logo PNG.
+    High-quality, sharp edge version.
+    """
+    logo = logo.convert("RGBA")
+
+    # Extract alpha channel
+    alpha = logo.split()[3]
+
+    # Slight blur for expansion – reduced for sharpness
+    expanded = alpha.filter(ImageFilter.GaussianBlur(border_size / 4))
+
+    # High threshold for crisp border
+    bw = expanded.point(lambda p: 255 if p > 5 else 0)
+
+    # Create white silhouette
+    border_layer = Image.new("RGBA", logo.size, (255, 255, 255, 255))
+    border_layer.putalpha(bw)
+
+    # Composite original logo on top
+    bordered_logo = Image.alpha_composite(border_layer, logo)
+
+    return bordered_logo
+
+
+# ============================================================
+# LOAD ALL LOGOS
 # ============================================================
 
 def get_all_logos():
@@ -33,22 +63,39 @@ def get_all_logos():
 
 
 # ============================================================
-# PASTE LOGOS LIKE ORIGINAL SYSTEM
+# HIGH-QUALITY PASTE LOGO
 # ============================================================
 
 def paste_random_logo(canvas, logo_path, WIDTH, HEIGHT):
-    """Place 5–8 logos randomly like your original code."""
+    """Past 5–8 logos with crisp edges, sharp rotation, and border."""
     for _ in range(random.randint(5, 8)):
         try:
             size = random.randint(70, 180)
-            logo = load_small_logo(logo_path, max_size=size)
-            logo = logo.rotate(random.randint(-25, 25), expand=True)
 
+            # Load & resize with highest quality filter
+            logo = load_small_logo(logo_path, max_size=size)
+            logo = logo.resize(
+                (logo.width, logo.height),
+                resample=Image.Resampling.LANCZOS
+            )
+
+            # Add clean sticker-style border
+            logo = add_sticker_border(logo, border_size=10)
+
+            # High-quality rotation
+            logo = logo.rotate(
+                random.randint(-25, 25),
+                expand=True,
+                resample=Image.Resampling.BICUBIC
+            )
+
+            # Random placement
             x = random.randint(0, WIDTH - logo.width)
             y = random.randint(0, HEIGHT - logo.height)
 
             canvas.paste(logo, (x, y), logo)
-        except:
+
+        except Exception:
             continue
 
 
@@ -62,7 +109,7 @@ def generate_stickerbomb(type_):
 
     TRIM_W, TRIM_H = TARGET_SIZES[type_]
 
-    # Oversized working canvas
+    # Oversized work canvas for dense randomness
     WORK_W = int(TRIM_W * SCALE)
     WORK_H = int(TRIM_H * SCALE)
 
@@ -70,15 +117,15 @@ def generate_stickerbomb(type_):
 
     canvas = Image.new("RGB", (WORK_W, WORK_H), BG_COLOR)
 
-    # Load logos
+    # Load & shuffle logos
     logos = get_all_logos()
     random.shuffle(logos)
 
-    # Paste logos just like original logic
+    # Paste logos with improved quality
     for logo_path in logos:
         paste_random_logo(canvas, logo_path, WORK_W, WORK_H)
 
-    # Now crop center to final size
+    # Crop to final resolution
     left = (WORK_W - TRIM_W) // 2
     top = (WORK_H - TRIM_H) // 2
     right = left + TRIM_W
@@ -86,15 +133,20 @@ def generate_stickerbomb(type_):
 
     final_img = canvas.crop((left, top, right, bottom))
 
-    out_path = f"stickerbomb_{type_}_cropped.png"
-    final_img.save(out_path)
+    # SAVE INTO /data/stickerbomb
+    save_dir = asset_path("data/stickerbomb")
+    os.makedirs(save_dir, exist_ok=True)
 
+    filename = "pc.png" if type_ == "pc" else "mobile.png"
+    out_path = os.path.join(save_dir, filename)
+
+    final_img.save(out_path)
     print(f"[DONE] Saved: {out_path}")
     return out_path
 
 
 # ============================================================
-# STANDALONE EXECUTION
+# MAIN EXECUTION
 # ============================================================
 
 if __name__ == "__main__":
