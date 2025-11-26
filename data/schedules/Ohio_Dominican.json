@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "West Virginia Wesleyan",
+        "opponent_logo": "West_Virginia_Wesleyan.png",
+        "date": "09-11",
+        "home": false
+    },
+    {
+        "opponent": "Tiffin",
+        "opponent_logo": "Tiffin.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Walsh",
+        "opponent_logo": "Walsh.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Northwood (MI)",
+        "opponent_logo": "Northwood_(MI).png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Kentucky Wesleyan",
+        "opponent_logo": "Kentucky_Wesleyan.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Ashland",
+        "opponent_logo": "Ashland.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Findlay",
+        "opponent_logo": "Findlay.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Lake Erie",
+        "opponent_logo": "Lake_Erie.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Thomas More College",
+        "opponent_logo": "Thomas_More_College.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Hillsdale",
+        "opponent_logo": "Hillsdale.png",
+        "date": "11-15",
+        "home": false
+    }
+]

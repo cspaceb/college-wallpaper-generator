@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Ithaca College",
+        "opponent_logo": "Ithaca_College.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "John Carroll University",
+        "opponent_logo": "John_Carroll_University.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Susquehanna",
+        "opponent_logo": "Susquehanna.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Dickinson (PA)",
+        "opponent_logo": "Dickinson_(PA).png",
+        "date": "10-03",
+        "home": true
+    },
+    {
+        "opponent": "Carnegie Mellon",
+        "opponent_logo": "Carnegie_Mellon.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Ursinus",
+        "opponent_logo": "Ursinus.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Gettysburg",
+        "opponent_logo": "Gettysburg.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Muhlenberg",
+        "opponent_logo": "Muhlenberg.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "McDaniel College",
+        "opponent_logo": "McDaniel_College.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Franklin & Marshall",
+        "opponent_logo": "Franklin_and_Marshall.png",
+        "date": "11-15",
+        "home": false
+    }
+]

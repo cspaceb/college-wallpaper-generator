@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Colorado State",
+        "opponent_logo": "Colorado_State.png",
+        "date": "08-31",
+        "home": true
+    },
+    {
+        "opponent": "UC Davis",
+        "opponent_logo": "UC_Davis.png",
+        "date": "09-07",
+        "home": true
+    },
+    {
+        "opponent": "Washington State",
+        "opponent_logo": "Washington_State.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Ohio State",
+        "opponent_logo": "Ohio_State.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Maryland",
+        "opponent_logo": "Maryland.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Rutgers",
+        "opponent_logo": "Rutgers.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Michigan",
+        "opponent_logo": "Michigan.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Illinois",
+        "opponent_logo": "Illinois.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Wisconsin",
+        "opponent_logo": "Wisconsin.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Purdue",
+        "opponent_logo": "Purdue.png",
+        "date": "11-16",
+        "home": true
+    },
+    {
+        "opponent": "UCLA",
+        "opponent_logo": "UCLA.png",
+        "date": "11-23",
+        "home": false
+    },
+    {
+        "opponent": "Oregon",
+        "opponent_logo": "Oregon.png",
+        "date": "11-29",
+        "home": true
+    }
+]

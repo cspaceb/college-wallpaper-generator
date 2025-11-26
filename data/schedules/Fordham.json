@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Boston College",
+        "opponent_logo": "Boston_College.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Monmouth",
+        "opponent_logo": "Monmouth.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Stony Brook",
+        "opponent_logo": "Stony_Brook.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Colgate",
+        "opponent_logo": "Colgate.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Holy Cross",
+        "opponent_logo": "Holy_Cross.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Lafayette",
+        "opponent_logo": "Lafayette.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Dartmouth",
+        "opponent_logo": "Dartmouth.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Lehigh",
+        "opponent_logo": "Lehigh.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Richmond",
+        "opponent_logo": "Richmond.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Bucknell",
+        "opponent_logo": "Bucknell.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Georgetown",
+        "opponent_logo": "Georgetown.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Merrimack",
+        "opponent_logo": "Merrimack.png",
+        "date": "11-22",
+        "home": false
+    }
+]

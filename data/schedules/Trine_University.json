@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Christopher Newport",
+        "opponent_logo": "Christopher_Newport.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Rose-Hulman",
+        "opponent_logo": "Rose_Hulman.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Franklin",
+        "opponent_logo": "Franklin.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Albion",
+        "opponent_logo": "Albion.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Hope College",
+        "opponent_logo": "Hope_College.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Olivet College",
+        "opponent_logo": "Olivet_College.png",
+        "date": "10-16",
+        "home": false
+    },
+    {
+        "opponent": "Calvin University",
+        "opponent_logo": "Calvin_University.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Alma",
+        "opponent_logo": "Alma.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Adrian",
+        "opponent_logo": "Adrian.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Kalamazoo",
+        "opponent_logo": "Kalamazoo.png",
+        "date": "11-15",
+        "home": true
+    }
+]

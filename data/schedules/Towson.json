@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Norfolk State",
+        "opponent_logo": "Norfolk_State.png",
+        "date": "08-28",
+        "home": false
+    },
+    {
+        "opponent": "Morgan State",
+        "opponent_logo": "Morgan_State.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Maryland",
+        "opponent_logo": "Maryland.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Youngstown State",
+        "opponent_logo": "Youngstown_State.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Bryant",
+        "opponent_logo": "Bryant.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Elon",
+        "opponent_logo": "Elon.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Monmouth",
+        "opponent_logo": "Monmouth.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Stony Brook",
+        "opponent_logo": "Stony_Brook.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "North Carolina A&T",
+        "opponent_logo": "North_Carolina_AandT.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Villanova",
+        "opponent_logo": "Villanova.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "UAlbany",
+        "opponent_logo": "UAlbany.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Campbell",
+        "opponent_logo": "Campbell.png",
+        "date": "11-22",
+        "home": true
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Hawai'i",
+        "opponent_logo": "Hawaii.png",
+        "date": "08-23",
+        "home": false
+    },
+    {
+        "opponent": "BYU",
+        "opponent_logo": "BYU.png",
+        "date": "09-07",
+        "home": false
+    },
+    {
+        "opponent": "Boston College",
+        "opponent_logo": "Boston_College.png",
+        "date": "09-14",
+        "home": true
+    },
+    {
+        "opponent": "Virginia",
+        "opponent_logo": "Virginia.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "San Jos\u00e9 State",
+        "opponent_logo": "San_Jose_State.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "SMU",
+        "opponent_logo": "SMU.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Florida State",
+        "opponent_logo": "Florida_State.png",
+        "date": "10-19",
+        "home": true
+    },
+    {
+        "opponent": "Miami",
+        "opponent_logo": "Miami.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Pittsburgh",
+        "opponent_logo": "Pittsburgh.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "North Carolina",
+        "opponent_logo": "North_Carolina.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "California",
+        "opponent_logo": "California.png",
+        "date": "11-23",
+        "home": true
+    },
+    {
+        "opponent": "Notre Dame",
+        "opponent_logo": "Notre_Dame.png",
+        "date": "11-30",
+        "home": true
+    }
+]

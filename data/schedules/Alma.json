@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Wisconsin-River Falls",
+        "opponent_logo": "Wisconsin_River_Falls.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Denison University",
+        "opponent_logo": "Denison_University.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Hanover College",
+        "opponent_logo": "Hanover_College.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Hope College",
+        "opponent_logo": "Hope_College.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Calvin University",
+        "opponent_logo": "Calvin_University.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Albion",
+        "opponent_logo": "Albion.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Olivet College",
+        "opponent_logo": "Olivet_College.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Trine University",
+        "opponent_logo": "Trine_University.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Kalamazoo",
+        "opponent_logo": "Kalamazoo.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Adrian",
+        "opponent_logo": "Adrian.png",
+        "date": "11-15",
+        "home": true
+    }
+]

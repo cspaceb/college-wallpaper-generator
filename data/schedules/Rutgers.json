@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Ohio",
+        "opponent_logo": "Ohio.png",
+        "date": "08-28",
+        "home": true
+    },
+    {
+        "opponent": "Miami (OH)",
+        "opponent_logo": "Miami_(OH).png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Norfolk State",
+        "opponent_logo": "Norfolk_State.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Iowa",
+        "opponent_logo": "Iowa.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Minnesota",
+        "opponent_logo": "Minnesota.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Washington",
+        "opponent_logo": "Washington.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Oregon",
+        "opponent_logo": "Oregon.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Purdue",
+        "opponent_logo": "Purdue.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Illinois",
+        "opponent_logo": "Illinois.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Maryland",
+        "opponent_logo": "Maryland.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Ohio State",
+        "opponent_logo": "Ohio_State.png",
+        "date": "11-22",
+        "home": false
+    },
+    {
+        "opponent": "Penn State",
+        "opponent_logo": "Penn_State.png",
+        "date": "11-29",
+        "home": true
+    }
+]

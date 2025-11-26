@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Millikin",
+        "opponent_logo": "Millikin.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Martin Luther",
+        "opponent_logo": "Martin_Luther.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Central College",
+        "opponent_logo": "Central_College.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Nebraska Wesleyan",
+        "opponent_logo": "Nebraska_Wesleyan.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Wartburg",
+        "opponent_logo": "Wartburg.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Buena Vista",
+        "opponent_logo": "Buena_Vista.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Simpson College (IA)",
+        "opponent_logo": "Simpson_College_(IA).png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Coe College",
+        "opponent_logo": "Coe_College.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Dubuque",
+        "opponent_logo": "Dubuque.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Loras College",
+        "opponent_logo": "Loras_College.png",
+        "date": "11-15",
+        "home": false
+    }
+]

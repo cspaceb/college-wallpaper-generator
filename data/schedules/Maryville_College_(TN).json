@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Hendrix College",
+        "opponent_logo": "Hendrix_College.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Ohio Wesleyan",
+        "opponent_logo": "Ohio_Wesleyan.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Pikeville",
+        "opponent_logo": "Pikeville.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Sewanee",
+        "opponent_logo": "Sewanee.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Centre College Kentucky",
+        "opponent_logo": "Centre_College_Kentucky.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Millsaps",
+        "opponent_logo": "Millsaps.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Southwestern University",
+        "opponent_logo": "Southwestern_University.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Rhodes College",
+        "opponent_logo": "Rhodes_College.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Berry College",
+        "opponent_logo": "Berry_College.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Trinity University TX",
+        "opponent_logo": "Trinity_University_TX.png",
+        "date": "11-15",
+        "home": true
+    }
+]

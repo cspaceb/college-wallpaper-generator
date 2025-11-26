@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Miami",
+        "opponent_logo": "Miami.png",
+        "date": "08-31",
+        "home": false
+    },
+    {
+        "opponent": "Texas A&M",
+        "opponent_logo": "Texas_AandM.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Purdue",
+        "opponent_logo": "Purdue.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Arkansas",
+        "opponent_logo": "Arkansas.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Boise State",
+        "opponent_logo": "Boise_State.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "NC State",
+        "opponent_logo": "NC_State.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "USC",
+        "opponent_logo": "USC.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Boston College",
+        "opponent_logo": "Boston_College.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Navy",
+        "opponent_logo": "Navy.png",
+        "date": "11-09",
+        "home": true
+    },
+    {
+        "opponent": "Pittsburgh",
+        "opponent_logo": "Pittsburgh.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Syracuse",
+        "opponent_logo": "Syracuse.png",
+        "date": "11-22",
+        "home": true
+    },
+    {
+        "opponent": "Stanford",
+        "opponent_logo": "Stanford.png",
+        "date": "11-30",
+        "home": false
+    }
+]

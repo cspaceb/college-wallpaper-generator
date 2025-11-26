@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Memphis",
+        "opponent_logo": "Memphis.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Tennessee Tech",
+        "opponent_logo": "Tennessee_Tech.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Stetson",
+        "opponent_logo": "Stetson.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Tarleton State",
+        "opponent_logo": "Tarleton_State.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "The Citadel",
+        "opponent_logo": "The_Citadel.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "VMI",
+        "opponent_logo": "VMI.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "East Tennessee State",
+        "opponent_logo": "East_Tennessee_State.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Samford",
+        "opponent_logo": "Samford.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Western Carolina",
+        "opponent_logo": "Western_Carolina.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Furman",
+        "opponent_logo": "Furman.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Mercer",
+        "opponent_logo": "Mercer.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Wofford",
+        "opponent_logo": "Wofford.png",
+        "date": "11-22",
+        "home": false
+    }
+]

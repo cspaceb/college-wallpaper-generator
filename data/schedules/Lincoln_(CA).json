@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Lincoln (MO)",
+        "opponent_logo": "Lincoln_(MO).png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Texas A&M-Kingsville",
+        "opponent_logo": "Texas_AandM_Kingsville.png",
+        "date": "09-07",
+        "home": false
+    },
+    {
+        "opponent": "Arkansas-Pine Bluff",
+        "opponent_logo": "Arkansas_Pine_Bluff.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Idaho State",
+        "opponent_logo": "Idaho_State.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Davenport",
+        "opponent_logo": "Davenport.png",
+        "date": "09-25",
+        "home": false
+    },
+    {
+        "opponent": "West Alabama",
+        "opponent_logo": "West_Alabama.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Alcorn State",
+        "opponent_logo": "Alcorn_State.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Mississippi Valley State",
+        "opponent_logo": "Mississippi_Valley_State.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Prairie View A&M",
+        "opponent_logo": "Prairie_View_AandM.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Northeastern State",
+        "opponent_logo": "Northeastern_State.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "West Alabama",
+        "opponent_logo": "West_Alabama.png",
+        "date": "11-08",
+        "home": false
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Ohio State",
+        "opponent_logo": "Ohio_State.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "San Jos\u00e9 State",
+        "opponent_logo": "San_Jose_State.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "UTEP",
+        "opponent_logo": "UTEP.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Sam Houston",
+        "opponent_logo": "Sam_Houston.png",
+        "date": "09-21",
+        "home": true
+    },
+    {
+        "opponent": "Florida",
+        "opponent_logo": "Florida.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Oklahoma",
+        "opponent_logo": "Oklahoma.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Kentucky",
+        "opponent_logo": "Kentucky.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Mississippi State",
+        "opponent_logo": "Mississippi_State.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Vanderbilt",
+        "opponent_logo": "Vanderbilt.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Georgia",
+        "opponent_logo": "Georgia.png",
+        "date": "11-16",
+        "home": false
+    },
+    {
+        "opponent": "Arkansas",
+        "opponent_logo": "Arkansas.png",
+        "date": "11-22",
+        "home": true
+    },
+    {
+        "opponent": "Texas A&M",
+        "opponent_logo": "Texas_AandM.png",
+        "date": "11-29",
+        "home": true
+    }
+]

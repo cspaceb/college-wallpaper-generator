@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "West Virginia State",
+        "opponent_logo": "West_Virginia_State.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Mars Hill",
+        "opponent_logo": "Mars_Hill.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Lenoir-Rhyne",
+        "opponent_logo": "Lenoir_Rhyne.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Wingate",
+        "opponent_logo": "Wingate.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Emory & Henry College",
+        "opponent_logo": "Emory_and_Henry_College.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Anderson (Sc)",
+        "opponent_logo": "Anderson_(Sc).png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "UVA Wise",
+        "opponent_logo": "UVA_Wise.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Catawba",
+        "opponent_logo": "Catawba.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Newberry",
+        "opponent_logo": "Newberry.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Greeneville",
+        "opponent_logo": "Greeneville.png",
+        "date": "11-15",
+        "home": true
+    }
+]

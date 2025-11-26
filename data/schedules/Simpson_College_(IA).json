@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Augustana (IL)",
+        "opponent_logo": "Augustana_(IL).png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Crown College",
+        "opponent_logo": "Crown_College.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Wartburg",
+        "opponent_logo": "Wartburg.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Buena Vista",
+        "opponent_logo": "Buena_Vista.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Coe College",
+        "opponent_logo": "Coe_College.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Luther",
+        "opponent_logo": "Luther.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Dubuque",
+        "opponent_logo": "Dubuque.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Loras College",
+        "opponent_logo": "Loras_College.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Central College",
+        "opponent_logo": "Central_College.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Nebraska Wesleyan",
+        "opponent_logo": "Nebraska_Wesleyan.png",
+        "date": "11-15",
+        "home": false
+    }
+]

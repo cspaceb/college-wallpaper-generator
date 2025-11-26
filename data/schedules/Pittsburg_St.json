@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Ferris State",
+        "opponent_logo": "Ferris_State.png",
+        "date": "08-28",
+        "home": false
+    },
+    {
+        "opponent": "Central Oklahoma",
+        "opponent_logo": "Central_Oklahoma.png",
+        "date": "09-07",
+        "home": false
+    },
+    {
+        "opponent": "Grand Valley State University",
+        "opponent_logo": "Grand_Valley_State_University.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Fort Hays State",
+        "opponent_logo": "Fort_Hays_State.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Emporia State University",
+        "opponent_logo": "Emporia_State_University.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Nebraska-Kearney",
+        "opponent_logo": "Nebraska_Kearney.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Washburn",
+        "opponent_logo": "Washburn.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Missouri Western",
+        "opponent_logo": "Missouri_Western.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Missouri Southern State",
+        "opponent_logo": "Missouri_Southern_State.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Central Missouri",
+        "opponent_logo": "Central_Missouri.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Northwest Missouri St",
+        "opponent_logo": "Northwest_Missouri_St.png",
+        "date": "11-15",
+        "home": true
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Marietta",
+        "opponent_logo": "Marietta.png",
+        "date": "09-04",
+        "home": true
+    },
+    {
+        "opponent": "Franklin & Marshall",
+        "opponent_logo": "Franklin_and_Marshall.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Case Western Reserve",
+        "opponent_logo": "Case_Western_Reserve.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Bethany (WV)",
+        "opponent_logo": "Bethany_(WV).png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Washington & Jefferson",
+        "opponent_logo": "Washington_and_Jefferson.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Thiel",
+        "opponent_logo": "Thiel.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Grove City College",
+        "opponent_logo": "Grove_City_College.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Allegheny",
+        "opponent_logo": "Allegheny.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Hiram College",
+        "opponent_logo": "Hiram_College.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Saint Vincent",
+        "opponent_logo": "Saint_Vincent.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Mount St. Joseph",
+        "opponent_logo": "Mount_St_Joseph.png",
+        "date": "11-22",
+        "home": true
+    }
+]

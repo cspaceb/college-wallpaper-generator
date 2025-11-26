@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Louisville",
+        "opponent_logo": "Louisville.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Houston Christian",
+        "opponent_logo": "Houston_Christian.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Marshall",
+        "opponent_logo": "Marshall.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "West Georgia",
+        "opponent_logo": "West_Georgia.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Nicholls",
+        "opponent_logo": "Nicholls.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Austin Peay",
+        "opponent_logo": "Austin_Peay.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "North Alabama",
+        "opponent_logo": "North_Alabama.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Tarleton State",
+        "opponent_logo": "Tarleton_State.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Central Arkansas",
+        "opponent_logo": "Central_Arkansas.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Southern Utah",
+        "opponent_logo": "Southern_Utah.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Abilene Christian",
+        "opponent_logo": "Abilene_Christian.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Utah Tech",
+        "opponent_logo": "Utah_Tech.png",
+        "date": "11-22",
+        "home": false
+    }
+]

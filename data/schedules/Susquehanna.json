@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Union (NY)",
+        "opponent_logo": "Union_(NY).png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Bridgewater (VA)",
+        "opponent_logo": "Bridgewater_(VA).png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Johns Hopkins University",
+        "opponent_logo": "Johns_Hopkins_University.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Christopher Newport",
+        "opponent_logo": "Christopher_Newport.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Lycoming",
+        "opponent_logo": "Lycoming.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Juniata College",
+        "opponent_logo": "Juniata_College.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Catholic",
+        "opponent_logo": "Catholic.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Western Connecticut St",
+        "opponent_logo": "Western_Connecticut_St.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Wilkes",
+        "opponent_logo": "Wilkes.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Moravian",
+        "opponent_logo": "Moravian.png",
+        "date": "11-15",
+        "home": false
+    }
+]

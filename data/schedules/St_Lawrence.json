@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Norwich",
+        "opponent_logo": "Norwich.png",
+        "date": "09-05",
+        "home": true
+    },
+    {
+        "opponent": "St John Fisher University",
+        "opponent_logo": "St_John_Fisher_University.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Alfred University",
+        "opponent_logo": "Alfred_University.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Union (NY)",
+        "opponent_logo": "Union_(NY).png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Hilbert College",
+        "opponent_logo": "Hilbert_College.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Ithaca College",
+        "opponent_logo": "Ithaca_College.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Hobart College",
+        "opponent_logo": "Hobart_College.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Rensselaer",
+        "opponent_logo": "Rensselaer.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Buffalo State",
+        "opponent_logo": "Buffalo_State.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "University of Rochester (NY)",
+        "opponent_logo": "University_of_Rochester_(NY).png",
+        "date": "11-15",
+        "home": true
+    }
+]

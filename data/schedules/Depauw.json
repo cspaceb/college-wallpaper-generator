@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Rose-Hulman",
+        "opponent_logo": "Rose_Hulman.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Centre College Kentucky",
+        "opponent_logo": "Centre_College_Kentucky.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Kenyon",
+        "opponent_logo": "Kenyon.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Wittenberg",
+        "opponent_logo": "Wittenberg.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Oberlin",
+        "opponent_logo": "Oberlin.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "John Carroll University",
+        "opponent_logo": "John_Carroll_University.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Denison University",
+        "opponent_logo": "Denison_University.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Ohio Wesleyan",
+        "opponent_logo": "Ohio_Wesleyan.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Wooster",
+        "opponent_logo": "Wooster.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Wabash College",
+        "opponent_logo": "Wabash_College.png",
+        "date": "11-15",
+        "home": false
+    }
+]

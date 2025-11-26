@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Carnegie Mellon",
+        "opponent_logo": "Carnegie_Mellon.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Cornell College (IA)",
+        "opponent_logo": "Cornell_College_(IA).png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Illinois College",
+        "opponent_logo": "Illinois_College.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Knox College",
+        "opponent_logo": "Knox_College.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Lawrence University",
+        "opponent_logo": "Lawrence_University.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Ripon",
+        "opponent_logo": "Ripon.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Grinnell",
+        "opponent_logo": "Grinnell.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Monmouth (IL)",
+        "opponent_logo": "Monmouth_(IL).png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Beloit",
+        "opponent_logo": "Beloit.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Lake Forest College",
+        "opponent_logo": "Lake_Forest_College.png",
+        "date": "11-15",
+        "home": false
+    }
+]

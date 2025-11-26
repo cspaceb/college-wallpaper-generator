@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Oklahoma State",
+        "opponent_logo": "Oklahoma_State.png",
+        "date": "08-28",
+        "home": false
+    },
+    {
+        "opponent": "UTEP",
+        "opponent_logo": "UTEP.png",
+        "date": "09-07",
+        "home": false
+    },
+    {
+        "opponent": "Southern Illinois",
+        "opponent_logo": "Southern_Illinois.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Missouri State",
+        "opponent_logo": "Missouri_State.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Southeast Missouri State",
+        "opponent_logo": "Southeast_Missouri_State.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Lindenwood",
+        "opponent_logo": "Lindenwood.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Western Illinois",
+        "opponent_logo": "Western_Illinois.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Gardner-Webb",
+        "opponent_logo": "Gardner_Webb.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Eastern Illinois",
+        "opponent_logo": "Eastern_Illinois.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Tennessee State",
+        "opponent_logo": "Tennessee_State.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Charleston Southern",
+        "opponent_logo": "Charleston_Southern.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Tennessee Tech",
+        "opponent_logo": "Tennessee_Tech.png",
+        "date": "11-22",
+        "home": false
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Southwestern Oklahoma State",
+        "opponent_logo": "Southwestern_Oklahoma_State.png",
+        "date": "09-04",
+        "home": false
+    },
+    {
+        "opponent": "Northwestern Oklahoma State",
+        "opponent_logo": "Northwestern_Oklahoma_State.png",
+        "date": "09-12",
+        "home": true
+    },
+    {
+        "opponent": "Ouachita Baptist",
+        "opponent_logo": "Ouachita_Baptist.png",
+        "date": "09-21",
+        "home": false
+    },
+    {
+        "opponent": "Arkansas-Monticello",
+        "opponent_logo": "Arkansas_Monticello.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Southeastern Oklahoma State",
+        "opponent_logo": "Southeastern_Oklahoma_State.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "East Central (OK)",
+        "opponent_logo": "East_Central_(OK).png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Southern Arkansas",
+        "opponent_logo": "Southern_Arkansas.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Henderson State",
+        "opponent_logo": "Henderson_State.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Southern Nazarene",
+        "opponent_logo": "Southern_Nazarene.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Oklahoma Baptist",
+        "opponent_logo": "Oklahoma_Baptist.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Harding University",
+        "opponent_logo": "Harding_University.png",
+        "date": "11-15",
+        "home": true
+    }
+]

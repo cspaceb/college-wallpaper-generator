@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Virginia Tech",
+        "opponent_logo": "Virginia_Tech.png",
+        "date": "08-31",
+        "home": true
+    },
+    {
+        "opponent": "South Carolina State",
+        "opponent_logo": "South_Carolina_State.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Vanderbilt",
+        "opponent_logo": "Vanderbilt.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Missouri",
+        "opponent_logo": "Missouri.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Kentucky",
+        "opponent_logo": "Kentucky.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "LSU",
+        "opponent_logo": "LSU.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Oklahoma",
+        "opponent_logo": "Oklahoma.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Alabama",
+        "opponent_logo": "Alabama.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Ole Miss",
+        "opponent_logo": "Ole_Miss.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Texas A&M",
+        "opponent_logo": "Texas_AandM.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Coastal Carolina",
+        "opponent_logo": "Coastal_Carolina.png",
+        "date": "11-22",
+        "home": true
+    },
+    {
+        "opponent": "Clemson",
+        "opponent_logo": "Clemson.png",
+        "date": "11-29",
+        "home": true
+    }
+]

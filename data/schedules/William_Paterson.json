@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Western Connecticut St",
+        "opponent_logo": "Western_Connecticut_St.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Salve Regina",
+        "opponent_logo": "Salve_Regina.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Moravian",
+        "opponent_logo": "Moravian.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Castleton",
+        "opponent_logo": "Castleton.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "College Of New Jersey",
+        "opponent_logo": "College_Of_New_Jersey.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Rowan",
+        "opponent_logo": "Rowan.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Christopher Newport",
+        "opponent_logo": "Christopher_Newport.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Salisbury",
+        "opponent_logo": "Salisbury.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Kean",
+        "opponent_logo": "Kean.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Montclair State",
+        "opponent_logo": "Montclair_State.png",
+        "date": "11-15",
+        "home": true
+    }
+]

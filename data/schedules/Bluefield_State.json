@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Greeneville",
+        "opponent_logo": "Greeneville.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Concord University",
+        "opponent_logo": "Concord_University.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Wingate",
+        "opponent_logo": "Wingate.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Johnson C Smith",
+        "opponent_logo": "Johnson_C_Smith.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Shaw",
+        "opponent_logo": "Shaw.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Lincoln (PA)",
+        "opponent_logo": "Lincoln_(PA).png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Bowie State",
+        "opponent_logo": "Bowie_State.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Virginia St",
+        "opponent_logo": "Virginia_St.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Virginia Union",
+        "opponent_logo": "Virginia_Union.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Elizabeth City State",
+        "opponent_logo": "Elizabeth_City_State.png",
+        "date": "11-08",
+        "home": false
+    }
+]

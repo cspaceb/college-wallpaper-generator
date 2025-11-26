@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Rhodes College",
+        "opponent_logo": "Rhodes_College.png",
+        "date": "09-07",
+        "home": true
+    },
+    {
+        "opponent": "Carroll University (WI)",
+        "opponent_logo": "Carroll_University_(WI).png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "North Central College",
+        "opponent_logo": "North_Central_College.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Illinois Wesleyan",
+        "opponent_logo": "Illinois_Wesleyan.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Carthage",
+        "opponent_logo": "Carthage.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Elmhurst",
+        "opponent_logo": "Elmhurst.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Wheaton",
+        "opponent_logo": "Wheaton.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Millikin",
+        "opponent_logo": "Millikin.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "North Park",
+        "opponent_logo": "North_Park.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Augustana (IL)",
+        "opponent_logo": "Augustana_(IL).png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Wisconsin-Stout",
+        "opponent_logo": "Wisconsin_Stout.png",
+        "date": "11-22",
+        "home": false
+    }
+]

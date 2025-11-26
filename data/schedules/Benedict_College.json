@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Fayetteville State",
+        "opponent_logo": "Fayetteville_State.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Central State (OH)",
+        "opponent_logo": "Central_State_(OH).png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Tuskegee",
+        "opponent_logo": "Tuskegee.png",
+        "date": "09-18",
+        "home": true
+    },
+    {
+        "opponent": "Clark Atlanta",
+        "opponent_logo": "Clark_Atlanta.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Allen",
+        "opponent_logo": "Allen.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Fort Valley State",
+        "opponent_logo": "Fort_Valley_State.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Edward Waters",
+        "opponent_logo": "Edward_Waters.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Albany State GA",
+        "opponent_logo": "Albany_State_GA.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Virginia University Of Lynchburg",
+        "opponent_logo": "Virginia_University_Of_Lynchburg.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Savannah St",
+        "opponent_logo": "Savannah_St.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Albany State GA",
+        "opponent_logo": "Albany_State_GA.png",
+        "date": "11-15",
+        "home": false
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Northern Iowa",
+        "opponent_logo": "Northern_Iowa.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Truman State",
+        "opponent_logo": "Truman_State.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Hanover College",
+        "opponent_logo": "Hanover_College.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Weber State",
+        "opponent_logo": "Weber_State.png",
+        "date": "09-21",
+        "home": false
+    },
+    {
+        "opponent": "Marist",
+        "opponent_logo": "Marist.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "St. Thomas (MN)",
+        "opponent_logo": "St_Thomas_(MN).png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Presbyterian",
+        "opponent_logo": "Presbyterian.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Dayton",
+        "opponent_logo": "Dayton.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Drake",
+        "opponent_logo": "Drake.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Morehead State",
+        "opponent_logo": "Morehead_State.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "San Diego",
+        "opponent_logo": "San_Diego.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Valparaiso",
+        "opponent_logo": "Valparaiso.png",
+        "date": "11-22",
+        "home": true
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Slippery Rock",
+        "opponent_logo": "Slippery_Rock.png",
+        "date": "09-05",
+        "home": true
+    },
+    {
+        "opponent": "Pace",
+        "opponent_logo": "Pace.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Bentley",
+        "opponent_logo": "Bentley.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Assumption",
+        "opponent_logo": "Assumption.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "American International",
+        "opponent_logo": "American_International.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "St. Anselm",
+        "opponent_logo": "St_Anselm.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Kentucky State",
+        "opponent_logo": "Kentucky_State.png",
+        "date": "10-17",
+        "home": false
+    },
+    {
+        "opponent": "Post University",
+        "opponent_logo": "Post_University.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Southern Connecticut State",
+        "opponent_logo": "Southern_Connecticut_State.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Pace",
+        "opponent_logo": "Pace.png",
+        "date": "11-15",
+        "home": false
+    }
+]

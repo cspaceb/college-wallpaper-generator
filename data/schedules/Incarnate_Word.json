@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Nicholls",
+        "opponent_logo": "Nicholls.png",
+        "date": "08-23",
+        "home": false
+    },
+    {
+        "opponent": "Eastern Washington",
+        "opponent_logo": "Eastern_Washington.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "UTSA",
+        "opponent_logo": "UTSA.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Northern Arizona",
+        "opponent_logo": "Northern_Arizona.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Abilene Christian",
+        "opponent_logo": "Abilene_Christian.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Stephen F. Austin",
+        "opponent_logo": "Stephen_F_Austin.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "East Texas A&M",
+        "opponent_logo": "East_Texas_AandM.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "UT Rio Grande Valley",
+        "opponent_logo": "UT_Rio_Grande_Valley.png",
+        "date": "10-26",
+        "home": false
+    },
+    {
+        "opponent": "Lamar",
+        "opponent_logo": "Lamar.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Northwestern State",
+        "opponent_logo": "Northwestern_State.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "SE Louisiana",
+        "opponent_logo": "SE_Louisiana.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Houston Christian",
+        "opponent_logo": "Houston_Christian.png",
+        "date": "11-22",
+        "home": false
+    }
+]

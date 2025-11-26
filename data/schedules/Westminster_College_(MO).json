@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Manchester",
+        "opponent_logo": "Manchester.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Eureka College",
+        "opponent_logo": "Eureka_College.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "LYONCOLL",
+        "opponent_logo": "LYONCOLL.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Greenville",
+        "opponent_logo": "Greenville.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Minnesota Morris",
+        "opponent_logo": "Minnesota_Morris.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Crown College",
+        "opponent_logo": "Crown_College.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Martin Luther",
+        "opponent_logo": "Martin_Luther.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Greenville",
+        "opponent_logo": "Greenville.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Minnesota Morris",
+        "opponent_logo": "Minnesota_Morris.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Northwestern (MN)",
+        "opponent_logo": "Northwestern_(MN).png",
+        "date": "11-15",
+        "home": false
+    }
+]

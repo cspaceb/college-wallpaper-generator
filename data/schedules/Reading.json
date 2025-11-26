@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Ursinus",
+        "opponent_logo": "Ursinus.png",
+        "date": "09-05",
+        "home": true
+    },
+    {
+        "opponent": "Eastern University",
+        "opponent_logo": "Eastern_University.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Stevenson",
+        "opponent_logo": "Stevenson.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Misericordia",
+        "opponent_logo": "Misericordia.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Albright",
+        "opponent_logo": "Albright.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Kings College (PA)",
+        "opponent_logo": "Kings_College_(PA).png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Widener",
+        "opponent_logo": "Widener.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Delaware Valley",
+        "opponent_logo": "Delaware_Valley.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Lebanon Valley",
+        "opponent_logo": "Lebanon_Valley.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "FDU-Florham",
+        "opponent_logo": "FDU_Florham.png",
+        "date": "11-15",
+        "home": false
+    }
+]

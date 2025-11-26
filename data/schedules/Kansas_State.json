@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Iowa State",
+        "opponent_logo": "Iowa_State.png",
+        "date": "08-23",
+        "home": true
+    },
+    {
+        "opponent": "North Dakota",
+        "opponent_logo": "North_Dakota.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Army",
+        "opponent_logo": "Army.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Arizona",
+        "opponent_logo": "Arizona.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "UCF",
+        "opponent_logo": "UCF.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Baylor",
+        "opponent_logo": "Baylor.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "TCU",
+        "opponent_logo": "TCU.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Kansas",
+        "opponent_logo": "Kansas.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Texas Tech",
+        "opponent_logo": "Texas_Tech.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Oklahoma State",
+        "opponent_logo": "Oklahoma_State.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Utah",
+        "opponent_logo": "Utah.png",
+        "date": "11-22",
+        "home": false
+    },
+    {
+        "opponent": "Colorado",
+        "opponent_logo": "Colorado.png",
+        "date": "11-29",
+        "home": true
+    }
+]

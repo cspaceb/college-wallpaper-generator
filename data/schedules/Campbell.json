@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Rhode Island",
+        "opponent_logo": "Rhode_Island.png",
+        "date": "08-29",
+        "home": false
+    },
+    {
+        "opponent": "East Carolina",
+        "opponent_logo": "East_Carolina.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Furman",
+        "opponent_logo": "Furman.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Bryant",
+        "opponent_logo": "Bryant.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Western Carolina",
+        "opponent_logo": "Western_Carolina.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "NC State",
+        "opponent_logo": "NC_State.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Hampton",
+        "opponent_logo": "Hampton.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "New Hampshire",
+        "opponent_logo": "New_Hampshire.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "North Carolina A&T",
+        "opponent_logo": "North_Carolina_AandT.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "William & Mary",
+        "opponent_logo": "William_and_Mary.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Elon",
+        "opponent_logo": "Elon.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Towson",
+        "opponent_logo": "Towson.png",
+        "date": "11-22",
+        "home": false
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Pacific (OR)",
+        "opponent_logo": "Pacific_(OR).png",
+        "date": "09-05",
+        "home": true
+    },
+    {
+        "opponent": "Texas Lutheran",
+        "opponent_logo": "Texas_Lutheran.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Wayland Baptist",
+        "opponent_logo": "Wayland_Baptist.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "McMurry",
+        "opponent_logo": "McMurry.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Hardin-Simmons",
+        "opponent_logo": "Hardin_Simmons.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "East Texas Baptist University",
+        "opponent_logo": "East_Texas_Baptist_University.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Mary Hardin-Baylor",
+        "opponent_logo": "Mary_Hardin_Baylor.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Hardin-Simmons",
+        "opponent_logo": "Hardin_Simmons.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "East Texas Baptist University",
+        "opponent_logo": "East_Texas_Baptist_University.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Mary Hardin-Baylor",
+        "opponent_logo": "Mary_Hardin_Baylor.png",
+        "date": "11-15",
+        "home": true
+    }
+]

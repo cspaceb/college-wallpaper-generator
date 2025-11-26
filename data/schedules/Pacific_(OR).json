@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Howard Payne",
+        "opponent_logo": "Howard_Payne.png",
+        "date": "09-05",
+        "home": false
+    },
+    {
+        "opponent": "Willamette",
+        "opponent_logo": "Willamette.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Wisconsin-Stevens Pt",
+        "opponent_logo": "Wisconsin_Stevens_Pt.png",
+        "date": "09-21",
+        "home": true
+    },
+    {
+        "opponent": "Whitworth",
+        "opponent_logo": "Whitworth.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Linfield College",
+        "opponent_logo": "Linfield_College.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Pacific Lutheran",
+        "opponent_logo": "Pacific_Lutheran.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Willamette",
+        "opponent_logo": "Willamette.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Puget Sound",
+        "opponent_logo": "Puget_Sound.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "NEWBERG",
+        "opponent_logo": "NEWBERG.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Lewis & Clark College",
+        "opponent_logo": "Lewis_and_Clark_College.png",
+        "date": "11-15",
+        "home": true
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Bowling Green",
+        "opponent_logo": "Bowling_Green.png",
+        "date": "08-28",
+        "home": false
+    },
+    {
+        "opponent": "Stonehill",
+        "opponent_logo": "Stonehill.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Georgetown",
+        "opponent_logo": "Georgetown.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Columbia",
+        "opponent_logo": "Columbia.png",
+        "date": "09-19",
+        "home": true
+    },
+    {
+        "opponent": "Princeton",
+        "opponent_logo": "Princeton.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Fordham",
+        "opponent_logo": "Fordham.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Bucknell",
+        "opponent_logo": "Bucknell.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Oregon State",
+        "opponent_logo": "Oregon_State.png",
+        "date": "10-19",
+        "home": false
+    },
+    {
+        "opponent": "Holy Cross",
+        "opponent_logo": "Holy_Cross.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Colgate",
+        "opponent_logo": "Colgate.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Richmond",
+        "opponent_logo": "Richmond.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Lehigh",
+        "opponent_logo": "Lehigh.png",
+        "date": "11-22",
+        "home": true
+    }
+]

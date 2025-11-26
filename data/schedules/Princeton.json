@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "San Diego",
+        "opponent_logo": "San_Diego.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Lafayette",
+        "opponent_logo": "Lafayette.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Columbia",
+        "opponent_logo": "Columbia.png",
+        "date": "10-03",
+        "home": true
+    },
+    {
+        "opponent": "Mercer",
+        "opponent_logo": "Mercer.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Brown",
+        "opponent_logo": "Brown.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Harvard",
+        "opponent_logo": "Harvard.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Cornell",
+        "opponent_logo": "Cornell.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Dartmouth",
+        "opponent_logo": "Dartmouth.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Yale",
+        "opponent_logo": "Yale.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Pennsylvania",
+        "opponent_logo": "Pennsylvania.png",
+        "date": "11-22",
+        "home": false
+    }
+]

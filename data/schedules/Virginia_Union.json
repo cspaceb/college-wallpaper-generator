@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Miles College",
+        "opponent_logo": "Miles_College.png",
+        "date": "08-31",
+        "home": true
+    },
+    {
+        "opponent": "Edward Waters",
+        "opponent_logo": "Edward_Waters.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Johnson C Smith",
+        "opponent_logo": "Johnson_C_Smith.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Shaw",
+        "opponent_logo": "Shaw.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Winston-Salem",
+        "opponent_logo": "Winston_Salem.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Elizabeth City State",
+        "opponent_logo": "Elizabeth_City_State.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Lincoln (PA)",
+        "opponent_logo": "Lincoln_(PA).png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Bowie State",
+        "opponent_logo": "Bowie_State.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Bluefield State",
+        "opponent_logo": "Bluefield_State.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Virginia St",
+        "opponent_logo": "Virginia_St.png",
+        "date": "11-08",
+        "home": true
+    }
+]

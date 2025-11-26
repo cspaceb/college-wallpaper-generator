@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Middle Tennessee",
+        "opponent_logo": "Middle_Tennessee.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Georgia",
+        "opponent_logo": "Georgia.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Morehead State",
+        "opponent_logo": "Morehead_State.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Abilene Christian",
+        "opponent_logo": "Abilene_Christian.png",
+        "date": "09-21",
+        "home": false
+    },
+    {
+        "opponent": "Utah Tech",
+        "opponent_logo": "Utah_Tech.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "West Georgia",
+        "opponent_logo": "West_Georgia.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Eastern Kentucky",
+        "opponent_logo": "Eastern_Kentucky.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "North Alabama",
+        "opponent_logo": "North_Alabama.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Southern Utah",
+        "opponent_logo": "Southern_Utah.png",
+        "date": "11-02",
+        "home": false
+    },
+    {
+        "opponent": "Central Arkansas",
+        "opponent_logo": "Central_Arkansas.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Samford",
+        "opponent_logo": "Samford.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Tarleton State",
+        "opponent_logo": "Tarleton_State.png",
+        "date": "11-22",
+        "home": false
+    }
+]

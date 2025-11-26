@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Concordia University St Paul",
+        "opponent_logo": "Concordia_University_St_Paul.png",
+        "date": "08-28",
+        "home": true
+    },
+    {
+        "opponent": "Roosevelt",
+        "opponent_logo": "Roosevelt.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Lincoln (MO)",
+        "opponent_logo": "Lincoln_(MO).png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Wayne State (MI)",
+        "opponent_logo": "Wayne_State_(MI).png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "McKendree",
+        "opponent_logo": "McKendree.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "William Jewell",
+        "opponent_logo": "William_Jewell.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Truman State",
+        "opponent_logo": "Truman_State.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Missouri S&T",
+        "opponent_logo": "Missouri_SandT.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Indianapolis",
+        "opponent_logo": "Indianapolis.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Upper Iowa University",
+        "opponent_logo": "Upper_Iowa_University.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Southwest Baptist",
+        "opponent_logo": "Southwest_Baptist.png",
+        "date": "11-15",
+        "home": true
+    }
+]

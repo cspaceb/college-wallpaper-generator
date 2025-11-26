@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "West Alabama",
+        "opponent_logo": "West_Alabama.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Clark Atlanta",
+        "opponent_logo": "Clark_Atlanta.png",
+        "date": "09-12",
+        "home": false
+    },
+    {
+        "opponent": "Delta State",
+        "opponent_logo": "Delta_State.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Tuskegee",
+        "opponent_logo": "Tuskegee.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Central State (OH)",
+        "opponent_logo": "Central_State_(OH).png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Benedict College",
+        "opponent_logo": "Benedict_College.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Savannah St",
+        "opponent_logo": "Savannah_St.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Lane College",
+        "opponent_logo": "Lane_College.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Miles College",
+        "opponent_logo": "Miles_College.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Albany State GA",
+        "opponent_logo": "Albany_State_GA.png",
+        "date": "11-08",
+        "home": true
+    }
+]

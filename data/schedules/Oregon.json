@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Montana State",
+        "opponent_logo": "Montana_State.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Oklahoma State",
+        "opponent_logo": "Oklahoma_State.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Northwestern",
+        "opponent_logo": "Northwestern.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Oregon State",
+        "opponent_logo": "Oregon_State.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Penn State",
+        "opponent_logo": "Penn_State.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Indiana",
+        "opponent_logo": "Indiana.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Rutgers",
+        "opponent_logo": "Rutgers.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Wisconsin",
+        "opponent_logo": "Wisconsin.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Iowa",
+        "opponent_logo": "Iowa.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Minnesota",
+        "opponent_logo": "Minnesota.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "USC",
+        "opponent_logo": "USC.png",
+        "date": "11-22",
+        "home": true
+    },
+    {
+        "opponent": "Washington",
+        "opponent_logo": "Washington.png",
+        "date": "11-29",
+        "home": false
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Berry College",
+        "opponent_logo": "Berry_College.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Hendrix College",
+        "opponent_logo": "Hendrix_College.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "McMurry",
+        "opponent_logo": "McMurry.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Methodist",
+        "opponent_logo": "Methodist.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Greensboro College",
+        "opponent_logo": "Greensboro_College.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "North Carolina Wesleyan",
+        "opponent_logo": "North_Carolina_Wesleyan.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Lagrange College",
+        "opponent_logo": "Lagrange_College.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Brevard College",
+        "opponent_logo": "Brevard_College.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Southern Virginia",
+        "opponent_logo": "Southern_Virginia.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Belhaven",
+        "opponent_logo": "Belhaven.png",
+        "date": "11-15",
+        "home": false
+    }
+]

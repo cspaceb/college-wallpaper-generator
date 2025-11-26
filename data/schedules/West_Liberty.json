@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Walsh",
+        "opponent_logo": "Walsh.png",
+        "date": "08-28",
+        "home": false
+    },
+    {
+        "opponent": "Seton Hill",
+        "opponent_logo": "Seton_Hill.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Robert Morris",
+        "opponent_logo": "Robert_Morris.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Frostburg State",
+        "opponent_logo": "Frostburg_State.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Concord University",
+        "opponent_logo": "Concord_University.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "West Virginia State",
+        "opponent_logo": "West_Virginia_State.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "West Virginia Wesleyan",
+        "opponent_logo": "West_Virginia_Wesleyan.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Glenville State",
+        "opponent_logo": "Glenville_State.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Fairmont State",
+        "opponent_logo": "Fairmont_State.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "University Of Charleston (WV)",
+        "opponent_logo": "University_Of_Charleston_(WV).png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Wheeling",
+        "opponent_logo": "Wheeling.png",
+        "date": "11-15",
+        "home": true
+    }
+]

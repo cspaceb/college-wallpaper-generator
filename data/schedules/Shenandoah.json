@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Methodist",
+        "opponent_logo": "Methodist.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Geneva",
+        "opponent_logo": "Geneva.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Hampden-Sydney",
+        "opponent_logo": "Hampden_Sydney.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Bridgewater (VA)",
+        "opponent_logo": "Bridgewater_(VA).png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Guilford College",
+        "opponent_logo": "Guilford_College.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Roanoke College",
+        "opponent_logo": "Roanoke_College.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Averett",
+        "opponent_logo": "Averett.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Randolph-Macon",
+        "opponent_logo": "Randolph_Macon.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Gallaudet",
+        "opponent_logo": "Gallaudet.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Washington and Lee",
+        "opponent_logo": "Washington_and_Lee.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Wilkes",
+        "opponent_logo": "Wilkes.png",
+        "date": "11-22",
+        "home": true
+    }
+]

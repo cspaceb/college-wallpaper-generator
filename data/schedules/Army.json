@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Tarleton State",
+        "opponent_logo": "Tarleton_State.png",
+        "date": "08-29",
+        "home": true
+    },
+    {
+        "opponent": "Kansas State",
+        "opponent_logo": "Kansas_State.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "North Texas",
+        "opponent_logo": "North_Texas.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "East Carolina",
+        "opponent_logo": "East_Carolina.png",
+        "date": "09-25",
+        "home": false
+    },
+    {
+        "opponent": "UAB",
+        "opponent_logo": "UAB.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Charlotte",
+        "opponent_logo": "Charlotte.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Tulane",
+        "opponent_logo": "Tulane.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Air Force",
+        "opponent_logo": "Air_Force.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Temple",
+        "opponent_logo": "Temple.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Tulsa",
+        "opponent_logo": "Tulsa.png",
+        "date": "11-22",
+        "home": true
+    },
+    {
+        "opponent": "UTSA",
+        "opponent_logo": "UTSA.png",
+        "date": "11-29",
+        "home": false
+    },
+    {
+        "opponent": "Navy",
+        "opponent_logo": "Navy.png",
+        "date": "12-13",
+        "home": false
+    }
+]

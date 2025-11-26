@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Moravian",
+        "opponent_logo": "Moravian.png",
+        "date": "09-05",
+        "home": true
+    },
+    {
+        "opponent": "Endicott College",
+        "opponent_logo": "Endicott_College.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Wilkes",
+        "opponent_logo": "Wilkes.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Ursinus",
+        "opponent_logo": "Ursinus.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Franklin & Marshall",
+        "opponent_logo": "Franklin_and_Marshall.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "McDaniel College",
+        "opponent_logo": "McDaniel_College.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Carnegie Mellon",
+        "opponent_logo": "Carnegie_Mellon.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Johns Hopkins University",
+        "opponent_logo": "Johns_Hopkins_University.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Gettysburg",
+        "opponent_logo": "Gettysburg.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Dickinson (PA)",
+        "opponent_logo": "Dickinson_(PA).png",
+        "date": "11-15",
+        "home": true
+    }
+]

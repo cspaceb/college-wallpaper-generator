@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Sam Houston",
+        "opponent_logo": "Sam_Houston.png",
+        "date": "08-23",
+        "home": true
+    },
+    {
+        "opponent": "North Alabama",
+        "opponent_logo": "North_Alabama.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Toledo",
+        "opponent_logo": "Toledo.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Nevada",
+        "opponent_logo": "Nevada.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Missouri State",
+        "opponent_logo": "Missouri_State.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Delaware",
+        "opponent_logo": "Delaware.png",
+        "date": "10-03",
+        "home": false
+    },
+    {
+        "opponent": "Florida International",
+        "opponent_logo": "Florida_International.png",
+        "date": "10-15",
+        "home": true
+    },
+    {
+        "opponent": "Louisiana Tech",
+        "opponent_logo": "Louisiana_Tech.png",
+        "date": "10-21",
+        "home": false
+    },
+    {
+        "opponent": "New Mexico State",
+        "opponent_logo": "New_Mexico_State.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Middle Tennessee",
+        "opponent_logo": "Middle_Tennessee.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "LSU",
+        "opponent_logo": "LSU.png",
+        "date": "11-23",
+        "home": false
+    },
+    {
+        "opponent": "Jacksonville State",
+        "opponent_logo": "Jacksonville_State.png",
+        "date": "11-29",
+        "home": false
+    }
+]

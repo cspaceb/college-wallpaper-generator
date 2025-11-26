@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "James Madison",
+        "opponent_logo": "James_Madison.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Arizona",
+        "opponent_logo": "Arizona.png",
+        "date": "09-07",
+        "home": false
+    },
+    {
+        "opponent": "McNeese",
+        "opponent_logo": "McNeese.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Butler",
+        "opponent_logo": "Butler.png",
+        "date": "09-21",
+        "home": true
+    },
+    {
+        "opponent": "UC Davis",
+        "opponent_logo": "UC_Davis.png",
+        "date": "09-28",
+        "home": false
+    },
+    {
+        "opponent": "Sacramento State",
+        "opponent_logo": "Sacramento_State.png",
+        "date": "10-12",
+        "home": true
+    },
+    {
+        "opponent": "Portland State",
+        "opponent_logo": "Portland_State.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Eastern Washington",
+        "opponent_logo": "Eastern_Washington.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Montana",
+        "opponent_logo": "Montana.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Montana State",
+        "opponent_logo": "Montana_State.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Idaho State",
+        "opponent_logo": "Idaho_State.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Northern Arizona",
+        "opponent_logo": "Northern_Arizona.png",
+        "date": "11-22",
+        "home": true
+    }
+]

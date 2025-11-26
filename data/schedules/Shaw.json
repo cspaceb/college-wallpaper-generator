@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Albany State GA",
+        "opponent_logo": "Albany_State_GA.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Ferrum",
+        "opponent_logo": "Ferrum.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Lincoln (PA)",
+        "opponent_logo": "Lincoln_(PA).png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Virginia Union",
+        "opponent_logo": "Virginia_Union.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Bluefield State",
+        "opponent_logo": "Bluefield_State.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Winston-Salem",
+        "opponent_logo": "Winston_Salem.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Johnson C Smith",
+        "opponent_logo": "Johnson_C_Smith.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Fayetteville State",
+        "opponent_logo": "Fayetteville_State.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Livingstone",
+        "opponent_logo": "Livingstone.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Emory & Henry College",
+        "opponent_logo": "Emory_and_Henry_College.png",
+        "date": "11-08",
+        "home": false
+    }
+]

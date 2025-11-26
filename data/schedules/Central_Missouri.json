@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Delta State",
+        "opponent_logo": "Delta_State.png",
+        "date": "08-28",
+        "home": false
+    },
+    {
+        "opponent": "CSU Pueblo",
+        "opponent_logo": "CSU_Pueblo.png",
+        "date": "09-12",
+        "home": true
+    },
+    {
+        "opponent": "Missouri Western",
+        "opponent_logo": "Missouri_Western.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Missouri Southern State",
+        "opponent_logo": "Missouri_Southern_State.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Central Oklahoma",
+        "opponent_logo": "Central_Oklahoma.png",
+        "date": "10-05",
+        "home": false
+    },
+    {
+        "opponent": "Northwest Missouri St",
+        "opponent_logo": "Northwest_Missouri_St.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Washburn",
+        "opponent_logo": "Washburn.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Emporia State University",
+        "opponent_logo": "Emporia_State_University.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Fort Hays State",
+        "opponent_logo": "Fort_Hays_State.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Pittsburg St",
+        "opponent_logo": "Pittsburg_St.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Nebraska-Kearney",
+        "opponent_logo": "Nebraska_Kearney.png",
+        "date": "11-15",
+        "home": false
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Maryville College (TN)",
+        "opponent_logo": "Maryville_College_(TN).png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Huntingdon College (AL)",
+        "opponent_logo": "Huntingdon_College_(AL).png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Millsaps",
+        "opponent_logo": "Millsaps.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Rhodes College",
+        "opponent_logo": "Rhodes_College.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Austin",
+        "opponent_logo": "Austin.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Texas Lutheran",
+        "opponent_logo": "Texas_Lutheran.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "LYONCOLL",
+        "opponent_logo": "LYONCOLL.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "CENTENARY",
+        "opponent_logo": "CENTENARY.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "McMurry",
+        "opponent_logo": "McMurry.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "LYONCOLL",
+        "opponent_logo": "LYONCOLL.png",
+        "date": "11-15",
+        "home": true
+    }
+]

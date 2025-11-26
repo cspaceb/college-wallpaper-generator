@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Guilford College",
+        "opponent_logo": "Guilford_College.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Roanoke College",
+        "opponent_logo": "Roanoke_College.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Davidson",
+        "opponent_logo": "Davidson.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Southern Virginia",
+        "opponent_logo": "Southern_Virginia.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Huntingdon College (AL)",
+        "opponent_logo": "Huntingdon_College_(AL).png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Belhaven",
+        "opponent_logo": "Belhaven.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Brevard College",
+        "opponent_logo": "Brevard_College.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Lagrange College",
+        "opponent_logo": "Lagrange_College.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "North Carolina Wesleyan",
+        "opponent_logo": "North_Carolina_Wesleyan.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Methodist",
+        "opponent_logo": "Methodist.png",
+        "date": "11-15",
+        "home": true
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Abilene Christian",
+        "opponent_logo": "Abilene_Christian.png",
+        "date": "08-31",
+        "home": true
+    },
+    {
+        "opponent": "New Mexico State",
+        "opponent_logo": "New_Mexico_State.png",
+        "date": "09-07",
+        "home": false
+    },
+    {
+        "opponent": "Navy",
+        "opponent_logo": "Navy.png",
+        "date": "09-14",
+        "home": true
+    },
+    {
+        "opponent": "Oklahoma State",
+        "opponent_logo": "Oklahoma_State.png",
+        "date": "09-19",
+        "home": false
+    },
+    {
+        "opponent": "Tulane",
+        "opponent_logo": "Tulane.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Memphis",
+        "opponent_logo": "Memphis.png",
+        "date": "10-05",
+        "home": false
+    },
+    {
+        "opponent": "East Carolina",
+        "opponent_logo": "East_Carolina.png",
+        "date": "10-16",
+        "home": false
+    },
+    {
+        "opponent": "Temple",
+        "opponent_logo": "Temple.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Florida Atlantic",
+        "opponent_logo": "Florida_Atlantic.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Oregon State",
+        "opponent_logo": "Oregon_State.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Army",
+        "opponent_logo": "Army.png",
+        "date": "11-22",
+        "home": false
+    },
+    {
+        "opponent": "UAB",
+        "opponent_logo": "UAB.png",
+        "date": "11-29",
+        "home": true
+    }
+]

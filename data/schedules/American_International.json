@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Central Connecticut",
+        "opponent_logo": "Central_Connecticut.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Assumption",
+        "opponent_logo": "Assumption.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Southern Connecticut State",
+        "opponent_logo": "Southern_Connecticut_State.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Bentley",
+        "opponent_logo": "Bentley.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Franklin Pierce",
+        "opponent_logo": "Franklin_Pierce.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "St. Anselm",
+        "opponent_logo": "St_Anselm.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Assumption",
+        "opponent_logo": "Assumption.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Post University",
+        "opponent_logo": "Post_University.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Pace",
+        "opponent_logo": "Pace.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Bentley",
+        "opponent_logo": "Bentley.png",
+        "date": "11-15",
+        "home": false
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Pacific Lutheran",
+        "opponent_logo": "Pacific_Lutheran.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Puget Sound",
+        "opponent_logo": "Puget_Sound.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Redlands",
+        "opponent_logo": "Redlands.png",
+        "date": "09-28",
+        "home": false
+    },
+    {
+        "opponent": "Claremont-Mudd-Scripps College",
+        "opponent_logo": "Claremont_Mudd_Scripps_College.png",
+        "date": "10-05",
+        "home": true
+    },
+    {
+        "opponent": "La Verne",
+        "opponent_logo": "La_Verne.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Chapman",
+        "opponent_logo": "Chapman.png",
+        "date": "10-19",
+        "home": true
+    },
+    {
+        "opponent": "Redlands",
+        "opponent_logo": "Redlands.png",
+        "date": "10-26",
+        "home": true
+    },
+    {
+        "opponent": "Claremont-Mudd-Scripps College",
+        "opponent_logo": "Claremont_Mudd_Scripps_College.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Pomona Pitzer",
+        "opponent_logo": "Pomona_Pitzer.png",
+        "date": "11-09",
+        "home": false
+    },
+    {
+        "opponent": "Chapman",
+        "opponent_logo": "Chapman.png",
+        "date": "11-15",
+        "home": false
+    }
+]

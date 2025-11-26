@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Wheaton",
+        "opponent_logo": "Wheaton.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Grove City College",
+        "opponent_logo": "Grove_City_College.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Baldwin Wallace",
+        "opponent_logo": "Baldwin_Wallace.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Otterbein",
+        "opponent_logo": "Otterbein.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Wilmington (OH)",
+        "opponent_logo": "Wilmington_(OH).png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Heidelberg",
+        "opponent_logo": "Heidelberg.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Ohio Northern",
+        "opponent_logo": "Ohio_Northern.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Capital",
+        "opponent_logo": "Capital.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Marietta",
+        "opponent_logo": "Marietta.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Muskingum University",
+        "opponent_logo": "Muskingum_University.png",
+        "date": "11-15",
+        "home": true
+    }
+]

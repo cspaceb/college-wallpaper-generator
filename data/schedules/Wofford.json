@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "South Carolina State",
+        "opponent_logo": "South_Carolina_State.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Richmond",
+        "opponent_logo": "Richmond.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Mercer",
+        "opponent_logo": "Mercer.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Virginia Tech",
+        "opponent_logo": "Virginia_Tech.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Western Carolina",
+        "opponent_logo": "Western_Carolina.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Norfolk State",
+        "opponent_logo": "Norfolk_State.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Furman",
+        "opponent_logo": "Furman.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "East Tennessee State",
+        "opponent_logo": "East_Tennessee_State.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Samford",
+        "opponent_logo": "Samford.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "VMI",
+        "opponent_logo": "VMI.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "The Citadel",
+        "opponent_logo": "The_Citadel.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Chattanooga",
+        "opponent_logo": "Chattanooga.png",
+        "date": "11-22",
+        "home": true
+    }
+]

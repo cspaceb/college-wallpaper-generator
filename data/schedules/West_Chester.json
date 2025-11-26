@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Bentley",
+        "opponent_logo": "Bentley.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "PennWest California",
+        "opponent_logo": "PennWest_California.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Seton Hill",
+        "opponent_logo": "Seton_Hill.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Millersville",
+        "opponent_logo": "Millersville.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "East Stroudsburg University",
+        "opponent_logo": "East_Stroudsburg_University.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Shepherd",
+        "opponent_logo": "Shepherd.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Lock Haven University",
+        "opponent_logo": "Lock_Haven_University.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Kutztown University",
+        "opponent_logo": "Kutztown_University.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Bloomsburg",
+        "opponent_logo": "Bloomsburg.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Shippensburg",
+        "opponent_logo": "Shippensburg.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Assumption",
+        "opponent_logo": "Assumption.png",
+        "date": "11-15",
+        "home": true
+    }
+]

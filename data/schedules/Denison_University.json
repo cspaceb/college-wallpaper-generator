@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Allegheny",
+        "opponent_logo": "Allegheny.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Alma",
+        "opponent_logo": "Alma.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Wabash College",
+        "opponent_logo": "Wabash_College.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Ohio Wesleyan",
+        "opponent_logo": "Ohio_Wesleyan.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Wooster",
+        "opponent_logo": "Wooster.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Wittenberg",
+        "opponent_logo": "Wittenberg.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Depauw",
+        "opponent_logo": "Depauw.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Oberlin",
+        "opponent_logo": "Oberlin.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Kenyon",
+        "opponent_logo": "Kenyon.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "John Carroll University",
+        "opponent_logo": "John_Carroll_University.png",
+        "date": "11-15",
+        "home": true
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Ball State",
+        "opponent_logo": "Ball_State.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Southern Illinois",
+        "opponent_logo": "Southern_Illinois.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "USC",
+        "opponent_logo": "USC.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Notre Dame",
+        "opponent_logo": "Notre_Dame.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Illinois",
+        "opponent_logo": "Illinois.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Minnesota",
+        "opponent_logo": "Minnesota.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Northwestern",
+        "opponent_logo": "Northwestern.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Rutgers",
+        "opponent_logo": "Rutgers.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Michigan",
+        "opponent_logo": "Michigan.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Ohio State",
+        "opponent_logo": "Ohio_State.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Washington",
+        "opponent_logo": "Washington.png",
+        "date": "11-16",
+        "home": false
+    },
+    {
+        "opponent": "Indiana",
+        "opponent_logo": "Indiana.png",
+        "date": "11-29",
+        "home": true
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Misericordia",
+        "opponent_logo": "Misericordia.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Muhlenberg",
+        "opponent_logo": "Muhlenberg.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "SUNY Maritime",
+        "opponent_logo": "SUNY_Maritime.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Husson",
+        "opponent_logo": "Husson.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Biddeford",
+        "opponent_logo": "Biddeford.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Western New England",
+        "opponent_logo": "Western_New_England.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Nichols College",
+        "opponent_logo": "Nichols_College.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Maine Maritime",
+        "opponent_logo": "Maine_Maritime.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "New England College",
+        "opponent_logo": "New_England_College.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Curry College",
+        "opponent_logo": "Curry_College.png",
+        "date": "11-15",
+        "home": true
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Tiffin",
+        "opponent_logo": "Tiffin.png",
+        "date": "09-04",
+        "home": true
+    },
+    {
+        "opponent": "Findlay",
+        "opponent_logo": "Findlay.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Wisconsin-Lacrosse",
+        "opponent_logo": "Wisconsin_Lacrosse.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Quincy",
+        "opponent_logo": "Quincy.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Michigan Tech",
+        "opponent_logo": "Michigan_Tech.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Ferris State",
+        "opponent_logo": "Ferris_State.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Davenport",
+        "opponent_logo": "Davenport.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Saginaw Valley State",
+        "opponent_logo": "Saginaw_Valley_State.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Grand Valley State University",
+        "opponent_logo": "Grand_Valley_State_University.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Roosevelt",
+        "opponent_logo": "Roosevelt.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Northern Michigan",
+        "opponent_logo": "Northern_Michigan.png",
+        "date": "11-15",
+        "home": false
+    }
+]

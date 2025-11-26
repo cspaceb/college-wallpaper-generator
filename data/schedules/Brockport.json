@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Buffalo State",
+        "opponent_logo": "Buffalo_State.png",
+        "date": "09-04",
+        "home": false
+    },
+    {
+        "opponent": "Hobart College",
+        "opponent_logo": "Hobart_College.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Rensselaer",
+        "opponent_logo": "Rensselaer.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Hartwick",
+        "opponent_logo": "Hartwick.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "St John Fisher University",
+        "opponent_logo": "St_John_Fisher_University.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Alfred State",
+        "opponent_logo": "Alfred_State.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "SUNY Morrisville",
+        "opponent_logo": "SUNY_Morrisville.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Alfred University",
+        "opponent_logo": "Alfred_University.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Cortland",
+        "opponent_logo": "Cortland.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Utica",
+        "opponent_logo": "Utica.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Geneva",
+        "opponent_logo": "Geneva.png",
+        "date": "11-22",
+        "home": true
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Martin Luther",
+        "opponent_logo": "Martin_Luther.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Monmouth (IL)",
+        "opponent_logo": "Monmouth_(IL).png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Cornell College (IA)",
+        "opponent_logo": "Cornell_College_(IA).png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Illinois College",
+        "opponent_logo": "Illinois_College.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Chicago",
+        "opponent_logo": "Chicago.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Beloit",
+        "opponent_logo": "Beloit.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Knox College",
+        "opponent_logo": "Knox_College.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Lake Forest College",
+        "opponent_logo": "Lake_Forest_College.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Grinnell",
+        "opponent_logo": "Grinnell.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Ripon",
+        "opponent_logo": "Ripon.png",
+        "date": "11-15",
+        "home": true
+    }
+]

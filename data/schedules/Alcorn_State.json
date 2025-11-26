@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Northwestern State",
+        "opponent_logo": "Northwestern_State.png",
+        "date": "08-29",
+        "home": false
+    },
+    {
+        "opponent": "Alabama A&M",
+        "opponent_logo": "Alabama_AandM.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Mississippi State",
+        "opponent_logo": "Mississippi_State.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Arkansas-Pine Bluff",
+        "opponent_logo": "Arkansas_Pine_Bluff.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Prairie View A&M",
+        "opponent_logo": "Prairie_View_AandM.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Lincoln (CA)",
+        "opponent_logo": "Lincoln_(CA).png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Florida A&M",
+        "opponent_logo": "Florida_AandM.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Mississippi Valley State",
+        "opponent_logo": "Mississippi_Valley_State.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Texas Southern",
+        "opponent_logo": "Texas_Southern.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Southern",
+        "opponent_logo": "Southern.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Grambling",
+        "opponent_logo": "Grambling.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Jackson State",
+        "opponent_logo": "Jackson_State.png",
+        "date": "11-22",
+        "home": true
+    }
+]

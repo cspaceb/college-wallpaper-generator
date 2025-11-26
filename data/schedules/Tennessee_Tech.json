@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Cumberland (TN)",
+        "opponent_logo": "Cumberland_(TN).png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Chattanooga",
+        "opponent_logo": "Chattanooga.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Davidson",
+        "opponent_logo": "Davidson.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Tennessee State",
+        "opponent_logo": "Tennessee_State.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Western Illinois",
+        "opponent_logo": "Western_Illinois.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Charleston Southern",
+        "opponent_logo": "Charleston_Southern.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Lindenwood",
+        "opponent_logo": "Lindenwood.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Southeast Missouri State",
+        "opponent_logo": "Southeast_Missouri_State.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Gardner-Webb",
+        "opponent_logo": "Gardner_Webb.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Eastern Illinois",
+        "opponent_logo": "Eastern_Illinois.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Kentucky",
+        "opponent_logo": "Kentucky.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "UT Martin",
+        "opponent_logo": "UT_Martin.png",
+        "date": "11-22",
+        "home": true
+    }
+]

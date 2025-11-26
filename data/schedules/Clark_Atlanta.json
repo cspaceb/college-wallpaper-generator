@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Valdosta State",
+        "opponent_logo": "Valdosta_State.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Florida Memorial University",
+        "opponent_logo": "Florida_Memorial_University.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Fort Valley State",
+        "opponent_logo": "Fort_Valley_State.png",
+        "date": "09-12",
+        "home": true
+    },
+    {
+        "opponent": "Allen",
+        "opponent_logo": "Allen.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Benedict College",
+        "opponent_logo": "Benedict_College.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Albany State GA",
+        "opponent_logo": "Albany_State_GA.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Miles College",
+        "opponent_logo": "Miles_College.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Edward Waters",
+        "opponent_logo": "Edward_Waters.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Kentucky State",
+        "opponent_logo": "Kentucky_State.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Morehouse College",
+        "opponent_logo": "Morehouse_College.png",
+        "date": "11-08",
+        "home": true
+    }
+]

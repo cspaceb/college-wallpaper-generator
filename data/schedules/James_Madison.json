@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Weber State",
+        "opponent_logo": "Weber_State.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Louisville",
+        "opponent_logo": "Louisville.png",
+        "date": "09-05",
+        "home": false
+    },
+    {
+        "opponent": "Liberty",
+        "opponent_logo": "Liberty.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Georgia Southern",
+        "opponent_logo": "Georgia_Southern.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Georgia State",
+        "opponent_logo": "Georgia_State.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Louisiana",
+        "opponent_logo": "Louisiana.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Old Dominion",
+        "opponent_logo": "Old_Dominion.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Texas State",
+        "opponent_logo": "Texas_State.png",
+        "date": "10-29",
+        "home": false
+    },
+    {
+        "opponent": "Marshall",
+        "opponent_logo": "Marshall.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "App State",
+        "opponent_logo": "App_State.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Washington State",
+        "opponent_logo": "Washington_State.png",
+        "date": "11-22",
+        "home": true
+    },
+    {
+        "opponent": "Coastal Carolina",
+        "opponent_logo": "Coastal_Carolina.png",
+        "date": "11-29",
+        "home": false
+    }
+]

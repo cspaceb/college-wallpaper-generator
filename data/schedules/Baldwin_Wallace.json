@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Wittenberg",
+        "opponent_logo": "Wittenberg.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Wilmington (OH)",
+        "opponent_logo": "Wilmington_(OH).png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Capital",
+        "opponent_logo": "Capital.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "University of Mount Union",
+        "opponent_logo": "University_of_Mount_Union.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Otterbein",
+        "opponent_logo": "Otterbein.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Rose-Hulman",
+        "opponent_logo": "Rose_Hulman.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Marietta",
+        "opponent_logo": "Marietta.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Muskingum University",
+        "opponent_logo": "Muskingum_University.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Ohio Northern",
+        "opponent_logo": "Ohio_Northern.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Heidelberg",
+        "opponent_logo": "Heidelberg.png",
+        "date": "11-15",
+        "home": true
+    }
+]

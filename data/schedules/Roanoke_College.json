@@ -1,0 +1,56 @@
+[
+    {
+        "opponent": "Greensboro College",
+        "opponent_logo": "Greensboro_College.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Gallaudet",
+        "opponent_logo": "Gallaudet.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Randolph-Macon",
+        "opponent_logo": "Randolph_Macon.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Bridgewater (VA)",
+        "opponent_logo": "Bridgewater_(VA).png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Shenandoah",
+        "opponent_logo": "Shenandoah.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Hampden-Sydney",
+        "opponent_logo": "Hampden_Sydney.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Guilford College",
+        "opponent_logo": "Guilford_College.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Washington and Lee",
+        "opponent_logo": "Washington_and_Lee.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Averett",
+        "opponent_logo": "Averett.png",
+        "date": "11-15",
+        "home": false
+    }
+]

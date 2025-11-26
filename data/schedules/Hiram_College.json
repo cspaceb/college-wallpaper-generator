@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Heidelberg",
+        "opponent_logo": "Heidelberg.png",
+        "date": "09-04",
+        "home": false
+    },
+    {
+        "opponent": "Oberlin",
+        "opponent_logo": "Oberlin.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Waynesburg",
+        "opponent_logo": "Waynesburg.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Saint Vincent",
+        "opponent_logo": "Saint_Vincent.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Washington & Jefferson",
+        "opponent_logo": "Washington_and_Jefferson.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Bethany (WV)",
+        "opponent_logo": "Bethany_(WV).png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Allegheny",
+        "opponent_logo": "Allegheny.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Thiel",
+        "opponent_logo": "Thiel.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Westminster (PA)",
+        "opponent_logo": "Westminster_(PA).png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Grove City College",
+        "opponent_logo": "Grove_City_College.png",
+        "date": "11-15",
+        "home": true
+    }
+]

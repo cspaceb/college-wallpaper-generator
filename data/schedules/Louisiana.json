@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Rice",
+        "opponent_logo": "Rice.png",
+        "date": "08-31",
+        "home": true
+    },
+    {
+        "opponent": "McNeese",
+        "opponent_logo": "McNeese.png",
+        "date": "09-07",
+        "home": true
+    },
+    {
+        "opponent": "Missouri",
+        "opponent_logo": "Missouri.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Eastern Michigan",
+        "opponent_logo": "Eastern_Michigan.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Marshall",
+        "opponent_logo": "Marshall.png",
+        "date": "09-28",
+        "home": true
+    },
+    {
+        "opponent": "James Madison",
+        "opponent_logo": "James_Madison.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Southern Miss",
+        "opponent_logo": "Southern_Miss.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Troy",
+        "opponent_logo": "Troy.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "South Alabama",
+        "opponent_logo": "South_Alabama.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Texas State",
+        "opponent_logo": "Texas_State.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Arkansas State",
+        "opponent_logo": "Arkansas_State.png",
+        "date": "11-21",
+        "home": false
+    },
+    {
+        "opponent": "UL Monroe",
+        "opponent_logo": "UL_Monroe.png",
+        "date": "11-29",
+        "home": true
+    }
+]

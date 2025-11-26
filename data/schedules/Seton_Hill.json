@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Fairmont State",
+        "opponent_logo": "Fairmont_State.png",
+        "date": "08-28",
+        "home": true
+    },
+    {
+        "opponent": "West Liberty",
+        "opponent_logo": "West_Liberty.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Bloomsburg",
+        "opponent_logo": "Bloomsburg.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "West Chester",
+        "opponent_logo": "West_Chester.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Indiana-Pennsylvania",
+        "opponent_logo": "Indiana_Pennsylvania.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "PennWest California",
+        "opponent_logo": "PennWest_California.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Slippery Rock",
+        "opponent_logo": "Slippery_Rock.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Gannon",
+        "opponent_logo": "Gannon.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Clarion",
+        "opponent_logo": "Clarion.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Edinboro University",
+        "opponent_logo": "Edinboro_University.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Shepherd",
+        "opponent_logo": "Shepherd.png",
+        "date": "11-15",
+        "home": false
+    }
+]

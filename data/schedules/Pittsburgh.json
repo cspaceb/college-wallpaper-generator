@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Duquesne",
+        "opponent_logo": "Duquesne.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Central Michigan",
+        "opponent_logo": "Central_Michigan.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "West Virginia",
+        "opponent_logo": "West_Virginia.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Louisville",
+        "opponent_logo": "Louisville.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Boston College",
+        "opponent_logo": "Boston_College.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Florida State",
+        "opponent_logo": "Florida_State.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Syracuse",
+        "opponent_logo": "Syracuse.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "NC State",
+        "opponent_logo": "NC_State.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Stanford",
+        "opponent_logo": "Stanford.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Notre Dame",
+        "opponent_logo": "Notre_Dame.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Georgia Tech",
+        "opponent_logo": "Georgia_Tech.png",
+        "date": "11-23",
+        "home": false
+    },
+    {
+        "opponent": "Miami",
+        "opponent_logo": "Miami.png",
+        "date": "11-29",
+        "home": true
+    }
+]

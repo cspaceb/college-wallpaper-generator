@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "TCU",
+        "opponent_logo": "TCU.png",
+        "date": "09-02",
+        "home": true
+    },
+    {
+        "opponent": "Charlotte",
+        "opponent_logo": "Charlotte.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Richmond",
+        "opponent_logo": "Richmond.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "UCF",
+        "opponent_logo": "UCF.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Clemson",
+        "opponent_logo": "Clemson.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "California",
+        "opponent_logo": "California.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Virginia",
+        "opponent_logo": "Virginia.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Syracuse",
+        "opponent_logo": "Syracuse.png",
+        "date": "10-31",
+        "home": false
+    },
+    {
+        "opponent": "Stanford",
+        "opponent_logo": "Stanford.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Wake Forest",
+        "opponent_logo": "Wake_Forest.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Duke",
+        "opponent_logo": "Duke.png",
+        "date": "11-22",
+        "home": true
+    },
+    {
+        "opponent": "NC State",
+        "opponent_logo": "NC_State.png",
+        "date": "11-30",
+        "home": false
+    }
+]

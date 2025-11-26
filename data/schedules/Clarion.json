@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Wheeling",
+        "opponent_logo": "Wheeling.png",
+        "date": "08-28",
+        "home": true
+    },
+    {
+        "opponent": "West Virginia Wesleyan",
+        "opponent_logo": "West_Virginia_Wesleyan.png",
+        "date": "09-04",
+        "home": false
+    },
+    {
+        "opponent": "Shippensburg",
+        "opponent_logo": "Shippensburg.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Shepherd",
+        "opponent_logo": "Shepherd.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Edinboro University",
+        "opponent_logo": "Edinboro_University.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Gannon",
+        "opponent_logo": "Gannon.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "PennWest California",
+        "opponent_logo": "PennWest_California.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Seton Hill",
+        "opponent_logo": "Seton_Hill.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Slippery Rock",
+        "opponent_logo": "Slippery_Rock.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Indiana-Pennsylvania",
+        "opponent_logo": "Indiana_Pennsylvania.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "East Stroudsburg University",
+        "opponent_logo": "East_Stroudsburg_University.png",
+        "date": "11-15",
+        "home": false
+    }
+]

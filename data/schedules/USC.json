@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Missouri State",
+        "opponent_logo": "Missouri_State.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Georgia Southern",
+        "opponent_logo": "Georgia_Southern.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Purdue",
+        "opponent_logo": "Purdue.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Michigan State",
+        "opponent_logo": "Michigan_State.png",
+        "date": "09-21",
+        "home": true
+    },
+    {
+        "opponent": "Illinois",
+        "opponent_logo": "Illinois.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Michigan",
+        "opponent_logo": "Michigan.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Notre Dame",
+        "opponent_logo": "Notre_Dame.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Nebraska",
+        "opponent_logo": "Nebraska.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Northwestern",
+        "opponent_logo": "Northwestern.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Iowa",
+        "opponent_logo": "Iowa.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Oregon",
+        "opponent_logo": "Oregon.png",
+        "date": "11-22",
+        "home": false
+    },
+    {
+        "opponent": "UCLA",
+        "opponent_logo": "UCLA.png",
+        "date": "11-29",
+        "home": true
+    }
+]

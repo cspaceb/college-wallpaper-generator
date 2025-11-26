@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Upper Iowa University",
+        "opponent_logo": "Upper_Iowa_University.png",
+        "date": "08-28",
+        "home": true
+    },
+    {
+        "opponent": "South Dakota State",
+        "opponent_logo": "South_Dakota_State.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "South Dakota",
+        "opponent_logo": "South_Dakota.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Valparaiso",
+        "opponent_logo": "Valparaiso.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "San Diego",
+        "opponent_logo": "San_Diego.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Davidson",
+        "opponent_logo": "Davidson.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Marist",
+        "opponent_logo": "Marist.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Butler",
+        "opponent_logo": "Butler.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "St. Thomas (MN)",
+        "opponent_logo": "St_Thomas_(MN).png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Dayton",
+        "opponent_logo": "Dayton.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Morehead State",
+        "opponent_logo": "Morehead_State.png",
+        "date": "11-22",
+        "home": true
+    }
+]

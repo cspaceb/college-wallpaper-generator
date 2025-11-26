@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "UT Rio Grande Valley",
+        "opponent_logo": "UT_Rio_Grande_Valley.png",
+        "date": "08-31",
+        "home": false
+    },
+    {
+        "opponent": "Stephen F. Austin",
+        "opponent_logo": "Stephen_F_Austin.png",
+        "date": "09-14",
+        "home": false
+    },
+    {
+        "opponent": "Western Oregon",
+        "opponent_logo": "Western_Oregon.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Texas A&M-Kingsville",
+        "opponent_logo": "Texas_AandM_Kingsville.png",
+        "date": "09-28",
+        "home": true
+    },
+    {
+        "opponent": "West Texas A&M",
+        "opponent_logo": "West_Texas_AandM.png",
+        "date": "10-05",
+        "home": false
+    },
+    {
+        "opponent": "Midwestern State",
+        "opponent_logo": "Midwestern_State.png",
+        "date": "10-12",
+        "home": true
+    },
+    {
+        "opponent": "Western New Mexico",
+        "opponent_logo": "Western_New_Mexico.png",
+        "date": "10-19",
+        "home": false
+    },
+    {
+        "opponent": "Angelo State",
+        "opponent_logo": "Angelo_State.png",
+        "date": "10-26",
+        "home": true
+    },
+    {
+        "opponent": "Eastern New Mexico",
+        "opponent_logo": "Eastern_New_Mexico.png",
+        "date": "11-02",
+        "home": false
+    },
+    {
+        "opponent": "Central Washington",
+        "opponent_logo": "Central_Washington.png",
+        "date": "11-09",
+        "home": true
+    },
+    {
+        "opponent": "UT Permian Basin",
+        "opponent_logo": "UT_Permian_Basin.png",
+        "date": "11-16",
+        "home": false
+    }
+]

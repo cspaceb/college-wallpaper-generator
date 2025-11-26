@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Langston University",
+        "opponent_logo": "Langston_University.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Ohio State",
+        "opponent_logo": "Ohio_State.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Kentucky State",
+        "opponent_logo": "Kentucky_State.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "East Texas A&M",
+        "opponent_logo": "East_Texas_AandM.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Prairie View A&M",
+        "opponent_logo": "Prairie_View_AandM.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Texas Southern",
+        "opponent_logo": "Texas_Southern.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Arkansas-Pine Bluff",
+        "opponent_logo": "Arkansas_Pine_Bluff.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Jackson State",
+        "opponent_logo": "Jackson_State.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Alabama A&M",
+        "opponent_logo": "Alabama_AandM.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Bethune-Cookman",
+        "opponent_logo": "Bethune_Cookman.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Alcorn State",
+        "opponent_logo": "Alcorn_State.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Southern",
+        "opponent_logo": "Southern.png",
+        "date": "11-29",
+        "home": false
+    }
+]

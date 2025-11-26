@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "NC State",
+        "opponent_logo": "NC_State.png",
+        "date": "08-28",
+        "home": false
+    },
+    {
+        "opponent": "Campbell",
+        "opponent_logo": "Campbell.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Coastal Carolina",
+        "opponent_logo": "Coastal_Carolina.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "BYU",
+        "opponent_logo": "BYU.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Army",
+        "opponent_logo": "Army.png",
+        "date": "09-25",
+        "home": true
+    },
+    {
+        "opponent": "Tulane",
+        "opponent_logo": "Tulane.png",
+        "date": "10-09",
+        "home": false
+    },
+    {
+        "opponent": "Tulsa",
+        "opponent_logo": "Tulsa.png",
+        "date": "10-16",
+        "home": true
+    },
+    {
+        "opponent": "Temple",
+        "opponent_logo": "Temple.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Charlotte",
+        "opponent_logo": "Charlotte.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Memphis",
+        "opponent_logo": "Memphis.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "UTSA",
+        "opponent_logo": "UTSA.png",
+        "date": "11-22",
+        "home": false
+    },
+    {
+        "opponent": "Florida Atlantic",
+        "opponent_logo": "Florida_Atlantic.png",
+        "date": "11-29",
+        "home": false
+    }
+]

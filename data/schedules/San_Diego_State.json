@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Stony Brook",
+        "opponent_logo": "Stony_Brook.png",
+        "date": "08-29",
+        "home": true
+    },
+    {
+        "opponent": "Washington State",
+        "opponent_logo": "Washington_State.png",
+        "date": "09-07",
+        "home": false
+    },
+    {
+        "opponent": "California",
+        "opponent_logo": "California.png",
+        "date": "09-21",
+        "home": true
+    },
+    {
+        "opponent": "Northern Illinois",
+        "opponent_logo": "Northern_Illinois.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Colorado State",
+        "opponent_logo": "Colorado_State.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Nevada",
+        "opponent_logo": "Nevada.png",
+        "date": "10-12",
+        "home": false
+    },
+    {
+        "opponent": "Fresno State",
+        "opponent_logo": "Fresno_State.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Wyoming",
+        "opponent_logo": "Wyoming.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Hawai'i",
+        "opponent_logo": "Hawaii.png",
+        "date": "11-09",
+        "home": false
+    },
+    {
+        "opponent": "Boise State",
+        "opponent_logo": "Boise_State.png",
+        "date": "11-16",
+        "home": true
+    },
+    {
+        "opponent": "San Jos\u00e9 State",
+        "opponent_logo": "San_Jose_State.png",
+        "date": "11-23",
+        "home": true
+    },
+    {
+        "opponent": "New Mexico",
+        "opponent_logo": "New_Mexico.png",
+        "date": "11-28",
+        "home": false
+    }
+]

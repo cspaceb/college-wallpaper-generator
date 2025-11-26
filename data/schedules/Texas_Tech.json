@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Arkansas-Pine Bluff",
+        "opponent_logo": "Arkansas_Pine_Bluff.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Kent State",
+        "opponent_logo": "Kent_State.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Oregon State",
+        "opponent_logo": "Oregon_State.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Utah",
+        "opponent_logo": "Utah.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Houston",
+        "opponent_logo": "Houston.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Kansas",
+        "opponent_logo": "Kansas.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Arizona State",
+        "opponent_logo": "Arizona_State.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Oklahoma State",
+        "opponent_logo": "Oklahoma_State.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Kansas State",
+        "opponent_logo": "Kansas_State.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "BYU",
+        "opponent_logo": "BYU.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "UCF",
+        "opponent_logo": "UCF.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "West Virginia",
+        "opponent_logo": "West_Virginia.png",
+        "date": "11-29",
+        "home": false
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Central Missouri",
+        "opponent_logo": "Central_Missouri.png",
+        "date": "08-28",
+        "home": true
+    },
+    {
+        "opponent": "North Greenville",
+        "opponent_logo": "North_Greenville.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "UNC Pembroke",
+        "opponent_logo": "UNC_Pembroke.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Fort Valley State",
+        "opponent_logo": "Fort_Valley_State.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "ERSKINE",
+        "opponent_logo": "ERSKINE.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Wilson",
+        "opponent_logo": "Wilson.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Ferrum",
+        "opponent_logo": "Ferrum.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "West Alabama",
+        "opponent_logo": "West_Alabama.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "West Florida",
+        "opponent_logo": "West_Florida.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Valdosta State",
+        "opponent_logo": "Valdosta_State.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Kentucky State",
+        "opponent_logo": "Kentucky_State.png",
+        "date": "11-15",
+        "home": true
+    }
+]

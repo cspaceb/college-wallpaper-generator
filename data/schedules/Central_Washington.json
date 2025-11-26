@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Colorado Mesa",
+        "opponent_logo": "Colorado_Mesa.png",
+        "date": "08-28",
+        "home": true
+    },
+    {
+        "opponent": "Montana",
+        "opponent_logo": "Montana.png",
+        "date": "09-07",
+        "home": false
+    },
+    {
+        "opponent": "West Texas A&M",
+        "opponent_logo": "West_Texas_AandM.png",
+        "date": "09-21",
+        "home": true
+    },
+    {
+        "opponent": "Western New Mexico",
+        "opponent_logo": "Western_New_Mexico.png",
+        "date": "09-28",
+        "home": false
+    },
+    {
+        "opponent": "Eastern New Mexico",
+        "opponent_logo": "Eastern_New_Mexico.png",
+        "date": "10-05",
+        "home": true
+    },
+    {
+        "opponent": "UT Permian Basin",
+        "opponent_logo": "UT_Permian_Basin.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Texas A&M-Kingsville",
+        "opponent_logo": "Texas_AandM_Kingsville.png",
+        "date": "10-19",
+        "home": true
+    },
+    {
+        "opponent": "Midwestern State",
+        "opponent_logo": "Midwestern_State.png",
+        "date": "10-26",
+        "home": false
+    },
+    {
+        "opponent": "Angelo State",
+        "opponent_logo": "Angelo_State.png",
+        "date": "11-02",
+        "home": true
+    },
+    {
+        "opponent": "Sul Ross State",
+        "opponent_logo": "Sul_Ross_State.png",
+        "date": "11-09",
+        "home": false
+    },
+    {
+        "opponent": "Western Oregon",
+        "opponent_logo": "Western_Oregon.png",
+        "date": "11-15",
+        "home": false
+    }
+]

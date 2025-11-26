@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Franklin & Marshall",
+        "opponent_logo": "Franklin_and_Marshall.png",
+        "date": "09-04",
+        "home": true
+    },
+    {
+        "opponent": "FDU-Florham",
+        "opponent_logo": "FDU_Florham.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Eastern University",
+        "opponent_logo": "Eastern_University.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Delaware Valley",
+        "opponent_logo": "Delaware_Valley.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Misericordia",
+        "opponent_logo": "Misericordia.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Widener",
+        "opponent_logo": "Widener.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Kings College (PA)",
+        "opponent_logo": "Kings_College_(PA).png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Stevenson",
+        "opponent_logo": "Stevenson.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Reading",
+        "opponent_logo": "Reading.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Albright",
+        "opponent_logo": "Albright.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Ursinus",
+        "opponent_logo": "Ursinus.png",
+        "date": "11-22",
+        "home": false
+    }
+]

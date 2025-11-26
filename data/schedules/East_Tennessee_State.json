@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Murray State",
+        "opponent_logo": "Murray_State.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Tennessee",
+        "opponent_logo": "Tennessee.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "West Georgia",
+        "opponent_logo": "West_Georgia.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Elon",
+        "opponent_logo": "Elon.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Mercer",
+        "opponent_logo": "Mercer.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Furman",
+        "opponent_logo": "Furman.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "VMI",
+        "opponent_logo": "VMI.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Chattanooga",
+        "opponent_logo": "Chattanooga.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Wofford",
+        "opponent_logo": "Wofford.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Samford",
+        "opponent_logo": "Samford.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Western Carolina",
+        "opponent_logo": "Western_Carolina.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "The Citadel",
+        "opponent_logo": "The_Citadel.png",
+        "date": "11-22",
+        "home": true
+    }
+]

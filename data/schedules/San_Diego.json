@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Cal Poly",
+        "opponent_logo": "Cal_Poly.png",
+        "date": "08-31",
+        "home": true
+    },
+    {
+        "opponent": "Southern Utah",
+        "opponent_logo": "Southern_Utah.png",
+        "date": "09-07",
+        "home": true
+    },
+    {
+        "opponent": "Montana State",
+        "opponent_logo": "Montana_State.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Princeton",
+        "opponent_logo": "Princeton.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "St. Thomas (MN)",
+        "opponent_logo": "St_Thomas_(MN).png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Marist",
+        "opponent_logo": "Marist.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Drake",
+        "opponent_logo": "Drake.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Davidson",
+        "opponent_logo": "Davidson.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Dayton",
+        "opponent_logo": "Dayton.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Valparaiso",
+        "opponent_logo": "Valparaiso.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Butler",
+        "opponent_logo": "Butler.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Stetson",
+        "opponent_logo": "Stetson.png",
+        "date": "11-22",
+        "home": false
+    }
+]

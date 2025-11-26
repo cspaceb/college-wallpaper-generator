@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Central Washington",
+        "opponent_logo": "Central_Washington.png",
+        "date": "09-07",
+        "home": true
+    },
+    {
+        "opponent": "North Dakota",
+        "opponent_logo": "North_Dakota.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Indiana State",
+        "opponent_logo": "Indiana_State.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Idaho",
+        "opponent_logo": "Idaho.png",
+        "date": "09-28",
+        "home": true
+    },
+    {
+        "opponent": "Idaho State",
+        "opponent_logo": "Idaho_State.png",
+        "date": "10-05",
+        "home": false
+    },
+    {
+        "opponent": "Cal Poly",
+        "opponent_logo": "Cal_Poly.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Sacred Heart",
+        "opponent_logo": "Sacred_Heart.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Sacramento State",
+        "opponent_logo": "Sacramento_State.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Weber State",
+        "opponent_logo": "Weber_State.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Eastern Washington",
+        "opponent_logo": "Eastern_Washington.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Portland State",
+        "opponent_logo": "Portland_State.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Montana State",
+        "opponent_logo": "Montana_State.png",
+        "date": "11-22",
+        "home": true
+    }
+]

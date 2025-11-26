@@ -1,0 +1,44 @@
+[
+    {
+        "opponent": "Valparaiso",
+        "opponent_logo": "Valparaiso.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Shorter",
+        "opponent_logo": "Shorter.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Morgan State",
+        "opponent_logo": "Morgan_State.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Texas Southern",
+        "opponent_logo": "Texas_Southern.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Livingstone",
+        "opponent_logo": "Livingstone.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Benedict College",
+        "opponent_logo": "Benedict_College.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Sacred Heart",
+        "opponent_logo": "Sacred_Heart.png",
+        "date": "11-08",
+        "home": false
+    }
+]

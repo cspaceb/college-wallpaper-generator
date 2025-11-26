@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "UVA Wise",
+        "opponent_logo": "UVA_Wise.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Point University",
+        "opponent_logo": "Point_University.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Catawba",
+        "opponent_logo": "Catawba.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Lenoir-Rhyne",
+        "opponent_logo": "Lenoir_Rhyne.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Wingate",
+        "opponent_logo": "Wingate.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Greeneville",
+        "opponent_logo": "Greeneville.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Mars Hill",
+        "opponent_logo": "Mars_Hill.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Emory & Henry College",
+        "opponent_logo": "Emory_and_Henry_College.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Anderson (Sc)",
+        "opponent_logo": "Anderson_(Sc).png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Carson-Newman College",
+        "opponent_logo": "Carson_Newman_College.png",
+        "date": "11-08",
+        "home": true
+    }
+]

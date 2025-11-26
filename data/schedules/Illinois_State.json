@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Oklahoma",
+        "opponent_logo": "Oklahoma.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Morehead State",
+        "opponent_logo": "Morehead_State.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Eastern Illinois",
+        "opponent_logo": "Eastern_Illinois.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "North Alabama",
+        "opponent_logo": "North_Alabama.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "North Dakota State",
+        "opponent_logo": "North_Dakota_State.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Murray State",
+        "opponent_logo": "Murray_State.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Youngstown State",
+        "opponent_logo": "Youngstown_State.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "South Dakota",
+        "opponent_logo": "South_Dakota.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Northern Iowa",
+        "opponent_logo": "Northern_Iowa.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Indiana State",
+        "opponent_logo": "Indiana_State.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "South Dakota State",
+        "opponent_logo": "South_Dakota_State.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Southern Illinois",
+        "opponent_logo": "Southern_Illinois.png",
+        "date": "11-22",
+        "home": true
+    }
+]

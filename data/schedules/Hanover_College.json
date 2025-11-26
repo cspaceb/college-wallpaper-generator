@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Centre College Kentucky",
+        "opponent_logo": "Centre_College_Kentucky.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Butler",
+        "opponent_logo": "Butler.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Alma",
+        "opponent_logo": "Alma.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Rose-Hulman",
+        "opponent_logo": "Rose_Hulman.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Mount St. Joseph",
+        "opponent_logo": "Mount_St_Joseph.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Anderson (IN)",
+        "opponent_logo": "Anderson_(IN).png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Manchester",
+        "opponent_logo": "Manchester.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Bluffton",
+        "opponent_logo": "Bluffton.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Otterbein",
+        "opponent_logo": "Otterbein.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Franklin",
+        "opponent_logo": "Franklin.png",
+        "date": "11-15",
+        "home": true
+    }
+]

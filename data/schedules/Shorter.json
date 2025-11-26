@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Anderson (Sc)",
+        "opponent_logo": "Anderson_(Sc).png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Savannah St",
+        "opponent_logo": "Savannah_St.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "West Florida",
+        "opponent_logo": "West_Florida.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Virginia University Of Lynchburg",
+        "opponent_logo": "Virginia_University_Of_Lynchburg.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Chowan",
+        "opponent_logo": "Chowan.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Ferrum",
+        "opponent_logo": "Ferrum.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "UNC Pembroke",
+        "opponent_logo": "UNC_Pembroke.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "ERSKINE",
+        "opponent_logo": "ERSKINE.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Wilson",
+        "opponent_logo": "Wilson.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "North Greenville",
+        "opponent_logo": "North_Greenville.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Kentucky State",
+        "opponent_logo": "Kentucky_State.png",
+        "date": "11-15",
+        "home": false
+    }
+]

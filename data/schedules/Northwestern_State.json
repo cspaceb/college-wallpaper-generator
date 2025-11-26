@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Alcorn State",
+        "opponent_logo": "Alcorn_State.png",
+        "date": "08-29",
+        "home": true
+    },
+    {
+        "opponent": "Minnesota",
+        "opponent_logo": "Minnesota.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Cincinnati",
+        "opponent_logo": "Cincinnati.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Prairie View A&M",
+        "opponent_logo": "Prairie_View_AandM.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "East Texas A&M",
+        "opponent_logo": "East_Texas_AandM.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Houston Christian",
+        "opponent_logo": "Houston_Christian.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "SE Louisiana",
+        "opponent_logo": "SE_Louisiana.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Lamar",
+        "opponent_logo": "Lamar.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "McNeese",
+        "opponent_logo": "McNeese.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Incarnate Word",
+        "opponent_logo": "Incarnate_Word.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Nicholls",
+        "opponent_logo": "Nicholls.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Stephen F. Austin",
+        "opponent_logo": "Stephen_F_Austin.png",
+        "date": "11-21",
+        "home": true
+    }
+]

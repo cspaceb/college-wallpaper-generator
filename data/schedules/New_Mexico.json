@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Michigan",
+        "opponent_logo": "Michigan.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Idaho State",
+        "opponent_logo": "Idaho_State.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "UCLA",
+        "opponent_logo": "UCLA.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "New Mexico State",
+        "opponent_logo": "New_Mexico_State.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "San Jos\u00e9 State",
+        "opponent_logo": "San_Jose_State.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Boise State",
+        "opponent_logo": "Boise_State.png",
+        "date": "10-12",
+        "home": false
+    },
+    {
+        "opponent": "Nevada",
+        "opponent_logo": "Nevada.png",
+        "date": "10-19",
+        "home": true
+    },
+    {
+        "opponent": "Utah State",
+        "opponent_logo": "Utah_State.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "UNLV",
+        "opponent_logo": "UNLV.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Colorado State",
+        "opponent_logo": "Colorado_State.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Air Force",
+        "opponent_logo": "Air_Force.png",
+        "date": "11-23",
+        "home": false
+    },
+    {
+        "opponent": "San Diego State",
+        "opponent_logo": "San_Diego_State.png",
+        "date": "11-28",
+        "home": true
+    }
+]

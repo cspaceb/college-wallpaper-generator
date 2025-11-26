@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Mass Maritime",
+        "opponent_logo": "Mass_Maritime.png",
+        "date": "09-05",
+        "home": false
+    },
+    {
+        "opponent": "Anderson (IN)",
+        "opponent_logo": "Anderson_(IN).png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Endicott College",
+        "opponent_logo": "Endicott_College.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Salve Regina",
+        "opponent_logo": "Salve_Regina.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Coast Guard",
+        "opponent_logo": "Coast_Guard.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Merchant Marine Academy",
+        "opponent_logo": "Merchant_Marine_Academy.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Norwich",
+        "opponent_logo": "Norwich.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Worcester Polytechnic Institute",
+        "opponent_logo": "Worcester_Polytechnic_Institute.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "MIT",
+        "opponent_logo": "MIT.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Springfield",
+        "opponent_logo": "Springfield.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Hobart College",
+        "opponent_logo": "Hobart_College.png",
+        "date": "11-22",
+        "home": true
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Virginia St",
+        "opponent_logo": "Virginia_St.png",
+        "date": "08-28",
+        "home": true
+    },
+    {
+        "opponent": "West Virginia State",
+        "opponent_logo": "West_Virginia_State.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "North Greenville",
+        "opponent_logo": "North_Greenville.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "West Alabama",
+        "opponent_logo": "West_Alabama.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Delta State",
+        "opponent_logo": "Delta_State.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Ferrum",
+        "opponent_logo": "Ferrum.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Chowan",
+        "opponent_logo": "Chowan.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Shorter",
+        "opponent_logo": "Shorter.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "UNC Pembroke",
+        "opponent_logo": "UNC_Pembroke.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "ERSKINE",
+        "opponent_logo": "ERSKINE.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Chowan",
+        "opponent_logo": "Chowan.png",
+        "date": "11-15",
+        "home": true
+    }
+]

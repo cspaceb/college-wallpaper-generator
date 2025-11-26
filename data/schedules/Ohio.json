@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Rutgers",
+        "opponent_logo": "Rutgers.png",
+        "date": "08-28",
+        "home": false
+    },
+    {
+        "opponent": "West Virginia",
+        "opponent_logo": "West_Virginia.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Ohio State",
+        "opponent_logo": "Ohio_State.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Gardner-Webb",
+        "opponent_logo": "Gardner_Webb.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Bowling Green",
+        "opponent_logo": "Bowling_Green.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Ball State",
+        "opponent_logo": "Ball_State.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Northern Illinois",
+        "opponent_logo": "Northern_Illinois.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Eastern Michigan",
+        "opponent_logo": "Eastern_Michigan.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Miami (OH)",
+        "opponent_logo": "Miami_(OH).png",
+        "date": "11-05",
+        "home": true
+    },
+    {
+        "opponent": "Western Michigan",
+        "opponent_logo": "Western_Michigan.png",
+        "date": "11-12",
+        "home": false
+    },
+    {
+        "opponent": "Massachusetts",
+        "opponent_logo": "Massachusetts.png",
+        "date": "11-19",
+        "home": true
+    },
+    {
+        "opponent": "Buffalo",
+        "opponent_logo": "Buffalo.png",
+        "date": "11-28",
+        "home": false
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "McMurry",
+        "opponent_logo": "McMurry.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Puget Sound",
+        "opponent_logo": "Puget_Sound.png",
+        "date": "09-14",
+        "home": true
+    },
+    {
+        "opponent": "Texas Lutheran",
+        "opponent_logo": "Texas_Lutheran.png",
+        "date": "09-21",
+        "home": true
+    },
+    {
+        "opponent": "Trinity University TX",
+        "opponent_logo": "Trinity_University_TX.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Sewanee",
+        "opponent_logo": "Sewanee.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Centre College Kentucky",
+        "opponent_logo": "Centre_College_Kentucky.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Maryville College (TN)",
+        "opponent_logo": "Maryville_College_(TN).png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Millsaps",
+        "opponent_logo": "Millsaps.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Rhodes College",
+        "opponent_logo": "Rhodes_College.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Berry College",
+        "opponent_logo": "Berry_College.png",
+        "date": "11-15",
+        "home": true
+    }
+]

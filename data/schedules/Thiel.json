@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Concordia-Wisconsin",
+        "opponent_logo": "Concordia_Wisconsin.png",
+        "date": "09-05",
+        "home": true
+    },
+    {
+        "opponent": "Adrian",
+        "opponent_logo": "Adrian.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Allegheny",
+        "opponent_logo": "Allegheny.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Waynesburg",
+        "opponent_logo": "Waynesburg.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Geneva",
+        "opponent_logo": "Geneva.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Westminster (PA)",
+        "opponent_logo": "Westminster_(PA).png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Case Western Reserve",
+        "opponent_logo": "Case_Western_Reserve.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Hiram College",
+        "opponent_logo": "Hiram_College.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Bethany (WV)",
+        "opponent_logo": "Bethany_(WV).png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Washington & Jefferson",
+        "opponent_logo": "Washington_and_Jefferson.png",
+        "date": "11-15",
+        "home": false
+    }
+]

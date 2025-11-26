@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Dubuque",
+        "opponent_logo": "Dubuque.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Wartburg",
+        "opponent_logo": "Wartburg.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Northwestern (MN)",
+        "opponent_logo": "Northwestern_(MN).png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Wisconsin-Eau Claire",
+        "opponent_logo": "Wisconsin_Eau_Claire.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Wisconsin-Oshkosh",
+        "opponent_logo": "Wisconsin_Oshkosh.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Wisconsin-Whitewater",
+        "opponent_logo": "Wisconsin_Whitewater.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Wisconsin-Stevens Pt",
+        "opponent_logo": "Wisconsin_Stevens_Pt.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Wisconsin-Lacrosse",
+        "opponent_logo": "Wisconsin_Lacrosse.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Wisconsin-Platteville",
+        "opponent_logo": "Wisconsin_Platteville.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Wisconsin-River Falls",
+        "opponent_logo": "Wisconsin_River_Falls.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Washington University (St. Louis)",
+        "opponent_logo": "Washington_University_(St_Louis).png",
+        "date": "11-22",
+        "home": true
+    }
+]

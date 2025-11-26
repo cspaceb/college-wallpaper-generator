@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Redlands",
+        "opponent_logo": "Redlands.png",
+        "date": "09-07",
+        "home": false
+    },
+    {
+        "opponent": "Lewis & Clark College",
+        "opponent_logo": "Lewis_and_Clark_College.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Claremont-Mudd-Scripps College",
+        "opponent_logo": "Claremont_Mudd_Scripps_College.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Linfield College",
+        "opponent_logo": "Linfield_College.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Whitworth",
+        "opponent_logo": "Whitworth.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Lewis & Clark College",
+        "opponent_logo": "Lewis_and_Clark_College.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Puget Sound",
+        "opponent_logo": "Puget_Sound.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Willamette",
+        "opponent_logo": "Willamette.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Pacific (OR)",
+        "opponent_logo": "Pacific_(OR).png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Pacific Lutheran",
+        "opponent_logo": "Pacific_Lutheran.png",
+        "date": "11-15",
+        "home": false
+    }
+]

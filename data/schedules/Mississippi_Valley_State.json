@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Southern",
+        "opponent_logo": "Southern.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Tarleton State",
+        "opponent_logo": "Tarleton_State.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "SE Louisiana",
+        "opponent_logo": "SE_Louisiana.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Texas Southern",
+        "opponent_logo": "Texas_Southern.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Alabama A&M",
+        "opponent_logo": "Alabama_AandM.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Lincoln (CA)",
+        "opponent_logo": "Lincoln_(CA).png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Alcorn State",
+        "opponent_logo": "Alcorn_State.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Bethune-Cookman",
+        "opponent_logo": "Bethune_Cookman.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Jackson State",
+        "opponent_logo": "Jackson_State.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Alabama State",
+        "opponent_logo": "Alabama_State.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Prairie View A&M",
+        "opponent_logo": "Prairie_View_AandM.png",
+        "date": "11-22",
+        "home": false
+    },
+    {
+        "opponent": "Florida A&M",
+        "opponent_logo": "Florida_AandM.png",
+        "date": "11-29",
+        "home": true
+    }
+]

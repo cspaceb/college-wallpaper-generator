@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Allen",
+        "opponent_logo": "Allen.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Illinois State",
+        "opponent_logo": "Illinois_State.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Austin Peay",
+        "opponent_logo": "Austin_Peay.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Kentucky Christian",
+        "opponent_logo": "Kentucky_Christian.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Presbyterian",
+        "opponent_logo": "Presbyterian.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Dayton",
+        "opponent_logo": "Dayton.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Stetson",
+        "opponent_logo": "Stetson.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Marist",
+        "opponent_logo": "Marist.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Valparaiso",
+        "opponent_logo": "Valparaiso.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Davidson",
+        "opponent_logo": "Davidson.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Butler",
+        "opponent_logo": "Butler.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Drake",
+        "opponent_logo": "Drake.png",
+        "date": "11-22",
+        "home": false
+    }
+]

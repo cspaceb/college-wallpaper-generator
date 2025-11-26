@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Kansas",
+        "opponent_logo": "Kansas.png",
+        "date": "08-23",
+        "home": false
+    },
+    {
+        "opponent": "Georgia Southern",
+        "opponent_logo": "Georgia_Southern.png",
+        "date": "08-31",
+        "home": true
+    },
+    {
+        "opponent": "Oregon State",
+        "opponent_logo": "Oregon_State.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Southern",
+        "opponent_logo": "Southern.png",
+        "date": "09-14",
+        "home": true
+    },
+    {
+        "opponent": "Hawai'i",
+        "opponent_logo": "Hawaii.png",
+        "date": "09-21",
+        "home": false
+    },
+    {
+        "opponent": "Nevada",
+        "opponent_logo": "Nevada.png",
+        "date": "10-05",
+        "home": true
+    },
+    {
+        "opponent": "Colorado State",
+        "opponent_logo": "Colorado_State.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "San Diego State",
+        "opponent_logo": "San_Diego_State.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Boise State",
+        "opponent_logo": "Boise_State.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Wyoming",
+        "opponent_logo": "Wyoming.png",
+        "date": "11-16",
+        "home": true
+    },
+    {
+        "opponent": "Utah State",
+        "opponent_logo": "Utah_State.png",
+        "date": "11-23",
+        "home": true
+    },
+    {
+        "opponent": "San Jos\u00e9 State",
+        "opponent_logo": "San_Jose_State.png",
+        "date": "11-30",
+        "home": false
+    }
+]

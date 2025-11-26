@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Lycoming",
+        "opponent_logo": "Lycoming.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Wilkes",
+        "opponent_logo": "Wilkes.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Juniata College",
+        "opponent_logo": "Juniata_College.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Salisbury",
+        "opponent_logo": "Salisbury.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "William Paterson",
+        "opponent_logo": "William_Paterson.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Castleton",
+        "opponent_logo": "Castleton.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Kean",
+        "opponent_logo": "Kean.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Rowan",
+        "opponent_logo": "Rowan.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Montclair State",
+        "opponent_logo": "Montclair_State.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Christopher Newport",
+        "opponent_logo": "Christopher_Newport.png",
+        "date": "11-14",
+        "home": true
+    }
+]

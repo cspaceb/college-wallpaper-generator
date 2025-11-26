@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Akron",
+        "opponent_logo": "Akron.png",
+        "date": "08-28",
+        "home": false
+    },
+    {
+        "opponent": "Northern Iowa",
+        "opponent_logo": "Northern_Iowa.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Utah",
+        "opponent_logo": "Utah.png",
+        "date": "09-14",
+        "home": true
+    },
+    {
+        "opponent": "Colorado",
+        "opponent_logo": "Colorado.png",
+        "date": "09-21",
+        "home": false
+    },
+    {
+        "opponent": "UNLV",
+        "opponent_logo": "UNLV.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "San Jos\u00e9 State",
+        "opponent_logo": "San_Jose_State.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Air Force",
+        "opponent_logo": "Air_Force.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Colorado State",
+        "opponent_logo": "Colorado_State.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "San Diego State",
+        "opponent_logo": "San_Diego_State.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Fresno State",
+        "opponent_logo": "Fresno_State.png",
+        "date": "11-16",
+        "home": false
+    },
+    {
+        "opponent": "Nevada",
+        "opponent_logo": "Nevada.png",
+        "date": "11-22",
+        "home": true
+    },
+    {
+        "opponent": "Hawai'i",
+        "opponent_logo": "Hawaii.png",
+        "date": "11-30",
+        "home": false
+    }
+]

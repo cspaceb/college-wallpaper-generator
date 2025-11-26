@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Texas State",
+        "opponent_logo": "Texas_State.png",
+        "date": "08-31",
+        "home": false
+    },
+    {
+        "opponent": "Long Island University",
+        "opponent_logo": "Long_Island_University.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Kentucky",
+        "opponent_logo": "Kentucky.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Louisiana",
+        "opponent_logo": "Louisiana.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Central Michigan",
+        "opponent_logo": "Central_Michigan.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Buffalo",
+        "opponent_logo": "Buffalo.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Northern Illinois",
+        "opponent_logo": "Northern_Illinois.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Miami (OH)",
+        "opponent_logo": "Miami_(OH).png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Ohio",
+        "opponent_logo": "Ohio.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Bowling Green",
+        "opponent_logo": "Bowling_Green.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Ball State",
+        "opponent_logo": "Ball_State.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Western Michigan",
+        "opponent_logo": "Western_Michigan.png",
+        "date": "11-26",
+        "home": true
+    }
+]

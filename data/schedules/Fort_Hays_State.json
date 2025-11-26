@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Angelo State",
+        "opponent_logo": "Angelo_State.png",
+        "date": "08-29",
+        "home": true
+    },
+    {
+        "opponent": "CSU Pueblo",
+        "opponent_logo": "CSU_Pueblo.png",
+        "date": "09-05",
+        "home": false
+    },
+    {
+        "opponent": "Nebraska-Kearney",
+        "opponent_logo": "Nebraska_Kearney.png",
+        "date": "09-14",
+        "home": true
+    },
+    {
+        "opponent": "Pittsburg St",
+        "opponent_logo": "Pittsburg_St.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Missouri Western",
+        "opponent_logo": "Missouri_Western.png",
+        "date": "09-28",
+        "home": true
+    },
+    {
+        "opponent": "Missouri Southern State",
+        "opponent_logo": "Missouri_Southern_State.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Central Oklahoma",
+        "opponent_logo": "Central_Oklahoma.png",
+        "date": "10-12",
+        "home": true
+    },
+    {
+        "opponent": "Northwest Missouri St",
+        "opponent_logo": "Northwest_Missouri_St.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Washburn",
+        "opponent_logo": "Washburn.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Central Missouri",
+        "opponent_logo": "Central_Missouri.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Emporia State University",
+        "opponent_logo": "Emporia_State_University.png",
+        "date": "11-15",
+        "home": false
+    }
+]

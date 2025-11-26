@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Central Methodist",
+        "opponent_logo": "Central_Methodist.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Northeastern State",
+        "opponent_logo": "Northeastern_State.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Missouri Western",
+        "opponent_logo": "Missouri_Western.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Truman State",
+        "opponent_logo": "Truman_State.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Southwest Baptist",
+        "opponent_logo": "Southwest_Baptist.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Upper Iowa University",
+        "opponent_logo": "Upper_Iowa_University.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Indianapolis",
+        "opponent_logo": "Indianapolis.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "McKendree",
+        "opponent_logo": "McKendree.png",
+        "date": "10-19",
+        "home": false
+    },
+    {
+        "opponent": "Quincy",
+        "opponent_logo": "Quincy.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "William Jewell",
+        "opponent_logo": "William_Jewell.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Lincoln (MO)",
+        "opponent_logo": "Lincoln_(MO).png",
+        "date": "11-08",
+        "home": false
+    }
+]

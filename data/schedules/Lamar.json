@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "North Texas",
+        "opponent_logo": "North_Texas.png",
+        "date": "08-31",
+        "home": false
+    },
+    {
+        "opponent": "South Dakota",
+        "opponent_logo": "South_Dakota.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Texas Southern",
+        "opponent_logo": "Texas_Southern.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Central Arkansas",
+        "opponent_logo": "Central_Arkansas.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Nicholls",
+        "opponent_logo": "Nicholls.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "East Texas A&M",
+        "opponent_logo": "East_Texas_AandM.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "UT Rio Grande Valley",
+        "opponent_logo": "UT_Rio_Grande_Valley.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Northwestern State",
+        "opponent_logo": "Northwestern_State.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Incarnate Word",
+        "opponent_logo": "Incarnate_Word.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "SE Louisiana",
+        "opponent_logo": "SE_Louisiana.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Stephen F. Austin",
+        "opponent_logo": "Stephen_F_Austin.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "McNeese",
+        "opponent_logo": "McNeese.png",
+        "date": "11-22",
+        "home": true
+    }
+]

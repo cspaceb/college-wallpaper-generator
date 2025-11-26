@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Wisconsin",
+        "opponent_logo": "Wisconsin.png",
+        "date": "08-29",
+        "home": false
+    },
+    {
+        "opponent": "Rutgers",
+        "opponent_logo": "Rutgers.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "UNLV",
+        "opponent_logo": "UNLV.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Lindenwood",
+        "opponent_logo": "Lindenwood.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Northern Illinois",
+        "opponent_logo": "Northern_Illinois.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Akron",
+        "opponent_logo": "Akron.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Eastern Michigan",
+        "opponent_logo": "Eastern_Michigan.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Western Michigan",
+        "opponent_logo": "Western_Michigan.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Ohio",
+        "opponent_logo": "Ohio.png",
+        "date": "11-05",
+        "home": false
+    },
+    {
+        "opponent": "Toledo",
+        "opponent_logo": "Toledo.png",
+        "date": "11-13",
+        "home": true
+    },
+    {
+        "opponent": "Buffalo",
+        "opponent_logo": "Buffalo.png",
+        "date": "11-20",
+        "home": false
+    },
+    {
+        "opponent": "Ball State",
+        "opponent_logo": "Ball_State.png",
+        "date": "11-29",
+        "home": true
+    }
+]

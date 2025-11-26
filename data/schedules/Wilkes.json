@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Kings College (PA)",
+        "opponent_logo": "Kings_College_(PA).png",
+        "date": "09-04",
+        "home": true
+    },
+    {
+        "opponent": "College Of New Jersey",
+        "opponent_logo": "College_Of_New_Jersey.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Muhlenberg",
+        "opponent_logo": "Muhlenberg.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Montclair State",
+        "opponent_logo": "Montclair_State.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Catholic",
+        "opponent_logo": "Catholic.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Moravian",
+        "opponent_logo": "Moravian.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Lycoming",
+        "opponent_logo": "Lycoming.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Juniata College",
+        "opponent_logo": "Juniata_College.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Susquehanna",
+        "opponent_logo": "Susquehanna.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Western Connecticut St",
+        "opponent_logo": "Western_Connecticut_St.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Shenandoah",
+        "opponent_logo": "Shenandoah.png",
+        "date": "11-22",
+        "home": false
+    }
+]

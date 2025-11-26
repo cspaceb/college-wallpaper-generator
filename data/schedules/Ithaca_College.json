@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Johns Hopkins University",
+        "opponent_logo": "Johns_Hopkins_University.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Alfred University",
+        "opponent_logo": "Alfred_University.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Hilbert College",
+        "opponent_logo": "Hilbert_College.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Hobart College",
+        "opponent_logo": "Hobart_College.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "University of Rochester (NY)",
+        "opponent_logo": "University_of_Rochester_(NY).png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "St. Lawrence",
+        "opponent_logo": "St_Lawrence.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Union (NY)",
+        "opponent_logo": "Union_(NY).png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Buffalo State",
+        "opponent_logo": "Buffalo_State.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Rensselaer",
+        "opponent_logo": "Rensselaer.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Cortland",
+        "opponent_logo": "Cortland.png",
+        "date": "11-15",
+        "home": true
+    }
+]

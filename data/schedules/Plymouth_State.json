@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "New England College",
+        "opponent_logo": "New_England_College.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Worcester St",
+        "opponent_logo": "Worcester_St.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Bridgewater State",
+        "opponent_logo": "Bridgewater_State.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Mass Maritime",
+        "opponent_logo": "Mass_Maritime.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Dean College",
+        "opponent_logo": "Dean_College.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Anna Maria College",
+        "opponent_logo": "Anna_Maria_College.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Westfield State",
+        "opponent_logo": "Westfield_State.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Framingham State",
+        "opponent_logo": "Framingham_State.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Fitchburg State",
+        "opponent_logo": "Fitchburg_State.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "UMass Dartmouth",
+        "opponent_logo": "UMass_Dartmouth.png",
+        "date": "11-15",
+        "home": false
+    }
+]

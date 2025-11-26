@@ -1,0 +1,56 @@
+[
+    {
+        "opponent": "Wisconsin-Oshkosh",
+        "opponent_logo": "Wisconsin_Oshkosh.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Chapman",
+        "opponent_logo": "Chapman.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "NEWBERG",
+        "opponent_logo": "NEWBERG.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Pacific (OR)",
+        "opponent_logo": "Pacific_(OR).png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Whitworth",
+        "opponent_logo": "Whitworth.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Pacific Lutheran",
+        "opponent_logo": "Pacific_Lutheran.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Lewis & Clark College",
+        "opponent_logo": "Lewis_and_Clark_College.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Puget Sound",
+        "opponent_logo": "Puget_Sound.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Willamette",
+        "opponent_logo": "Willamette.png",
+        "date": "11-15",
+        "home": true
+    }
+]

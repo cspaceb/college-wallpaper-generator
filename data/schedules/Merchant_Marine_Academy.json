@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Montclair State",
+        "opponent_logo": "Montclair_State.png",
+        "date": "09-05",
+        "home": true
+    },
+    {
+        "opponent": "Nichols College",
+        "opponent_logo": "Nichols_College.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Norwich",
+        "opponent_logo": "Norwich.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "MIT",
+        "opponent_logo": "MIT.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "SUNY Maritime",
+        "opponent_logo": "SUNY_Maritime.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Salve Regina",
+        "opponent_logo": "Salve_Regina.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Springfield",
+        "opponent_logo": "Springfield.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Worcester Polytechnic Institute",
+        "opponent_logo": "Worcester_Polytechnic_Institute.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Coast Guard",
+        "opponent_logo": "Coast_Guard.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Curry College",
+        "opponent_logo": "Curry_College.png",
+        "date": "11-21",
+        "home": false
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Robert Morris",
+        "opponent_logo": "Robert_Morris.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Ohio",
+        "opponent_logo": "Ohio.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Pittsburgh",
+        "opponent_logo": "Pittsburgh.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Kansas",
+        "opponent_logo": "Kansas.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Utah",
+        "opponent_logo": "Utah.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "BYU",
+        "opponent_logo": "BYU.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "UCF",
+        "opponent_logo": "UCF.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "TCU",
+        "opponent_logo": "TCU.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Houston",
+        "opponent_logo": "Houston.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Colorado",
+        "opponent_logo": "Colorado.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Arizona State",
+        "opponent_logo": "Arizona_State.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Texas Tech",
+        "opponent_logo": "Texas_Tech.png",
+        "date": "11-29",
+        "home": true
+    }
+]

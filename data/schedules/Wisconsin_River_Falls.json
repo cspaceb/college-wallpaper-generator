@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Alma",
+        "opponent_logo": "Alma.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Coe College",
+        "opponent_logo": "Coe_College.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Belhaven",
+        "opponent_logo": "Belhaven.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Wisconsin-Oshkosh",
+        "opponent_logo": "Wisconsin_Oshkosh.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Wisconsin-Platteville",
+        "opponent_logo": "Wisconsin_Platteville.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Wisconsin-Stevens Pt",
+        "opponent_logo": "Wisconsin_Stevens_Pt.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Wisconsin-Eau Claire",
+        "opponent_logo": "Wisconsin_Eau_Claire.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Wisconsin-Whitewater",
+        "opponent_logo": "Wisconsin_Whitewater.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Wisconsin-Lacrosse",
+        "opponent_logo": "Wisconsin_Lacrosse.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Wisconsin-Stout",
+        "opponent_logo": "Wisconsin_Stout.png",
+        "date": "11-15",
+        "home": false
+    }
+]

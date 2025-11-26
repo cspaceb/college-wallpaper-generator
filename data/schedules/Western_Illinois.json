@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Illinois",
+        "opponent_logo": "Illinois.png",
+        "date": "08-29",
+        "home": false
+    },
+    {
+        "opponent": "Northwestern",
+        "opponent_logo": "Northwestern.png",
+        "date": "09-05",
+        "home": false
+    },
+    {
+        "opponent": "Valparaiso",
+        "opponent_logo": "Valparaiso.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Eastern Washington",
+        "opponent_logo": "Eastern_Washington.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Eastern Illinois",
+        "opponent_logo": "Eastern_Illinois.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Tennessee Tech",
+        "opponent_logo": "Tennessee_Tech.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "UT Martin",
+        "opponent_logo": "UT_Martin.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Charleston Southern",
+        "opponent_logo": "Charleston_Southern.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Tennessee State",
+        "opponent_logo": "Tennessee_State.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Lindenwood",
+        "opponent_logo": "Lindenwood.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Southeast Missouri State",
+        "opponent_logo": "Southeast_Missouri_State.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Gardner-Webb",
+        "opponent_logo": "Gardner_Webb.png",
+        "date": "11-22",
+        "home": false
+    }
+]

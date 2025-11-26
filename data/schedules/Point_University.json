@@ -1,0 +1,14 @@
+[
+    {
+        "opponent": "Lagrange College",
+        "opponent_logo": "Lagrange_College.png",
+        "date": "09-07",
+        "home": true
+    },
+    {
+        "opponent": "Newberry",
+        "opponent_logo": "Newberry.png",
+        "date": "09-13",
+        "home": false
+    }
+]

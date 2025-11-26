@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Kean",
+        "opponent_logo": "Kean.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "University of Rochester (NY)",
+        "opponent_logo": "University_of_Rochester_(NY).png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Union (NY)",
+        "opponent_logo": "Union_(NY).png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Cortland",
+        "opponent_logo": "Cortland.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Alfred State",
+        "opponent_logo": "Alfred_State.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Utica",
+        "opponent_logo": "Utica.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Brockport",
+        "opponent_logo": "Brockport.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Hartwick",
+        "opponent_logo": "Hartwick.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "St John Fisher University",
+        "opponent_logo": "St_John_Fisher_University.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Alfred University",
+        "opponent_logo": "Alfred_University.png",
+        "date": "11-15",
+        "home": false
+    }
+]

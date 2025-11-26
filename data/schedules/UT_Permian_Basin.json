@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Central Oklahoma",
+        "opponent_logo": "Central_Oklahoma.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Adams State",
+        "opponent_logo": "Adams_State.png",
+        "date": "09-07",
+        "home": false
+    },
+    {
+        "opponent": "Texas A&M-Kingsville",
+        "opponent_logo": "Texas_AandM_Kingsville.png",
+        "date": "09-21",
+        "home": false
+    },
+    {
+        "opponent": "Midwestern State",
+        "opponent_logo": "Midwestern_State.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Angelo State",
+        "opponent_logo": "Angelo_State.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Central Washington",
+        "opponent_logo": "Central_Washington.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Western Oregon",
+        "opponent_logo": "Western_Oregon.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "West Texas A&M",
+        "opponent_logo": "West_Texas_AandM.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Western New Mexico",
+        "opponent_logo": "Western_New_Mexico.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Eastern New Mexico",
+        "opponent_logo": "Eastern_New_Mexico.png",
+        "date": "11-09",
+        "home": true
+    },
+    {
+        "opponent": "Sul Ross State",
+        "opponent_logo": "Sul_Ross_State.png",
+        "date": "11-16",
+        "home": true
+    }
+]

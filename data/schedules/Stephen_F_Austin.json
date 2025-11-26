@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Houston",
+        "opponent_logo": "Houston.png",
+        "date": "08-29",
+        "home": false
+    },
+    {
+        "opponent": "Abilene Christian",
+        "opponent_logo": "Abilene_Christian.png",
+        "date": "09-07",
+        "home": false
+    },
+    {
+        "opponent": "Sul Ross State",
+        "opponent_logo": "Sul_Ross_State.png",
+        "date": "09-14",
+        "home": true
+    },
+    {
+        "opponent": "Cal Poly",
+        "opponent_logo": "Cal_Poly.png",
+        "date": "09-21",
+        "home": true
+    },
+    {
+        "opponent": "McNeese",
+        "opponent_logo": "McNeese.png",
+        "date": "09-28",
+        "home": true
+    },
+    {
+        "opponent": "Incarnate Word",
+        "opponent_logo": "Incarnate_Word.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Nicholls",
+        "opponent_logo": "Nicholls.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "East Texas A&M",
+        "opponent_logo": "East_Texas_AandM.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "UT Rio Grande Valley",
+        "opponent_logo": "UT_Rio_Grande_Valley.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Houston Christian",
+        "opponent_logo": "Houston_Christian.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Lamar",
+        "opponent_logo": "Lamar.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Northwestern State",
+        "opponent_logo": "Northwestern_State.png",
+        "date": "11-21",
+        "home": false
+    }
+]

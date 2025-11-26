@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Carroll University (WI)",
+        "opponent_logo": "Carroll_University_(WI).png",
+        "date": "09-04",
+        "home": true
+    },
+    {
+        "opponent": "Kenyon",
+        "opponent_logo": "Kenyon.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Martin Luther",
+        "opponent_logo": "Martin_Luther.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Wisconsin-Stout",
+        "opponent_logo": "Wisconsin_Stout.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Wisconsin-Lacrosse",
+        "opponent_logo": "Wisconsin_Lacrosse.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Wisconsin-Oshkosh",
+        "opponent_logo": "Wisconsin_Oshkosh.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Wisconsin-River Falls",
+        "opponent_logo": "Wisconsin_River_Falls.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Wisconsin-Stevens Pt",
+        "opponent_logo": "Wisconsin_Stevens_Pt.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Wisconsin-Whitewater",
+        "opponent_logo": "Wisconsin_Whitewater.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Wisconsin-Platteville",
+        "opponent_logo": "Wisconsin_Platteville.png",
+        "date": "11-15",
+        "home": true
+    }
+]

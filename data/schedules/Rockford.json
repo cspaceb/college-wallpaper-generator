@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Beloit",
+        "opponent_logo": "Beloit.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Elmhurst",
+        "opponent_logo": "Elmhurst.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Eureka College",
+        "opponent_logo": "Eureka_College.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Lakeland",
+        "opponent_logo": "Lakeland.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Benedictine University",
+        "opponent_logo": "Benedictine_University.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Aurora",
+        "opponent_logo": "Aurora.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Concordia University Chicago",
+        "opponent_logo": "Concordia_University_Chicago.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "St. Norbert",
+        "opponent_logo": "St_Norbert.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Concordia-Wisconsin",
+        "opponent_logo": "Concordia_Wisconsin.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Wisconsin-Lutheran",
+        "opponent_logo": "Wisconsin_Lutheran.png",
+        "date": "11-08",
+        "home": true
+    }
+]

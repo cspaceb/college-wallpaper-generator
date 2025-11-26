@@ -1,0 +1,56 @@
+[
+    {
+        "opponent": "Nichols College",
+        "opponent_logo": "Nichols_College.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "New England College",
+        "opponent_logo": "New_England_College.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Springfield",
+        "opponent_logo": "Springfield.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Merchant Marine Academy",
+        "opponent_logo": "Merchant_Marine_Academy.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Coast Guard",
+        "opponent_logo": "Coast_Guard.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Salve Regina",
+        "opponent_logo": "Salve_Regina.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Worcester Polytechnic Institute",
+        "opponent_logo": "Worcester_Polytechnic_Institute.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "SUNY Maritime",
+        "opponent_logo": "SUNY_Maritime.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Norwich",
+        "opponent_logo": "Norwich.png",
+        "date": "11-15",
+        "home": true
+    }
+]

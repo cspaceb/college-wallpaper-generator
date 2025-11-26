@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Widener",
+        "opponent_logo": "Widener.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Shenandoah",
+        "opponent_logo": "Shenandoah.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Saint Vincent",
+        "opponent_logo": "Saint_Vincent.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Allegheny",
+        "opponent_logo": "Allegheny.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Grove City College",
+        "opponent_logo": "Grove_City_College.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Thiel",
+        "opponent_logo": "Thiel.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Waynesburg",
+        "opponent_logo": "Waynesburg.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Bethany (WV)",
+        "opponent_logo": "Bethany_(WV).png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Washington & Jefferson",
+        "opponent_logo": "Washington_and_Jefferson.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Case Western Reserve",
+        "opponent_logo": "Case_Western_Reserve.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Brockport",
+        "opponent_logo": "Brockport.png",
+        "date": "11-22",
+        "home": false
+    }
+]

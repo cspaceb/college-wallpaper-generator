@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "CSU Pueblo",
+        "opponent_logo": "CSU_Pueblo.png",
+        "date": "08-29",
+        "home": false
+    },
+    {
+        "opponent": "Michigan Tech",
+        "opponent_logo": "Michigan_Tech.png",
+        "date": "09-04",
+        "home": true
+    },
+    {
+        "opponent": "Upper Iowa University",
+        "opponent_logo": "Upper_Iowa_University.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "New Mexico Highlands",
+        "opponent_logo": "New_Mexico_Highlands.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Fort Lewis",
+        "opponent_logo": "Fort_Lewis.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Black Hills State",
+        "opponent_logo": "Black_Hills_State.png",
+        "date": "10-05",
+        "home": false
+    },
+    {
+        "opponent": "Colorado School Of Mines",
+        "opponent_logo": "Colorado_School_Of_Mines.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Western Colorado",
+        "opponent_logo": "Western_Colorado.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Chadron St",
+        "opponent_logo": "Chadron_St.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Colorado Mesa",
+        "opponent_logo": "Colorado_Mesa.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Adams State",
+        "opponent_logo": "Adams_State.png",
+        "date": "11-15",
+        "home": true
+    }
+]

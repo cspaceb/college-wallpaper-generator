@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Emory & Henry College",
+        "opponent_logo": "Emory_and_Henry_College.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Lock Haven University",
+        "opponent_logo": "Lock_Haven_University.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Millersville",
+        "opponent_logo": "Millersville.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "University Of Charleston (WV)",
+        "opponent_logo": "University_Of_Charleston_(WV).png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Fairmont State",
+        "opponent_logo": "Fairmont_State.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Frostburg State",
+        "opponent_logo": "Frostburg_State.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Concord University",
+        "opponent_logo": "Concord_University.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "West Liberty",
+        "opponent_logo": "West_Liberty.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "West Virginia State",
+        "opponent_logo": "West_Virginia_State.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Wheeling",
+        "opponent_logo": "Wheeling.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "West Virginia Wesleyan",
+        "opponent_logo": "West_Virginia_Wesleyan.png",
+        "date": "11-15",
+        "home": false
+    }
+]

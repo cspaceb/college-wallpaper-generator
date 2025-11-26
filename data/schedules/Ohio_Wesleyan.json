@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Otterbein",
+        "opponent_logo": "Otterbein.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Maryville College (TN)",
+        "opponent_logo": "Maryville_College_(TN).png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Wittenberg",
+        "opponent_logo": "Wittenberg.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Denison University",
+        "opponent_logo": "Denison_University.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Wabash College",
+        "opponent_logo": "Wabash_College.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Wooster",
+        "opponent_logo": "Wooster.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Kenyon",
+        "opponent_logo": "Kenyon.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Depauw",
+        "opponent_logo": "Depauw.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "John Carroll University",
+        "opponent_logo": "John_Carroll_University.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Oberlin",
+        "opponent_logo": "Oberlin.png",
+        "date": "11-15",
+        "home": true
+    }
+]

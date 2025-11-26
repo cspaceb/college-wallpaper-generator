@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Millsaps",
+        "opponent_logo": "Millsaps.png",
+        "date": "09-05",
+        "home": true
+    },
+    {
+        "opponent": "Trinity University TX",
+        "opponent_logo": "Trinity_University_TX.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Wisconsin-River Falls",
+        "opponent_logo": "Wisconsin_River_Falls.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Brevard College",
+        "opponent_logo": "Brevard_College.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "North Carolina Wesleyan",
+        "opponent_logo": "North_Carolina_Wesleyan.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Greensboro College",
+        "opponent_logo": "Greensboro_College.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Methodist",
+        "opponent_logo": "Methodist.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Southern Virginia",
+        "opponent_logo": "Southern_Virginia.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Lagrange College",
+        "opponent_logo": "Lagrange_College.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Huntingdon College (AL)",
+        "opponent_logo": "Huntingdon_College_(AL).png",
+        "date": "11-15",
+        "home": true
+    }
+]

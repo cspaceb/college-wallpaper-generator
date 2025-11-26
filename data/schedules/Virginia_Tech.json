@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "South Carolina",
+        "opponent_logo": "South_Carolina.png",
+        "date": "08-31",
+        "home": false
+    },
+    {
+        "opponent": "Vanderbilt",
+        "opponent_logo": "Vanderbilt.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Old Dominion",
+        "opponent_logo": "Old_Dominion.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Wofford",
+        "opponent_logo": "Wofford.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "NC State",
+        "opponent_logo": "NC_State.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Wake Forest",
+        "opponent_logo": "Wake_Forest.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Georgia Tech",
+        "opponent_logo": "Georgia_Tech.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "California",
+        "opponent_logo": "California.png",
+        "date": "10-24",
+        "home": true
+    },
+    {
+        "opponent": "Louisville",
+        "opponent_logo": "Louisville.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Florida State",
+        "opponent_logo": "Florida_State.png",
+        "date": "11-16",
+        "home": false
+    },
+    {
+        "opponent": "Miami",
+        "opponent_logo": "Miami.png",
+        "date": "11-22",
+        "home": true
+    },
+    {
+        "opponent": "Virginia",
+        "opponent_logo": "Virginia.png",
+        "date": "11-29",
+        "home": false
+    }
+]

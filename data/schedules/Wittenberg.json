@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Baldwin Wallace",
+        "opponent_logo": "Baldwin_Wallace.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Washington and Lee",
+        "opponent_logo": "Washington_and_Lee.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Ohio Wesleyan",
+        "opponent_logo": "Ohio_Wesleyan.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Depauw",
+        "opponent_logo": "Depauw.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Wooster",
+        "opponent_logo": "Wooster.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "John Carroll University",
+        "opponent_logo": "John_Carroll_University.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Denison University",
+        "opponent_logo": "Denison_University.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Oberlin",
+        "opponent_logo": "Oberlin.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Wabash College",
+        "opponent_logo": "Wabash_College.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Kenyon",
+        "opponent_logo": "Kenyon.png",
+        "date": "11-15",
+        "home": true
+    }
+]

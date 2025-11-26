@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Webber International",
+        "opponent_logo": "Webber_International.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Warner University",
+        "opponent_logo": "Warner_University.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Chattanooga",
+        "opponent_logo": "Chattanooga.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Harvard",
+        "opponent_logo": "Harvard.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Dayton",
+        "opponent_logo": "Dayton.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Davidson",
+        "opponent_logo": "Davidson.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Morehead State",
+        "opponent_logo": "Morehead_State.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Presbyterian",
+        "opponent_logo": "Presbyterian.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "St. Thomas (MN)",
+        "opponent_logo": "St_Thomas_(MN).png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Marist",
+        "opponent_logo": "Marist.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Valparaiso",
+        "opponent_logo": "Valparaiso.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "San Diego",
+        "opponent_logo": "San_Diego.png",
+        "date": "11-22",
+        "home": true
+    }
+]

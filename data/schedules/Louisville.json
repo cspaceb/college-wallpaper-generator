@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Eastern Kentucky",
+        "opponent_logo": "Eastern_Kentucky.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "James Madison",
+        "opponent_logo": "James_Madison.png",
+        "date": "09-05",
+        "home": true
+    },
+    {
+        "opponent": "Bowling Green",
+        "opponent_logo": "Bowling_Green.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Pittsburgh",
+        "opponent_logo": "Pittsburgh.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Virginia",
+        "opponent_logo": "Virginia.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Miami",
+        "opponent_logo": "Miami.png",
+        "date": "10-17",
+        "home": false
+    },
+    {
+        "opponent": "Boston College",
+        "opponent_logo": "Boston_College.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Virginia Tech",
+        "opponent_logo": "Virginia_Tech.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "California",
+        "opponent_logo": "California.png",
+        "date": "11-09",
+        "home": true
+    },
+    {
+        "opponent": "Clemson",
+        "opponent_logo": "Clemson.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "SMU",
+        "opponent_logo": "SMU.png",
+        "date": "11-22",
+        "home": false
+    },
+    {
+        "opponent": "Kentucky",
+        "opponent_logo": "Kentucky.png",
+        "date": "11-29",
+        "home": true
+    }
+]

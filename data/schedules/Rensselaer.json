@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Worcester Polytechnic Institute",
+        "opponent_logo": "Worcester_Polytechnic_Institute.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Utica",
+        "opponent_logo": "Utica.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Brockport",
+        "opponent_logo": "Brockport.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "University of Rochester (NY)",
+        "opponent_logo": "University_of_Rochester_(NY).png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Hobart College",
+        "opponent_logo": "Hobart_College.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Buffalo State",
+        "opponent_logo": "Buffalo_State.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Hilbert College",
+        "opponent_logo": "Hilbert_College.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "St. Lawrence",
+        "opponent_logo": "St_Lawrence.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Ithaca College",
+        "opponent_logo": "Ithaca_College.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Union (NY)",
+        "opponent_logo": "Union_(NY).png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "St John Fisher University",
+        "opponent_logo": "St_John_Fisher_University.png",
+        "date": "11-22",
+        "home": false
+    }
+]

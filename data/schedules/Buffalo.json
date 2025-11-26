@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Minnesota",
+        "opponent_logo": "Minnesota.png",
+        "date": "08-29",
+        "home": false
+    },
+    {
+        "opponent": "St. Francis (PA)",
+        "opponent_logo": "St_Francis_(PA).png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Kent State",
+        "opponent_logo": "Kent_State.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Troy",
+        "opponent_logo": "Troy.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "UConn",
+        "opponent_logo": "UConn.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Eastern Michigan",
+        "opponent_logo": "Eastern_Michigan.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Massachusetts",
+        "opponent_logo": "Massachusetts.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Akron",
+        "opponent_logo": "Akron.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Bowling Green",
+        "opponent_logo": "Bowling_Green.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Central Michigan",
+        "opponent_logo": "Central_Michigan.png",
+        "date": "11-13",
+        "home": false
+    },
+    {
+        "opponent": "Miami (OH)",
+        "opponent_logo": "Miami_(OH).png",
+        "date": "11-20",
+        "home": true
+    },
+    {
+        "opponent": "Ohio",
+        "opponent_logo": "Ohio.png",
+        "date": "11-28",
+        "home": true
+    }
+]

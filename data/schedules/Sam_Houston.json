@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Western Kentucky",
+        "opponent_logo": "Western_Kentucky.png",
+        "date": "08-23",
+        "home": false
+    },
+    {
+        "opponent": "UNLV",
+        "opponent_logo": "UNLV.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Hawai'i",
+        "opponent_logo": "Hawaii.png",
+        "date": "09-07",
+        "home": false
+    },
+    {
+        "opponent": "Texas",
+        "opponent_logo": "Texas.png",
+        "date": "09-21",
+        "home": false
+    },
+    {
+        "opponent": "New Mexico State",
+        "opponent_logo": "New_Mexico_State.png",
+        "date": "10-03",
+        "home": false
+    },
+    {
+        "opponent": "Jacksonville State",
+        "opponent_logo": "Jacksonville_State.png",
+        "date": "10-10",
+        "home": true
+    },
+    {
+        "opponent": "UTEP",
+        "opponent_logo": "UTEP.png",
+        "date": "10-15",
+        "home": true
+    },
+    {
+        "opponent": "Louisiana Tech",
+        "opponent_logo": "Louisiana_Tech.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Oregon State",
+        "opponent_logo": "Oregon_State.png",
+        "date": "11-09",
+        "home": false
+    },
+    {
+        "opponent": "Delaware",
+        "opponent_logo": "Delaware.png",
+        "date": "11-16",
+        "home": true
+    },
+    {
+        "opponent": "Middle Tennessee",
+        "opponent_logo": "Middle_Tennessee.png",
+        "date": "11-22",
+        "home": false
+    },
+    {
+        "opponent": "Florida International",
+        "opponent_logo": "Florida_International.png",
+        "date": "11-29",
+        "home": true
+    }
+]

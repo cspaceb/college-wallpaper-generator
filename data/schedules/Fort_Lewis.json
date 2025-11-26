@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "William Jewell",
+        "opponent_logo": "William_Jewell.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Phoenix",
+        "opponent_logo": "Phoenix.png",
+        "date": "09-07",
+        "home": false
+    },
+    {
+        "opponent": "Black Hills State",
+        "opponent_logo": "Black_Hills_State.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "South Dakota Mines",
+        "opponent_logo": "South_Dakota_Mines.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Western Colorado",
+        "opponent_logo": "Western_Colorado.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "CSU Pueblo",
+        "opponent_logo": "CSU_Pueblo.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Chadron St",
+        "opponent_logo": "Chadron_St.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Colorado Mesa",
+        "opponent_logo": "Colorado_Mesa.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Adams State",
+        "opponent_logo": "Adams_State.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "New Mexico Highlands",
+        "opponent_logo": "New_Mexico_Highlands.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Colorado School Of Mines",
+        "opponent_logo": "Colorado_School_Of_Mines.png",
+        "date": "11-15",
+        "home": true
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Portland State",
+        "opponent_logo": "Portland_State.png",
+        "date": "08-31",
+        "home": true
+    },
+    {
+        "opponent": "Stanford",
+        "opponent_logo": "Stanford.png",
+        "date": "09-07",
+        "home": true
+    },
+    {
+        "opponent": "East Carolina",
+        "opponent_logo": "East_Carolina.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Colorado",
+        "opponent_logo": "Colorado.png",
+        "date": "09-28",
+        "home": false
+    },
+    {
+        "opponent": "West Virginia",
+        "opponent_logo": "West_Virginia.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Arizona",
+        "opponent_logo": "Arizona.png",
+        "date": "10-12",
+        "home": false
+    },
+    {
+        "opponent": "Utah",
+        "opponent_logo": "Utah.png",
+        "date": "10-19",
+        "home": true
+    },
+    {
+        "opponent": "Iowa State",
+        "opponent_logo": "Iowa_State.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Texas Tech",
+        "opponent_logo": "Texas_Tech.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "TCU",
+        "opponent_logo": "TCU.png",
+        "date": "11-16",
+        "home": true
+    },
+    {
+        "opponent": "Cincinnati",
+        "opponent_logo": "Cincinnati.png",
+        "date": "11-23",
+        "home": false
+    },
+    {
+        "opponent": "UCF",
+        "opponent_logo": "UCF.png",
+        "date": "11-29",
+        "home": true
+    }
+]

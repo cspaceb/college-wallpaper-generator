@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Maryland",
+        "opponent_logo": "Maryland.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Florida A&M",
+        "opponent_logo": "Florida_AandM.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Florida International",
+        "opponent_logo": "Florida_International.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Memphis",
+        "opponent_logo": "Memphis.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Rice",
+        "opponent_logo": "Rice.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "UAB",
+        "opponent_logo": "UAB.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "South Florida",
+        "opponent_logo": "South_Florida.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Navy",
+        "opponent_logo": "Navy.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Tulsa",
+        "opponent_logo": "Tulsa.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Tulane",
+        "opponent_logo": "Tulane.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "UConn",
+        "opponent_logo": "UConn.png",
+        "date": "11-22",
+        "home": true
+    },
+    {
+        "opponent": "East Carolina",
+        "opponent_logo": "East_Carolina.png",
+        "date": "11-29",
+        "home": true
+    }
+]

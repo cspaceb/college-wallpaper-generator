@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Northwestern",
+        "opponent_logo": "Northwestern.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "South Alabama",
+        "opponent_logo": "South_Alabama.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Duke",
+        "opponent_logo": "Duke.png",
+        "date": "09-14",
+        "home": true
+    },
+    {
+        "opponent": "Ole Miss",
+        "opponent_logo": "Ole_Miss.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Tulsa",
+        "opponent_logo": "Tulsa.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "East Carolina",
+        "opponent_logo": "East_Carolina.png",
+        "date": "10-09",
+        "home": true
+    },
+    {
+        "opponent": "Army",
+        "opponent_logo": "Army.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "UTSA",
+        "opponent_logo": "UTSA.png",
+        "date": "10-30",
+        "home": false
+    },
+    {
+        "opponent": "Memphis",
+        "opponent_logo": "Memphis.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Florida Atlantic",
+        "opponent_logo": "Florida_Atlantic.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Temple",
+        "opponent_logo": "Temple.png",
+        "date": "11-22",
+        "home": false
+    },
+    {
+        "opponent": "Charlotte",
+        "opponent_logo": "Charlotte.png",
+        "date": "11-29",
+        "home": true
+    }
+]

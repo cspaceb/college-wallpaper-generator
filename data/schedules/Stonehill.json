@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Sacred Heart",
+        "opponent_logo": "Sacred_Heart.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Lafayette",
+        "opponent_logo": "Lafayette.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Maine",
+        "opponent_logo": "Maine.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Pennsylvania",
+        "opponent_logo": "Pennsylvania.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Long Island University",
+        "opponent_logo": "Long_Island_University.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Duquesne",
+        "opponent_logo": "Duquesne.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Yale",
+        "opponent_logo": "Yale.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Mercyhurst",
+        "opponent_logo": "Mercyhurst.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Robert Morris",
+        "opponent_logo": "Robert_Morris.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Central Connecticut",
+        "opponent_logo": "Central_Connecticut.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Wagner",
+        "opponent_logo": "Wagner.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "St. Francis (PA)",
+        "opponent_logo": "St_Francis_(PA).png",
+        "date": "11-22",
+        "home": true
+    }
+]

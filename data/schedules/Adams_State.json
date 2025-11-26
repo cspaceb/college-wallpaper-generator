@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Western New Mexico",
+        "opponent_logo": "Western_New_Mexico.png",
+        "date": "08-31",
+        "home": false
+    },
+    {
+        "opponent": "UT Permian Basin",
+        "opponent_logo": "UT_Permian_Basin.png",
+        "date": "09-07",
+        "home": true
+    },
+    {
+        "opponent": "Western Colorado",
+        "opponent_logo": "Western_Colorado.png",
+        "date": "09-21",
+        "home": true
+    },
+    {
+        "opponent": "CSU Pueblo",
+        "opponent_logo": "CSU_Pueblo.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Chadron St",
+        "opponent_logo": "Chadron_St.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Colorado Mesa",
+        "opponent_logo": "Colorado_Mesa.png",
+        "date": "10-12",
+        "home": false
+    },
+    {
+        "opponent": "Colorado School Of Mines",
+        "opponent_logo": "Colorado_School_Of_Mines.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "New Mexico Highlands",
+        "opponent_logo": "New_Mexico_Highlands.png",
+        "date": "10-26",
+        "home": true
+    },
+    {
+        "opponent": "Fort Lewis",
+        "opponent_logo": "Fort_Lewis.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Black Hills State",
+        "opponent_logo": "Black_Hills_State.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "South Dakota Mines",
+        "opponent_logo": "South_Dakota_Mines.png",
+        "date": "11-15",
+        "home": false
+    }
+]

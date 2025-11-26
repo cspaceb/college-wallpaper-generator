@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Salisbury",
+        "opponent_logo": "Salisbury.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Wittenberg",
+        "opponent_logo": "Wittenberg.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Guilford College",
+        "opponent_logo": "Guilford_College.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Randolph-Macon",
+        "opponent_logo": "Randolph_Macon.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Hampden-Sydney",
+        "opponent_logo": "Hampden_Sydney.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Gallaudet",
+        "opponent_logo": "Gallaudet.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Bridgewater (VA)",
+        "opponent_logo": "Bridgewater_(VA).png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Averett",
+        "opponent_logo": "Averett.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Roanoke College",
+        "opponent_logo": "Roanoke_College.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Shenandoah",
+        "opponent_logo": "Shenandoah.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Lycoming",
+        "opponent_logo": "Lycoming.png",
+        "date": "11-22",
+        "home": false
+    }
+]

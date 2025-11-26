@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Butler",
+        "opponent_logo": "Butler.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Wyoming",
+        "opponent_logo": "Wyoming.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Eastern Washington",
+        "opponent_logo": "Eastern_Washington.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Utah Tech",
+        "opponent_logo": "Utah_Tech.png",
+        "date": "09-21",
+        "home": false
+    },
+    {
+        "opponent": "North Dakota",
+        "opponent_logo": "North_Dakota.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "South Dakota State",
+        "opponent_logo": "South_Dakota_State.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "South Dakota",
+        "opponent_logo": "South_Dakota.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Southern Illinois",
+        "opponent_logo": "Southern_Illinois.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Illinois State",
+        "opponent_logo": "Illinois_State.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Murray State",
+        "opponent_logo": "Murray_State.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "North Dakota State",
+        "opponent_logo": "North_Dakota_State.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Youngstown State",
+        "opponent_logo": "Youngstown_State.png",
+        "date": "11-22",
+        "home": true
+    }
+]

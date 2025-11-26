@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "UConn",
+        "opponent_logo": "UConn.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "American International",
+        "opponent_logo": "American_International.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "St. Francis (PA)",
+        "opponent_logo": "St_Francis_(PA).png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Merrimack",
+        "opponent_logo": "Merrimack.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Dartmouth",
+        "opponent_logo": "Dartmouth.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Sacred Heart",
+        "opponent_logo": "Sacred_Heart.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Robert Morris",
+        "opponent_logo": "Robert_Morris.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Wagner",
+        "opponent_logo": "Wagner.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Long Island University",
+        "opponent_logo": "Long_Island_University.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Stonehill",
+        "opponent_logo": "Stonehill.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Duquesne",
+        "opponent_logo": "Duquesne.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Mercyhurst",
+        "opponent_logo": "Mercyhurst.png",
+        "date": "11-22",
+        "home": true
+    }
+]

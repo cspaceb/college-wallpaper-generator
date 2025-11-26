@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Nebraska",
+        "opponent_logo": "Nebraska.png",
+        "date": "08-29",
+        "home": true
+    },
+    {
+        "opponent": "Bowling Green",
+        "opponent_logo": "Bowling_Green.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Northwestern State",
+        "opponent_logo": "Northwestern_State.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Kansas",
+        "opponent_logo": "Kansas.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Iowa State",
+        "opponent_logo": "Iowa_State.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "UCF",
+        "opponent_logo": "UCF.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Oklahoma State",
+        "opponent_logo": "Oklahoma_State.png",
+        "date": "10-19",
+        "home": false
+    },
+    {
+        "opponent": "Baylor",
+        "opponent_logo": "Baylor.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Utah",
+        "opponent_logo": "Utah.png",
+        "date": "11-02",
+        "home": false
+    },
+    {
+        "opponent": "Arizona",
+        "opponent_logo": "Arizona.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "BYU",
+        "opponent_logo": "BYU.png",
+        "date": "11-23",
+        "home": true
+    },
+    {
+        "opponent": "TCU",
+        "opponent_logo": "TCU.png",
+        "date": "11-29",
+        "home": false
+    }
+]

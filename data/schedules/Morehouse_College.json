@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Johnson C Smith",
+        "opponent_logo": "Johnson_C_Smith.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Howard",
+        "opponent_logo": "Howard.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Kentucky State",
+        "opponent_logo": "Kentucky_State.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Edward Waters",
+        "opponent_logo": "Edward_Waters.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Tuskegee",
+        "opponent_logo": "Tuskegee.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Central State (OH)",
+        "opponent_logo": "Central_State_(OH).png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Lane College",
+        "opponent_logo": "Lane_College.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Savannah St",
+        "opponent_logo": "Savannah_St.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Allen",
+        "opponent_logo": "Allen.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Clark Atlanta",
+        "opponent_logo": "Clark_Atlanta.png",
+        "date": "11-08",
+        "home": false
+    }
+]

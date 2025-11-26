@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+requests
+pillow
+python-dotenv
+jinja2
+colorthief
+numpy
+scipy

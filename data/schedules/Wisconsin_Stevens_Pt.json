@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Albion",
+        "opponent_logo": "Albion.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "St. Norbert",
+        "opponent_logo": "St_Norbert.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Pacific (OR)",
+        "opponent_logo": "Pacific_(OR).png",
+        "date": "09-21",
+        "home": false
+    },
+    {
+        "opponent": "Wisconsin-Platteville",
+        "opponent_logo": "Wisconsin_Platteville.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Wisconsin-Whitewater",
+        "opponent_logo": "Wisconsin_Whitewater.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Wisconsin-River Falls",
+        "opponent_logo": "Wisconsin_River_Falls.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Wisconsin-Stout",
+        "opponent_logo": "Wisconsin_Stout.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Wisconsin-Eau Claire",
+        "opponent_logo": "Wisconsin_Eau_Claire.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Wisconsin-Oshkosh",
+        "opponent_logo": "Wisconsin_Oshkosh.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Wisconsin-Lacrosse",
+        "opponent_logo": "Wisconsin_Lacrosse.png",
+        "date": "11-15",
+        "home": true
+    }
+]

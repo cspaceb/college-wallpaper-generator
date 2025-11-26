@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Bryant",
+        "opponent_logo": "Bryant.png",
+        "date": "08-31",
+        "home": true
+    },
+    {
+        "opponent": "Tulsa",
+        "opponent_logo": "Tulsa.png",
+        "date": "09-07",
+        "home": true
+    },
+    {
+        "opponent": "Louisiana Tech",
+        "opponent_logo": "Louisiana_Tech.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "New Mexico",
+        "opponent_logo": "New_Mexico.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Sam Houston",
+        "opponent_logo": "Sam_Houston.png",
+        "date": "10-03",
+        "home": true
+    },
+    {
+        "opponent": "Liberty",
+        "opponent_logo": "Liberty.png",
+        "date": "10-14",
+        "home": false
+    },
+    {
+        "opponent": "Missouri State",
+        "opponent_logo": "Missouri_State.png",
+        "date": "10-23",
+        "home": true
+    },
+    {
+        "opponent": "Western Kentucky",
+        "opponent_logo": "Western_Kentucky.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Kennesaw State",
+        "opponent_logo": "Kennesaw_State.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Tennessee",
+        "opponent_logo": "Tennessee.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "UTEP",
+        "opponent_logo": "UTEP.png",
+        "date": "11-22",
+        "home": false
+    },
+    {
+        "opponent": "Middle Tennessee",
+        "opponent_logo": "Middle_Tennessee.png",
+        "date": "11-29",
+        "home": true
+    }
+]

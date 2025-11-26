@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "North Carolina",
+        "opponent_logo": "North_Carolina.png",
+        "date": "09-02",
+        "home": false
+    },
+    {
+        "opponent": "Abilene Christian",
+        "opponent_logo": "Abilene_Christian.png",
+        "date": "09-14",
+        "home": true
+    },
+    {
+        "opponent": "SMU",
+        "opponent_logo": "SMU.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Arizona State",
+        "opponent_logo": "Arizona_State.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Colorado",
+        "opponent_logo": "Colorado.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Kansas State",
+        "opponent_logo": "Kansas_State.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Baylor",
+        "opponent_logo": "Baylor.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "West Virginia",
+        "opponent_logo": "West_Virginia.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Iowa State",
+        "opponent_logo": "Iowa_State.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "BYU",
+        "opponent_logo": "BYU.png",
+        "date": "11-16",
+        "home": false
+    },
+    {
+        "opponent": "Houston",
+        "opponent_logo": "Houston.png",
+        "date": "11-22",
+        "home": false
+    },
+    {
+        "opponent": "Cincinnati",
+        "opponent_logo": "Cincinnati.png",
+        "date": "11-29",
+        "home": true
+    }
+]

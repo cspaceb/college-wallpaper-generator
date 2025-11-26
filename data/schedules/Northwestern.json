@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Tulane",
+        "opponent_logo": "Tulane.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Western Illinois",
+        "opponent_logo": "Western_Illinois.png",
+        "date": "09-05",
+        "home": true
+    },
+    {
+        "opponent": "Oregon",
+        "opponent_logo": "Oregon.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "UCLA",
+        "opponent_logo": "UCLA.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "UL Monroe",
+        "opponent_logo": "UL_Monroe.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Penn State",
+        "opponent_logo": "Penn_State.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Purdue",
+        "opponent_logo": "Purdue.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Nebraska",
+        "opponent_logo": "Nebraska.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "USC",
+        "opponent_logo": "USC.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Michigan",
+        "opponent_logo": "Michigan.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Minnesota",
+        "opponent_logo": "Minnesota.png",
+        "date": "11-22",
+        "home": true
+    },
+    {
+        "opponent": "Illinois",
+        "opponent_logo": "Illinois.png",
+        "date": "11-30",
+        "home": false
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Kentucky",
+        "opponent_logo": "Kentucky.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Western Kentucky",
+        "opponent_logo": "Western_Kentucky.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Morgan State",
+        "opponent_logo": "Morgan_State.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Western Michigan",
+        "opponent_logo": "Western_Michigan.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Akron",
+        "opponent_logo": "Akron.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Bowling Green",
+        "opponent_logo": "Bowling_Green.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Kent State",
+        "opponent_logo": "Kent_State.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Washington State",
+        "opponent_logo": "Washington_State.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Northern Illinois",
+        "opponent_logo": "Northern_Illinois.png",
+        "date": "11-06",
+        "home": true
+    },
+    {
+        "opponent": "Miami (OH)",
+        "opponent_logo": "Miami_(OH).png",
+        "date": "11-13",
+        "home": false
+    },
+    {
+        "opponent": "Ball State",
+        "opponent_logo": "Ball_State.png",
+        "date": "11-22",
+        "home": true
+    },
+    {
+        "opponent": "Central Michigan",
+        "opponent_logo": "Central_Michigan.png",
+        "date": "11-29",
+        "home": false
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "UAlbany",
+        "opponent_logo": "UAlbany.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Iowa State",
+        "opponent_logo": "Iowa_State.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Massachusetts",
+        "opponent_logo": "Massachusetts.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Rutgers",
+        "opponent_logo": "Rutgers.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Indiana",
+        "opponent_logo": "Indiana.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Wisconsin",
+        "opponent_logo": "Wisconsin.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Penn State",
+        "opponent_logo": "Penn_State.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Minnesota",
+        "opponent_logo": "Minnesota.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Oregon",
+        "opponent_logo": "Oregon.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "USC",
+        "opponent_logo": "USC.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Michigan State",
+        "opponent_logo": "Michigan_State.png",
+        "date": "11-22",
+        "home": true
+    },
+    {
+        "opponent": "Nebraska",
+        "opponent_logo": "Nebraska.png",
+        "date": "11-28",
+        "home": false
+    }
+]

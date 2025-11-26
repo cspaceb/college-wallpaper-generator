@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Stanford",
+        "opponent_logo": "Stanford.png",
+        "date": "08-23",
+        "home": true
+    },
+    {
+        "opponent": "Arizona",
+        "opponent_logo": "Arizona.png",
+        "date": "08-31",
+        "home": false
+    },
+    {
+        "opponent": "Sam Houston",
+        "opponent_logo": "Sam_Houston.png",
+        "date": "09-07",
+        "home": true
+    },
+    {
+        "opponent": "Portland State",
+        "opponent_logo": "Portland_State.png",
+        "date": "09-14",
+        "home": true
+    },
+    {
+        "opponent": "Fresno State",
+        "opponent_logo": "Fresno_State.png",
+        "date": "09-21",
+        "home": true
+    },
+    {
+        "opponent": "Air Force",
+        "opponent_logo": "Air_Force.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Utah State",
+        "opponent_logo": "Utah_State.png",
+        "date": "10-12",
+        "home": true
+    },
+    {
+        "opponent": "Colorado State",
+        "opponent_logo": "Colorado_State.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "San Jos\u00e9 State",
+        "opponent_logo": "San_Jose_State.png",
+        "date": "11-02",
+        "home": false
+    },
+    {
+        "opponent": "San Diego State",
+        "opponent_logo": "San_Diego_State.png",
+        "date": "11-09",
+        "home": true
+    },
+    {
+        "opponent": "UNLV",
+        "opponent_logo": "UNLV.png",
+        "date": "11-22",
+        "home": false
+    },
+    {
+        "opponent": "Wyoming",
+        "opponent_logo": "Wyoming.png",
+        "date": "11-30",
+        "home": true
+    }
+]

@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CFB Wallpaper Generator</title>
+
+    <!-- MAIN STYLESHEET -->
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+
+    <div class="card fade-in">
+
+        <div class="title">CFB Wallpaper Generator</div>
+
+        <!-- ===============================
+             TEAM SELECT
+        ================================ -->
+        <label class="label">Select Team</label>
+        <div class="dropdown">
+            <div id="teamSelected" class="dropdown-selected">
+                <span>Select a Team...</span>
+            </div>
+            <div id="teamList" class="dropdown-list"></div>
+        </div>
+
+
+        <!-- ===============================
+             STICKER BOMB TOGGLE
+        ================================ -->
+        <div class="switch-row" style="margin-top: 26px;">
+            <span class="label small">Sticker Bomb Background</span>
+            <label class="switch">
+                <input type="checkbox" id="stickerBombToggle">
+                <span class="slider"></span>
+            </label>
+        </div>
+
+
+        <!-- ===============================
+             COLOR + GRADIENT SECTION
+        ================================ -->
+        <div id="colorSection">
+
+            <label class="label">Background Color</label>
+            <div class="color-row">
+                <input type="color" id="colorPicker" class="color-picker">
+                <input type="text" id="colorHex" class="color-hex">
+            </div>
+
+            <label class="label">Secondary Color</label>
+            <div class="color-row">
+                <input type="color" id="gradColor2" class="color-picker">
+                <input type="text" id="gradHex2" class="color-hex">
+            </div>
+
+        </div>
+
+
+        <!-- ===============================
+             GRADIENT TOGGLE
+        ================================ -->
+        <div id="gradientToggleSection">
+            <div class="switch-row" style="margin-top: 12px;">
+                <span class="label small">Enable Gradient</span>
+                <label class="switch">
+                    <input type="checkbox" id="gradientToggle">
+                    <span class="slider"></span>
+                </label>
+            </div>
+
+            <!-- Gradient Options -->
+            <div id="gradientOptions" class="gradient-options hidden">
+
+                <label class="label small">Gradient Style</label>
+                <select id="gradientStyle" class="style-select">
+                    <option value="linear">Linear</option>
+                    <option value="radial">Radial</option>
+                    <option value="diamond">Diamond</option>
+                    <option value="fade">Fade</option>
+                    <option value="split">Split</option>
+                    <option value="mirror">Mirror</option>
+                    <option value="noise">Noise</option>
+                </select>
+
+                <div id="angleWrapper" class="angle-wrapper">
+                    <label class="label small">Angle</label>
+                    <input type="range" id="angleSlider" class="angle-slider" min="0" max="360" value="0">
+                    <div id="angleValue" class="angle-value">0</div>
+                </div>
+
+                <div id="noiseDetailWrapper" class="noise-wrapper hidden">
+                    <label class="label small">Noise Detail</label>
+                    <input type="range" id="noiseDetail" class="noise-slider" min="1" max="3" value="2">
+                </div>
+
+            </div>
+        </div>
+
+
+        <!-- ===============================
+             PREVIEW WINDOW
+        ================================ -->
+        <label class="label" style="margin-top: 28px;">Live Preview</label>
+        <div id="colorPreview" class="color-preview">
+            <img id="previewTeamLogo" class="preview-logo-img" src="" alt="">
+        </div>
+
+
+        <!-- ===============================
+             WALLPAPER TYPE
+        ================================ -->
+        <label class="label">Wallpaper Type</label>
+        <select id="typeSelect" class="select">
+            <option value="pc">PC / Desktop</option>
+            <option value="mobile">Mobile</option>
+        </select>
+
+
+        <!-- ===============================
+             GENERATE BUTTON
+        ================================ -->
+        <button id="generateBtn" class="button">
+            Generate Wallpaper
+        </button>
+
+
+        <!-- ===============================
+             RESULT PREVIEW
+        ================================ -->
+        <div id="previewSection" class="preview hidden">
+            <div class="preview-title">Generated Wallpaper</div>
+            <img id="previewImage" class="preview-img" src="" alt="">
+            <a id="downloadLink" class="download-btn" href="#" download="wallpaper.png">
+                Download
+            </a>
+        </div>
+
+    </div>
+
+    <!-- MAIN JAVASCRIPT -->
+    <script src="/static/app.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Bridgewater State",
+        "opponent_logo": "Bridgewater_State.png",
+        "date": "09-05",
+        "home": true
+    },
+    {
+        "opponent": "Coast Guard",
+        "opponent_logo": "Coast_Guard.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Dean College",
+        "opponent_logo": "Dean_College.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "New England College",
+        "opponent_logo": "New_England_College.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Maine Maritime",
+        "opponent_logo": "Maine_Maritime.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Nichols College",
+        "opponent_logo": "Nichols_College.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Western New England",
+        "opponent_logo": "Western_New_England.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Husson",
+        "opponent_logo": "Husson.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Biddeford",
+        "opponent_logo": "Biddeford.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Endicott College",
+        "opponent_logo": "Endicott_College.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Merchant Marine Academy",
+        "opponent_logo": "Merchant_Marine_Academy.png",
+        "date": "11-21",
+        "home": true
+    }
+]

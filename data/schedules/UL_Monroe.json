@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "St. Francis (PA)",
+        "opponent_logo": "St_Francis_(PA).png",
+        "date": "08-28",
+        "home": true
+    },
+    {
+        "opponent": "Alabama",
+        "opponent_logo": "Alabama.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "UTEP",
+        "opponent_logo": "UTEP.png",
+        "date": "09-21",
+        "home": false
+    },
+    {
+        "opponent": "Arkansas State",
+        "opponent_logo": "Arkansas_State.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Northwestern",
+        "opponent_logo": "Northwestern.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Coastal Carolina",
+        "opponent_logo": "Coastal_Carolina.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Troy",
+        "opponent_logo": "Troy.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Southern Miss",
+        "opponent_logo": "Southern_Miss.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Old Dominion",
+        "opponent_logo": "Old_Dominion.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "South Alabama",
+        "opponent_logo": "South_Alabama.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Texas State",
+        "opponent_logo": "Texas_State.png",
+        "date": "11-22",
+        "home": false
+    },
+    {
+        "opponent": "Louisiana",
+        "opponent_logo": "Louisiana.png",
+        "date": "11-29",
+        "home": false
+    }
+]

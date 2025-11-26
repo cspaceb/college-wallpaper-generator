@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "St. Anselm",
+        "opponent_logo": "St_Anselm.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "East Stroudsburg University",
+        "opponent_logo": "East_Stroudsburg_University.png",
+        "date": "09-04",
+        "home": false
+    },
+    {
+        "opponent": "Franklin Pierce",
+        "opponent_logo": "Franklin_Pierce.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Post University",
+        "opponent_logo": "Post_University.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "St. Anselm",
+        "opponent_logo": "St_Anselm.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "New Haven",
+        "opponent_logo": "New_Haven.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Assumption",
+        "opponent_logo": "Assumption.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Southern Connecticut State",
+        "opponent_logo": "Southern_Connecticut_State.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Bentley",
+        "opponent_logo": "Bentley.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "American International",
+        "opponent_logo": "American_International.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Franklin Pierce",
+        "opponent_logo": "Franklin_Pierce.png",
+        "date": "11-15",
+        "home": true
+    }
+]

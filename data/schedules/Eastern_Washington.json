@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Incarnate Word",
+        "opponent_logo": "Incarnate_Word.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Boise State",
+        "opponent_logo": "Boise_State.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Northern Iowa",
+        "opponent_logo": "Northern_Iowa.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Western Illinois",
+        "opponent_logo": "Western_Illinois.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Montana State",
+        "opponent_logo": "Montana_State.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Portland State",
+        "opponent_logo": "Portland_State.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Idaho",
+        "opponent_logo": "Idaho.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Weber State",
+        "opponent_logo": "Weber_State.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Sacramento State",
+        "opponent_logo": "Sacramento_State.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Montana",
+        "opponent_logo": "Montana.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Northern Colorado",
+        "opponent_logo": "Northern_Colorado.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Cal Poly",
+        "opponent_logo": "Cal_Poly.png",
+        "date": "11-22",
+        "home": false
+    }
+]

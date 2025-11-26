@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Charleston Southern",
+        "opponent_logo": "Charleston_Southern.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Virginia Tech",
+        "opponent_logo": "Virginia_Tech.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "South Carolina",
+        "opponent_logo": "South_Carolina.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Georgia State",
+        "opponent_logo": "Georgia_State.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Utah State",
+        "opponent_logo": "Utah_State.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Alabama",
+        "opponent_logo": "Alabama.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "LSU",
+        "opponent_logo": "LSU.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Missouri",
+        "opponent_logo": "Missouri.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Texas",
+        "opponent_logo": "Texas.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Auburn",
+        "opponent_logo": "Auburn.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Kentucky",
+        "opponent_logo": "Kentucky.png",
+        "date": "11-22",
+        "home": true
+    },
+    {
+        "opponent": "Tennessee",
+        "opponent_logo": "Tennessee.png",
+        "date": "11-29",
+        "home": false
+    }
+]

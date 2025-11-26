@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "North Carolina Wesleyan",
+        "opponent_logo": "North_Carolina_Wesleyan.png",
+        "date": "09-04",
+        "home": false
+    },
+    {
+        "opponent": "Southern Virginia",
+        "opponent_logo": "Southern_Virginia.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Gallaudet",
+        "opponent_logo": "Gallaudet.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Bridgewater (VA)",
+        "opponent_logo": "Bridgewater_(VA).png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Randolph-Macon",
+        "opponent_logo": "Randolph_Macon.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Hampden-Sydney",
+        "opponent_logo": "Hampden_Sydney.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Shenandoah",
+        "opponent_logo": "Shenandoah.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Washington and Lee",
+        "opponent_logo": "Washington_and_Lee.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Guilford College",
+        "opponent_logo": "Guilford_College.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Roanoke College",
+        "opponent_logo": "Roanoke_College.png",
+        "date": "11-15",
+        "home": true
+    }
+]

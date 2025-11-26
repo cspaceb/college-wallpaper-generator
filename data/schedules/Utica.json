@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Washington & Jefferson",
+        "opponent_logo": "Washington_and_Jefferson.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Rensselaer",
+        "opponent_logo": "Rensselaer.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Hobart College",
+        "opponent_logo": "Hobart_College.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Alfred State",
+        "opponent_logo": "Alfred_State.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Cortland",
+        "opponent_logo": "Cortland.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "SUNY Morrisville",
+        "opponent_logo": "SUNY_Morrisville.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Alfred University",
+        "opponent_logo": "Alfred_University.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "St John Fisher University",
+        "opponent_logo": "St_John_Fisher_University.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Hartwick",
+        "opponent_logo": "Hartwick.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Brockport",
+        "opponent_logo": "Brockport.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Rowan",
+        "opponent_logo": "Rowan.png",
+        "date": "11-22",
+        "home": true
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "opponent": "Willamette",
+        "opponent_logo": "Willamette.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Chapman",
+        "opponent_logo": "Chapman.png",
+        "date": "09-28",
+        "home": false
+    },
+    {
+        "opponent": "Pomona Pitzer",
+        "opponent_logo": "Pomona_Pitzer.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "California Lutheran University",
+        "opponent_logo": "California_Lutheran_University.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Claremont-Mudd-Scripps College",
+        "opponent_logo": "Claremont_Mudd_Scripps_College.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Pomona Pitzer",
+        "opponent_logo": "Pomona_Pitzer.png",
+        "date": "10-26",
+        "home": false
+    },
+    {
+        "opponent": "Redlands",
+        "opponent_logo": "Redlands.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Chapman",
+        "opponent_logo": "Chapman.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Claremont-Mudd-Scripps College",
+        "opponent_logo": "Claremont_Mudd_Scripps_College.png",
+        "date": "11-15",
+        "home": false
+    }
+]

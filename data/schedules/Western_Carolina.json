@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Gardner-Webb",
+        "opponent_logo": "Gardner_Webb.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Wake Forest",
+        "opponent_logo": "Wake_Forest.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Elon",
+        "opponent_logo": "Elon.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Samford",
+        "opponent_logo": "Samford.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Campbell",
+        "opponent_logo": "Campbell.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Wofford",
+        "opponent_logo": "Wofford.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Furman",
+        "opponent_logo": "Furman.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "The Citadel",
+        "opponent_logo": "The_Citadel.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Chattanooga",
+        "opponent_logo": "Chattanooga.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Mercer",
+        "opponent_logo": "Mercer.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "East Tennessee State",
+        "opponent_logo": "East_Tennessee_State.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "VMI",
+        "opponent_logo": "VMI.png",
+        "date": "11-22",
+        "home": false
+    }
+]

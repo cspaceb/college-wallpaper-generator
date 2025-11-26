@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Fordham",
+        "opponent_logo": "Fordham.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Michigan State",
+        "opponent_logo": "Michigan_State.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Stanford",
+        "opponent_logo": "Stanford.png",
+        "date": "09-14",
+        "home": false
+    },
+    {
+        "opponent": "California",
+        "opponent_logo": "California.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Pittsburgh",
+        "opponent_logo": "Pittsburgh.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Clemson",
+        "opponent_logo": "Clemson.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "UConn",
+        "opponent_logo": "UConn.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Louisville",
+        "opponent_logo": "Louisville.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Notre Dame",
+        "opponent_logo": "Notre_Dame.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "SMU",
+        "opponent_logo": "SMU.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Georgia Tech",
+        "opponent_logo": "Georgia_Tech.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Syracuse",
+        "opponent_logo": "Syracuse.png",
+        "date": "11-29",
+        "home": false
+    }
+]

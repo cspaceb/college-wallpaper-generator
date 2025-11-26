@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Morehead State",
+        "opponent_logo": "Morehead_State.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Livingstone",
+        "opponent_logo": "Livingstone.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Lane College",
+        "opponent_logo": "Lane_College.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Clark Atlanta",
+        "opponent_logo": "Clark_Atlanta.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Albany State GA",
+        "opponent_logo": "Albany_State_GA.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Benedict College",
+        "opponent_logo": "Benedict_College.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Savannah St",
+        "opponent_logo": "Savannah_St.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Tuskegee",
+        "opponent_logo": "Tuskegee.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Morehouse College",
+        "opponent_logo": "Morehouse_College.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Edward Waters",
+        "opponent_logo": "Edward_Waters.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "ERSKINE",
+        "opponent_logo": "ERSKINE.png",
+        "date": "11-15",
+        "home": true
+    }
+]

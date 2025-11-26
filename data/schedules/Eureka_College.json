@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Knox College",
+        "opponent_logo": "Knox_College.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Westminster College (MO)",
+        "opponent_logo": "Westminster_College_(MO).png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Rockford",
+        "opponent_logo": "Rockford.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Aurora",
+        "opponent_logo": "Aurora.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Concordia University Chicago",
+        "opponent_logo": "Concordia_University_Chicago.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Benedictine University",
+        "opponent_logo": "Benedictine_University.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "St. Norbert",
+        "opponent_logo": "St_Norbert.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Wisconsin-Lutheran",
+        "opponent_logo": "Wisconsin_Lutheran.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Lakeland",
+        "opponent_logo": "Lakeland.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Concordia-Wisconsin",
+        "opponent_logo": "Concordia_Wisconsin.png",
+        "date": "11-15",
+        "home": false
+    }
+]

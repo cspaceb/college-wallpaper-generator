@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Central State (OH)",
+        "opponent_logo": "Central_State_(OH).png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Albany State GA",
+        "opponent_logo": "Albany_State_GA.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Grambling",
+        "opponent_logo": "Grambling.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Morehouse College",
+        "opponent_logo": "Morehouse_College.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Savannah St",
+        "opponent_logo": "Savannah_St.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Miles College",
+        "opponent_logo": "Miles_College.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Edward Waters",
+        "opponent_logo": "Edward_Waters.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Franklin Pierce",
+        "opponent_logo": "Franklin_Pierce.png",
+        "date": "10-17",
+        "home": true
+    },
+    {
+        "opponent": "Clark Atlanta",
+        "opponent_logo": "Clark_Atlanta.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Lane College",
+        "opponent_logo": "Lane_College.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Shorter",
+        "opponent_logo": "Shorter.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Delta State",
+        "opponent_logo": "Delta_State.png",
+        "date": "11-15",
+        "home": false
+    }
+]

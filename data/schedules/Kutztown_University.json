@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Assumption",
+        "opponent_logo": "Assumption.png",
+        "date": "09-04",
+        "home": true
+    },
+    {
+        "opponent": "Edinboro University",
+        "opponent_logo": "Edinboro_University.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Gannon",
+        "opponent_logo": "Gannon.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Shepherd",
+        "opponent_logo": "Shepherd.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Shippensburg",
+        "opponent_logo": "Shippensburg.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Lock Haven University",
+        "opponent_logo": "Lock_Haven_University.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Millersville",
+        "opponent_logo": "Millersville.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "West Chester",
+        "opponent_logo": "West_Chester.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "East Stroudsburg University",
+        "opponent_logo": "East_Stroudsburg_University.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Bloomsburg",
+        "opponent_logo": "Bloomsburg.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Indiana-Pennsylvania",
+        "opponent_logo": "Indiana_Pennsylvania.png",
+        "date": "11-15",
+        "home": true
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Florida State",
+        "opponent_logo": "Florida_State.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "UL Monroe",
+        "opponent_logo": "UL_Monroe.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Wisconsin",
+        "opponent_logo": "Wisconsin.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Georgia",
+        "opponent_logo": "Georgia.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Vanderbilt",
+        "opponent_logo": "Vanderbilt.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Missouri",
+        "opponent_logo": "Missouri.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Tennessee",
+        "opponent_logo": "Tennessee.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "South Carolina",
+        "opponent_logo": "South_Carolina.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "LSU",
+        "opponent_logo": "LSU.png",
+        "date": "11-09",
+        "home": true
+    },
+    {
+        "opponent": "Oklahoma",
+        "opponent_logo": "Oklahoma.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Eastern Illinois",
+        "opponent_logo": "Eastern_Illinois.png",
+        "date": "11-22",
+        "home": true
+    },
+    {
+        "opponent": "Auburn",
+        "opponent_logo": "Auburn.png",
+        "date": "11-30",
+        "home": false
+    }
+]

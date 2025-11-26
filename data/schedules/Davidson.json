@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Georgetown",
+        "opponent_logo": "Georgetown.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Elon",
+        "opponent_logo": "Elon.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Tennessee Tech",
+        "opponent_logo": "Tennessee_Tech.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Greensboro College",
+        "opponent_logo": "Greensboro_College.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Stetson",
+        "opponent_logo": "Stetson.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "St. Thomas (MN)",
+        "opponent_logo": "St_Thomas_(MN).png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Drake",
+        "opponent_logo": "Drake.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "San Diego",
+        "opponent_logo": "San_Diego.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Morehead State",
+        "opponent_logo": "Morehead_State.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Presbyterian",
+        "opponent_logo": "Presbyterian.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Marist",
+        "opponent_logo": "Marist.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Dayton",
+        "opponent_logo": "Dayton.png",
+        "date": "11-22",
+        "home": true
+    }
+]

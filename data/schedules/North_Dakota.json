@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Kansas State",
+        "opponent_logo": "Kansas_State.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Portland State",
+        "opponent_logo": "Portland_State.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Montana",
+        "opponent_logo": "Montana.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Valparaiso",
+        "opponent_logo": "Valparaiso.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Northern Iowa",
+        "opponent_logo": "Northern_Iowa.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Youngstown State",
+        "opponent_logo": "Youngstown_State.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Southern Illinois",
+        "opponent_logo": "Southern_Illinois.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Indiana State",
+        "opponent_logo": "Indiana_State.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "South Dakota",
+        "opponent_logo": "South_Dakota.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "North Dakota State",
+        "opponent_logo": "North_Dakota_State.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Murray State",
+        "opponent_logo": "Murray_State.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "South Dakota State",
+        "opponent_logo": "South_Dakota_State.png",
+        "date": "11-22",
+        "home": true
+    }
+]

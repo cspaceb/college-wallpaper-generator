@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "San Diego",
+        "opponent_logo": "San_Diego.png",
+        "date": "08-31",
+        "home": false
+    },
+    {
+        "opponent": "Utah",
+        "opponent_logo": "Utah.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Western Oregon",
+        "opponent_logo": "Western_Oregon.png",
+        "date": "09-14",
+        "home": true
+    },
+    {
+        "opponent": "Stephen F. Austin",
+        "opponent_logo": "Stephen_F_Austin.png",
+        "date": "09-21",
+        "home": false
+    },
+    {
+        "opponent": "Sacramento State",
+        "opponent_logo": "Sacramento_State.png",
+        "date": "09-28",
+        "home": false
+    },
+    {
+        "opponent": "UC Davis",
+        "opponent_logo": "UC_Davis.png",
+        "date": "10-05",
+        "home": true
+    },
+    {
+        "opponent": "Montana",
+        "opponent_logo": "Montana.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Montana State",
+        "opponent_logo": "Montana_State.png",
+        "date": "10-26",
+        "home": true
+    },
+    {
+        "opponent": "Portland State",
+        "opponent_logo": "Portland_State.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Idaho State",
+        "opponent_logo": "Idaho_State.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Northern Arizona",
+        "opponent_logo": "Northern_Arizona.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Eastern Washington",
+        "opponent_logo": "Eastern_Washington.png",
+        "date": "11-22",
+        "home": true
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "West Liberty",
+        "opponent_logo": "West_Liberty.png",
+        "date": "08-28",
+        "home": true
+    },
+    {
+        "opponent": "Wheeling",
+        "opponent_logo": "Wheeling.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Kentucky Wesleyan",
+        "opponent_logo": "Kentucky_Wesleyan.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Ohio Dominican",
+        "opponent_logo": "Ohio_Dominican.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Findlay",
+        "opponent_logo": "Findlay.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Tiffin",
+        "opponent_logo": "Tiffin.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Lake Erie",
+        "opponent_logo": "Lake_Erie.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Thomas More College",
+        "opponent_logo": "Thomas_More_College.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Ashland",
+        "opponent_logo": "Ashland.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Hillsdale",
+        "opponent_logo": "Hillsdale.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Northwood (MI)",
+        "opponent_logo": "Northwood_(MI).png",
+        "date": "11-15",
+        "home": true
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Central Michigan",
+        "opponent_logo": "Central_Michigan.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Texas",
+        "opponent_logo": "Texas.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Idaho",
+        "opponent_logo": "Idaho.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Stanford",
+        "opponent_logo": "Stanford.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "New Mexico",
+        "opponent_logo": "New_Mexico.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Wyoming",
+        "opponent_logo": "Wyoming.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Utah State",
+        "opponent_logo": "Utah_State.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Hawai'i",
+        "opponent_logo": "Hawai'i.png",
+        "date": "11-02",
+        "home": true
+    },
+    {
+        "opponent": "Air Force",
+        "opponent_logo": "Air_Force.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Nevada",
+        "opponent_logo": "Nevada.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "San Diego State",
+        "opponent_logo": "San_Diego_State.png",
+        "date": "11-23",
+        "home": false
+    },
+    {
+        "opponent": "Fresno State",
+        "opponent_logo": "Fresno_State.png",
+        "date": "11-30",
+        "home": true
+    }
+]

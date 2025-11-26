@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "LYONCOLL",
+        "opponent_logo": "LYONCOLL.png",
+        "date": "09-07",
+        "home": true
+    },
+    {
+        "opponent": "Oklahoma Panhandle St",
+        "opponent_logo": "Oklahoma_Panhandle_St.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "CENTENARY",
+        "opponent_logo": "CENTENARY.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Texas Lutheran",
+        "opponent_logo": "Texas_Lutheran.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Mary Hardin-Baylor",
+        "opponent_logo": "Mary_Hardin_Baylor.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Howard Payne",
+        "opponent_logo": "Howard_Payne.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Hardin-Simmons",
+        "opponent_logo": "Hardin_Simmons.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Mary Hardin-Baylor",
+        "opponent_logo": "Mary_Hardin_Baylor.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Howard Payne",
+        "opponent_logo": "Howard_Payne.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Hardin-Simmons",
+        "opponent_logo": "Hardin_Simmons.png",
+        "date": "11-15",
+        "home": false
+    }
+]

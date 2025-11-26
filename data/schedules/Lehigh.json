@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Richmond",
+        "opponent_logo": "Richmond.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Sacred Heart",
+        "opponent_logo": "Sacred_Heart.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Duquesne",
+        "opponent_logo": "Duquesne.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Bucknell",
+        "opponent_logo": "Bucknell.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Pennsylvania",
+        "opponent_logo": "Pennsylvania.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Yale",
+        "opponent_logo": "Yale.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Columbia",
+        "opponent_logo": "Columbia.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Fordham",
+        "opponent_logo": "Fordham.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Georgetown",
+        "opponent_logo": "Georgetown.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Holy Cross",
+        "opponent_logo": "Holy_Cross.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Colgate",
+        "opponent_logo": "Colgate.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Lafayette",
+        "opponent_logo": "Lafayette.png",
+        "date": "11-22",
+        "home": false
+    }
+]

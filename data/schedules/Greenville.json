@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Illinois College",
+        "opponent_logo": "Illinois_College.png",
+        "date": "09-05",
+        "home": false
+    },
+    {
+        "opponent": "Lakeland",
+        "opponent_logo": "Lakeland.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "LYONCOLL",
+        "opponent_logo": "LYONCOLL.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Westminster College (MO)",
+        "opponent_logo": "Westminster_College_(MO).png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Northwestern (MN)",
+        "opponent_logo": "Northwestern_(MN).png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Martin Luther",
+        "opponent_logo": "Martin_Luther.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Minnesota Morris",
+        "opponent_logo": "Minnesota_Morris.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Westminster College (MO)",
+        "opponent_logo": "Westminster_College_(MO).png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Northwestern (MN)",
+        "opponent_logo": "Northwestern_(MN).png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Crown College",
+        "opponent_logo": "Crown_College.png",
+        "date": "11-15",
+        "home": true
+    }
+]

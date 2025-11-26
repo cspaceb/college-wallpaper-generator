@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Mercer",
+        "opponent_logo": "Mercer.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Furman",
+        "opponent_logo": "Furman.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "ERSKINE",
+        "opponent_logo": "ERSKINE.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "BLUEFIELD",
+        "opponent_logo": "BLUEFIELD.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Morehead State",
+        "opponent_logo": "Morehead_State.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Butler",
+        "opponent_logo": "Butler.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Stetson",
+        "opponent_logo": "Stetson.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Dayton",
+        "opponent_logo": "Dayton.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Valparaiso",
+        "opponent_logo": "Valparaiso.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Davidson",
+        "opponent_logo": "Davidson.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "St. Thomas (MN)",
+        "opponent_logo": "St_Thomas_(MN).png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Marist",
+        "opponent_logo": "Marist.png",
+        "date": "11-22",
+        "home": true
+    }
+]

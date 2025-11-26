@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Hiram College",
+        "opponent_logo": "Hiram_College.png",
+        "date": "09-04",
+        "home": true
+    },
+    {
+        "opponent": "Ohio Northern",
+        "opponent_logo": "Ohio_Northern.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Calvin University",
+        "opponent_logo": "Calvin_University.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Capital",
+        "opponent_logo": "Capital.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Marietta",
+        "opponent_logo": "Marietta.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "University of Mount Union",
+        "opponent_logo": "University_of_Mount_Union.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Muskingum University",
+        "opponent_logo": "Muskingum_University.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Otterbein",
+        "opponent_logo": "Otterbein.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Wilmington (OH)",
+        "opponent_logo": "Wilmington_(OH).png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Baldwin Wallace",
+        "opponent_logo": "Baldwin_Wallace.png",
+        "date": "11-15",
+        "home": false
+    }
+]

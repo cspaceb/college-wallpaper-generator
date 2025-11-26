@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Louisiana College",
+        "opponent_logo": "Louisiana_College.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Louisiana",
+        "opponent_logo": "Louisiana.png",
+        "date": "09-07",
+        "home": false
+    },
+    {
+        "opponent": "Weber State",
+        "opponent_logo": "Weber_State.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Utah State",
+        "opponent_logo": "Utah_State.png",
+        "date": "09-21",
+        "home": false
+    },
+    {
+        "opponent": "Stephen F. Austin",
+        "opponent_logo": "Stephen_F_Austin.png",
+        "date": "09-28",
+        "home": false
+    },
+    {
+        "opponent": "SE Louisiana",
+        "opponent_logo": "SE_Louisiana.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Houston Christian",
+        "opponent_logo": "Houston_Christian.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Nicholls",
+        "opponent_logo": "Nicholls.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Northwestern State",
+        "opponent_logo": "Northwestern_State.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "East Texas A&M",
+        "opponent_logo": "East_Texas_AandM.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "UT Rio Grande Valley",
+        "opponent_logo": "UT_Rio_Grande_Valley.png",
+        "date": "11-16",
+        "home": true
+    },
+    {
+        "opponent": "Lamar",
+        "opponent_logo": "Lamar.png",
+        "date": "11-22",
+        "home": false
+    }
+]

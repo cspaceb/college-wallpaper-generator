@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Washburn",
+        "opponent_logo": "Washburn.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Butler",
+        "opponent_logo": "Butler.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Davenport",
+        "opponent_logo": "Davenport.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Missouri S&T",
+        "opponent_logo": "Missouri_SandT.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Indianapolis",
+        "opponent_logo": "Indianapolis.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Upper Iowa University",
+        "opponent_logo": "Upper_Iowa_University.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Quincy",
+        "opponent_logo": "Quincy.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Southwest Baptist",
+        "opponent_logo": "Southwest_Baptist.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Lincoln (MO)",
+        "opponent_logo": "Lincoln_(MO).png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "William Jewell",
+        "opponent_logo": "William_Jewell.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "McKendree",
+        "opponent_logo": "McKendree.png",
+        "date": "11-15",
+        "home": false
+    }
+]

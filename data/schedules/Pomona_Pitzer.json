@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Willamette",
+        "opponent_logo": "Willamette.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Lewis & Clark College",
+        "opponent_logo": "Lewis_and_Clark_College.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Claremont-Mudd-Scripps College",
+        "opponent_logo": "Claremont_Mudd_Scripps_College.png",
+        "date": "09-28",
+        "home": true
+    },
+    {
+        "opponent": "La Verne",
+        "opponent_logo": "La_Verne.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Chapman",
+        "opponent_logo": "Chapman.png",
+        "date": "10-12",
+        "home": true
+    },
+    {
+        "opponent": "Redlands",
+        "opponent_logo": "Redlands.png",
+        "date": "10-19",
+        "home": false
+    },
+    {
+        "opponent": "La Verne",
+        "opponent_logo": "La_Verne.png",
+        "date": "10-26",
+        "home": true
+    },
+    {
+        "opponent": "Chapman",
+        "opponent_logo": "Chapman.png",
+        "date": "11-02",
+        "home": false
+    },
+    {
+        "opponent": "California Lutheran University",
+        "opponent_logo": "California_Lutheran_University.png",
+        "date": "11-09",
+        "home": true
+    },
+    {
+        "opponent": "Redlands",
+        "opponent_logo": "Redlands.png",
+        "date": "11-15",
+        "home": false
+    }
+]

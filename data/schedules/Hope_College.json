@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Loras College",
+        "opponent_logo": "Loras_College.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Franklin",
+        "opponent_logo": "Franklin.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Mount St. Joseph",
+        "opponent_logo": "Mount_St_Joseph.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Alma",
+        "opponent_logo": "Alma.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Trine University",
+        "opponent_logo": "Trine_University.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Kalamazoo",
+        "opponent_logo": "Kalamazoo.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Adrian",
+        "opponent_logo": "Adrian.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Albion",
+        "opponent_logo": "Albion.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Calvin University",
+        "opponent_logo": "Calvin_University.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Olivet College",
+        "opponent_logo": "Olivet_College.png",
+        "date": "11-15",
+        "home": true
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Denison University",
+        "opponent_logo": "Denison_University.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Juniata College",
+        "opponent_logo": "Juniata_College.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Thiel",
+        "opponent_logo": "Thiel.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Geneva",
+        "opponent_logo": "Geneva.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Waynesburg",
+        "opponent_logo": "Waynesburg.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Case Western Reserve",
+        "opponent_logo": "Case_Western_Reserve.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Grove City College",
+        "opponent_logo": "Grove_City_College.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Hiram College",
+        "opponent_logo": "Hiram_College.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Westminster (PA)",
+        "opponent_logo": "Westminster_(PA).png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Bethany (WV)",
+        "opponent_logo": "Bethany_(WV).png",
+        "date": "11-15",
+        "home": true
+    }
+]

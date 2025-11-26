@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Utah Tech",
+        "opponent_logo": "Utah_Tech.png",
+        "date": "08-31",
+        "home": false
+    },
+    {
+        "opponent": "Washington",
+        "opponent_logo": "Washington.png",
+        "date": "09-07",
+        "home": false
+    },
+    {
+        "opponent": "Southern Utah",
+        "opponent_logo": "Southern_Utah.png",
+        "date": "09-21",
+        "home": true
+    },
+    {
+        "opponent": "Weber State",
+        "opponent_logo": "Weber_State.png",
+        "date": "09-28",
+        "home": true
+    },
+    {
+        "opponent": "Cal Poly",
+        "opponent_logo": "Cal_Poly.png",
+        "date": "10-05",
+        "home": false
+    },
+    {
+        "opponent": "Northern Arizona",
+        "opponent_logo": "Northern_Arizona.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Northern Colorado",
+        "opponent_logo": "Northern_Colorado.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Idaho State",
+        "opponent_logo": "Idaho_State.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Idaho",
+        "opponent_logo": "Idaho.png",
+        "date": "11-09",
+        "home": false
+    },
+    {
+        "opponent": "Montana State",
+        "opponent_logo": "Montana_State.png",
+        "date": "11-16",
+        "home": false
+    },
+    {
+        "opponent": "Sacramento State",
+        "opponent_logo": "Sacramento_State.png",
+        "date": "11-22",
+        "home": true
+    }
+]

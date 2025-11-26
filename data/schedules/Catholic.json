@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "McDaniel College",
+        "opponent_logo": "McDaniel_College.png",
+        "date": "09-05",
+        "home": true
+    },
+    {
+        "opponent": "Capital",
+        "opponent_logo": "Capital.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Franklin & Marshall",
+        "opponent_logo": "Franklin_and_Marshall.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Salisbury",
+        "opponent_logo": "Salisbury.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Wilkes",
+        "opponent_logo": "Wilkes.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Juniata College",
+        "opponent_logo": "Juniata_College.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Moravian",
+        "opponent_logo": "Moravian.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Susquehanna",
+        "opponent_logo": "Susquehanna.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Lycoming",
+        "opponent_logo": "Lycoming.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Western Connecticut St",
+        "opponent_logo": "Western_Connecticut_St.png",
+        "date": "11-08",
+        "home": false
+    }
+]

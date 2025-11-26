@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Kenyon",
+        "opponent_logo": "Kenyon.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Albion",
+        "opponent_logo": "Albion.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Olivet College",
+        "opponent_logo": "Olivet_College.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Manchester",
+        "opponent_logo": "Manchester.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Anderson (IN)",
+        "opponent_logo": "Anderson_(IN).png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Mount St. Joseph",
+        "opponent_logo": "Mount_St_Joseph.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Rose-Hulman",
+        "opponent_logo": "Rose_Hulman.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Hanover College",
+        "opponent_logo": "Hanover_College.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Franklin",
+        "opponent_logo": "Franklin.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Marietta",
+        "opponent_logo": "Marietta.png",
+        "date": "11-15",
+        "home": false
+    }
+]

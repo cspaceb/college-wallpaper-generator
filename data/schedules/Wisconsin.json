@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Miami (OH)",
+        "opponent_logo": "Miami_(OH).png",
+        "date": "08-29",
+        "home": true
+    },
+    {
+        "opponent": "Middle Tennessee",
+        "opponent_logo": "Middle_Tennessee.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Alabama",
+        "opponent_logo": "Alabama.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Maryland",
+        "opponent_logo": "Maryland.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Michigan",
+        "opponent_logo": "Michigan.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Iowa",
+        "opponent_logo": "Iowa.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Ohio State",
+        "opponent_logo": "Ohio_State.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Oregon",
+        "opponent_logo": "Oregon.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Washington",
+        "opponent_logo": "Washington.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Indiana",
+        "opponent_logo": "Indiana.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Illinois",
+        "opponent_logo": "Illinois.png",
+        "date": "11-23",
+        "home": true
+    },
+    {
+        "opponent": "Minnesota",
+        "opponent_logo": "Minnesota.png",
+        "date": "11-29",
+        "home": false
+    }
+]

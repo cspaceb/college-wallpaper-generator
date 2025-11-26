@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Lincoln (PA)",
+        "opponent_logo": "Lincoln_(PA).png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Black Hills State",
+        "opponent_logo": "Black_Hills_State.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Pittsburg St",
+        "opponent_logo": "Pittsburg_St.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Davenport",
+        "opponent_logo": "Davenport.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Northern Michigan",
+        "opponent_logo": "Northern_Michigan.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Saginaw Valley State",
+        "opponent_logo": "Saginaw_Valley_State.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Ferris State",
+        "opponent_logo": "Ferris_State.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Wayne State (MI)",
+        "opponent_logo": "Wayne_State_(MI).png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Michigan Tech",
+        "opponent_logo": "Michigan_Tech.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Roosevelt",
+        "opponent_logo": "Roosevelt.png",
+        "date": "11-15",
+        "home": true
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Drake",
+        "opponent_logo": "Drake.png",
+        "date": "08-28",
+        "home": false
+    },
+    {
+        "opponent": "South Dakota Mines",
+        "opponent_logo": "South_Dakota_Mines.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Michigan Tech",
+        "opponent_logo": "Michigan_Tech.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Lincoln (MO)",
+        "opponent_logo": "Lincoln_(MO).png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Missouri S&T",
+        "opponent_logo": "Missouri_SandT.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Truman State",
+        "opponent_logo": "Truman_State.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Southwest Baptist",
+        "opponent_logo": "Southwest_Baptist.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "William Jewell",
+        "opponent_logo": "William_Jewell.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "McKendree",
+        "opponent_logo": "McKendree.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Quincy",
+        "opponent_logo": "Quincy.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Indianapolis",
+        "opponent_logo": "Indianapolis.png",
+        "date": "11-15",
+        "home": false
+    }
+]

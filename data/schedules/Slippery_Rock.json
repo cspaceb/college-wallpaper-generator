@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Franklin Pierce",
+        "opponent_logo": "Franklin_Pierce.png",
+        "date": "09-05",
+        "home": false
+    },
+    {
+        "opponent": "Shepherd",
+        "opponent_logo": "Shepherd.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Shippensburg",
+        "opponent_logo": "Shippensburg.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "PennWest California",
+        "opponent_logo": "PennWest_California.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Gannon",
+        "opponent_logo": "Gannon.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Seton Hill",
+        "opponent_logo": "Seton_Hill.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Indiana-Pennsylvania",
+        "opponent_logo": "Indiana_Pennsylvania.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Clarion",
+        "opponent_logo": "Clarion.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Edinboro University",
+        "opponent_logo": "Edinboro_University.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Bloomsburg",
+        "opponent_logo": "Bloomsburg.png",
+        "date": "11-15",
+        "home": false
+    }
+]

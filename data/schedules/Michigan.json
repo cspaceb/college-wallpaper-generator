@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "New Mexico",
+        "opponent_logo": "New_Mexico.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Oklahoma",
+        "opponent_logo": "Oklahoma.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Central Michigan",
+        "opponent_logo": "Central_Michigan.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Nebraska",
+        "opponent_logo": "Nebraska.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Wisconsin",
+        "opponent_logo": "Wisconsin.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "USC",
+        "opponent_logo": "USC.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Washington",
+        "opponent_logo": "Washington.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Michigan State",
+        "opponent_logo": "Michigan_State.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Purdue",
+        "opponent_logo": "Purdue.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Northwestern",
+        "opponent_logo": "Northwestern.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Maryland",
+        "opponent_logo": "Maryland.png",
+        "date": "11-22",
+        "home": false
+    },
+    {
+        "opponent": "Ohio State",
+        "opponent_logo": "Ohio_State.png",
+        "date": "11-29",
+        "home": true
+    }
+]

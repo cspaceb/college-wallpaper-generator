@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Mercyhurst",
+        "opponent_logo": "Mercyhurst.png",
+        "date": "08-28",
+        "home": true
+    },
+    {
+        "opponent": "Robert Morris",
+        "opponent_logo": "Robert_Morris.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Michigan State",
+        "opponent_logo": "Michigan_State.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Towson",
+        "opponent_logo": "Towson.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "South Dakota State",
+        "opponent_logo": "South_Dakota_State.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "North Dakota",
+        "opponent_logo": "North_Dakota.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Illinois State",
+        "opponent_logo": "Illinois_State.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Murray State",
+        "opponent_logo": "Murray_State.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "North Dakota State",
+        "opponent_logo": "North_Dakota_State.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Southern Illinois",
+        "opponent_logo": "Southern_Illinois.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Indiana State",
+        "opponent_logo": "Indiana_State.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Northern Iowa",
+        "opponent_logo": "Northern_Iowa.png",
+        "date": "11-22",
+        "home": false
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Bethel University Tennessee",
+        "opponent_logo": "Bethel_University_Tennessee.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Wisconsin-Whitewater",
+        "opponent_logo": "Wisconsin_Whitewater.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Mars Hill",
+        "opponent_logo": "Mars_Hill.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "East Texas Baptist University",
+        "opponent_logo": "East_Texas_Baptist_University.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Hardin-Simmons",
+        "opponent_logo": "Hardin_Simmons.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Texas Wesleyan",
+        "opponent_logo": "Texas_Wesleyan.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Howard Payne",
+        "opponent_logo": "Howard_Payne.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "East Texas Baptist University",
+        "opponent_logo": "East_Texas_Baptist_University.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Hardin-Simmons",
+        "opponent_logo": "Hardin_Simmons.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Howard Payne",
+        "opponent_logo": "Howard_Payne.png",
+        "date": "11-15",
+        "home": false
+    }
+]

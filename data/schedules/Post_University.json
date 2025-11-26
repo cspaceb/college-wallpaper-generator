@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "West Virginia Wesleyan",
+        "opponent_logo": "West_Virginia_Wesleyan.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Southern Connecticut State",
+        "opponent_logo": "Southern_Connecticut_State.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Pace",
+        "opponent_logo": "Pace.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "St. Anselm",
+        "opponent_logo": "St_Anselm.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Bentley",
+        "opponent_logo": "Bentley.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Assumption",
+        "opponent_logo": "Assumption.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Franklin Pierce",
+        "opponent_logo": "Franklin_Pierce.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "American International",
+        "opponent_logo": "American_International.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "St. Anselm",
+        "opponent_logo": "St_Anselm.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Southern Connecticut State",
+        "opponent_logo": "Southern_Connecticut_State.png",
+        "date": "11-15",
+        "home": false
+    }
+]

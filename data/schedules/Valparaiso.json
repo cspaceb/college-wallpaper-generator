@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Virginia University Of Lynchburg",
+        "opponent_logo": "Virginia_University_Of_Lynchburg.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Adrian",
+        "opponent_logo": "Adrian.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Western Illinois",
+        "opponent_logo": "Western_Illinois.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "North Dakota",
+        "opponent_logo": "North_Dakota.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Drake",
+        "opponent_logo": "Drake.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Dayton",
+        "opponent_logo": "Dayton.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "St. Thomas (MN)",
+        "opponent_logo": "St_Thomas_(MN).png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Morehead State",
+        "opponent_logo": "Morehead_State.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Presbyterian",
+        "opponent_logo": "Presbyterian.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "San Diego",
+        "opponent_logo": "San_Diego.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Stetson",
+        "opponent_logo": "Stetson.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Butler",
+        "opponent_logo": "Butler.png",
+        "date": "11-22",
+        "home": false
+    }
+]

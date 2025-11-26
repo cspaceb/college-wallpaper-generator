@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Valley City State",
+        "opponent_logo": "Valley_City_State.png",
+        "date": "09-04",
+        "home": false
+    },
+    {
+        "opponent": "St. Scholastica",
+        "opponent_logo": "St_Scholastica.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Saint John's (MN)",
+        "opponent_logo": "Saint_Johns_(MN).png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "St. Olaf",
+        "opponent_logo": "St_Olaf.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Bethel (MN)",
+        "opponent_logo": "Bethel_(MN).png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Macalester",
+        "opponent_logo": "Macalester.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Concordia Moorhead",
+        "opponent_logo": "Concordia_Moorhead.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Carleton",
+        "opponent_logo": "Carleton.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Gustavus Adolphus",
+        "opponent_logo": "Gustavus_Adolphus.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Hamline University",
+        "opponent_logo": "Hamline_University.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Hamline University",
+        "opponent_logo": "Hamline_University.png",
+        "date": "11-15",
+        "home": true
+    }
+]

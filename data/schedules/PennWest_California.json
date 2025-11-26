@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "University Of Charleston (WV)",
+        "opponent_logo": "University_Of_Charleston_(WV).png",
+        "date": "09-04",
+        "home": true
+    },
+    {
+        "opponent": "West Chester",
+        "opponent_logo": "West_Chester.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Lock Haven University",
+        "opponent_logo": "Lock_Haven_University.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Slippery Rock",
+        "opponent_logo": "Slippery_Rock.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Seton Hill",
+        "opponent_logo": "Seton_Hill.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Edinboro University",
+        "opponent_logo": "Edinboro_University.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Clarion",
+        "opponent_logo": "Clarion.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Indiana-Pennsylvania",
+        "opponent_logo": "Indiana_Pennsylvania.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Frostburg State",
+        "opponent_logo": "Frostburg_State.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Gannon",
+        "opponent_logo": "Gannon.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Shippensburg",
+        "opponent_logo": "Shippensburg.png",
+        "date": "11-15",
+        "home": false
+    }
+]

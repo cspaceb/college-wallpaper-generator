@@ -1,0 +1,14 @@
+[
+    {
+        "opponent": "Southern Virginia",
+        "opponent_logo": "Southern_Virginia.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Maine Maritime",
+        "opponent_logo": "Maine_Maritime.png",
+        "date": "09-27",
+        "home": false
+    }
+]

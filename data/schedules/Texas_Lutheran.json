@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Trinity University TX",
+        "opponent_logo": "Trinity_University_TX.png",
+        "date": "09-04",
+        "home": true
+    },
+    {
+        "opponent": "Howard Payne",
+        "opponent_logo": "Howard_Payne.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Southwestern University",
+        "opponent_logo": "Southwestern_University.png",
+        "date": "09-21",
+        "home": false
+    },
+    {
+        "opponent": "East Texas Baptist University",
+        "opponent_logo": "East_Texas_Baptist_University.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "CENTENARY",
+        "opponent_logo": "CENTENARY.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Hendrix College",
+        "opponent_logo": "Hendrix_College.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Austin",
+        "opponent_logo": "Austin.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "McMurry",
+        "opponent_logo": "McMurry.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "LYONCOLL",
+        "opponent_logo": "LYONCOLL.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "McMurry",
+        "opponent_logo": "McMurry.png",
+        "date": "11-16",
+        "home": true
+    }
+]

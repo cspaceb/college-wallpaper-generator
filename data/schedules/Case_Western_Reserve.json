@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Rowan",
+        "opponent_logo": "Rowan.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Wabash College",
+        "opponent_logo": "Wabash_College.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Westminster (PA)",
+        "opponent_logo": "Westminster_(PA).png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Bethany (WV)",
+        "opponent_logo": "Bethany_(WV).png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Saint Vincent",
+        "opponent_logo": "Saint_Vincent.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Allegheny",
+        "opponent_logo": "Allegheny.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Thiel",
+        "opponent_logo": "Thiel.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Washington & Jefferson",
+        "opponent_logo": "Washington_and_Jefferson.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Grove City College",
+        "opponent_logo": "Grove_City_College.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Geneva",
+        "opponent_logo": "Geneva.png",
+        "date": "11-15",
+        "home": true
+    }
+]

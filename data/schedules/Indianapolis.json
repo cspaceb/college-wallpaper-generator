@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Marian College",
+        "opponent_logo": "Marian_College.png",
+        "date": "08-28",
+        "home": false
+    },
+    {
+        "opponent": "Findlay",
+        "opponent_logo": "Findlay.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Ashland",
+        "opponent_logo": "Ashland.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "McKendree",
+        "opponent_logo": "McKendree.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Truman State",
+        "opponent_logo": "Truman_State.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "William Jewell",
+        "opponent_logo": "William_Jewell.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Missouri S&T",
+        "opponent_logo": "Missouri_SandT.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Lincoln (MO)",
+        "opponent_logo": "Lincoln_(MO).png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Quincy",
+        "opponent_logo": "Quincy.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Southwest Baptist",
+        "opponent_logo": "Southwest_Baptist.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Upper Iowa University",
+        "opponent_logo": "Upper_Iowa_University.png",
+        "date": "11-15",
+        "home": true
+    }
+]

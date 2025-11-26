@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Air Force",
+        "opponent_logo": "Air_Force.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Marist",
+        "opponent_logo": "Marist.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "VMI",
+        "opponent_logo": "VMI.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Lehigh",
+        "opponent_logo": "Lehigh.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "St. Francis (PA)",
+        "opponent_logo": "St_Francis_(PA).png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Richmond",
+        "opponent_logo": "Richmond.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Lafayette",
+        "opponent_logo": "Lafayette.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Cornell",
+        "opponent_logo": "Cornell.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Georgetown",
+        "opponent_logo": "Georgetown.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Fordham",
+        "opponent_logo": "Fordham.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Holy Cross",
+        "opponent_logo": "Holy_Cross.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Colgate",
+        "opponent_logo": "Colgate.png",
+        "date": "11-22",
+        "home": false
+    }
+]

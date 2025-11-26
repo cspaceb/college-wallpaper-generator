@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Reading",
+        "opponent_logo": "Reading.png",
+        "date": "09-05",
+        "home": false
+    },
+    {
+        "opponent": "Kean",
+        "opponent_logo": "Kean.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Moravian",
+        "opponent_logo": "Moravian.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Muhlenberg",
+        "opponent_logo": "Muhlenberg.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "McDaniel College",
+        "opponent_logo": "McDaniel_College.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Johns Hopkins University",
+        "opponent_logo": "Johns_Hopkins_University.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Franklin & Marshall",
+        "opponent_logo": "Franklin_and_Marshall.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Gettysburg",
+        "opponent_logo": "Gettysburg.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Dickinson (PA)",
+        "opponent_logo": "Dickinson_(PA).png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Carnegie Mellon",
+        "opponent_logo": "Carnegie_Mellon.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Lebanon Valley",
+        "opponent_logo": "Lebanon_Valley.png",
+        "date": "11-22",
+        "home": true
+    }
+]

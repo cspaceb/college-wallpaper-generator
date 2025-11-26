@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "New Hampshire",
+        "opponent_logo": "New_Hampshire.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Central Connecticut",
+        "opponent_logo": "Central_Connecticut.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Pennsylvania",
+        "opponent_logo": "Pennsylvania.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Yale",
+        "opponent_logo": "Yale.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Fordham",
+        "opponent_logo": "Fordham.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Columbia",
+        "opponent_logo": "Columbia.png",
+        "date": "10-24",
+        "home": true
+    },
+    {
+        "opponent": "Harvard",
+        "opponent_logo": "Harvard.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Princeton",
+        "opponent_logo": "Princeton.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Cornell",
+        "opponent_logo": "Cornell.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Brown",
+        "opponent_logo": "Brown.png",
+        "date": "11-22",
+        "home": false
+    }
+]

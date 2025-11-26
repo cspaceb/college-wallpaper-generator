@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Dickinson (PA)",
+        "opponent_logo": "Dickinson_(PA).png",
+        "date": "09-05",
+        "home": true
+    },
+    {
+        "opponent": "Central College",
+        "opponent_logo": "Central_College.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Bridgewater (VA)",
+        "opponent_logo": "Bridgewater_(VA).png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Washington and Lee",
+        "opponent_logo": "Washington_and_Lee.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Roanoke College",
+        "opponent_logo": "Roanoke_College.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Averett",
+        "opponent_logo": "Averett.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Guilford College",
+        "opponent_logo": "Guilford_College.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Gallaudet",
+        "opponent_logo": "Gallaudet.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Shenandoah",
+        "opponent_logo": "Shenandoah.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Hampden-Sydney",
+        "opponent_logo": "Hampden_Sydney.png",
+        "date": "11-15",
+        "home": true
+    }
+]

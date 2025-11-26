@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Stonehill",
+        "opponent_logo": "Stonehill.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Lehigh",
+        "opponent_logo": "Lehigh.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Dartmouth",
+        "opponent_logo": "Dartmouth.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Marist",
+        "opponent_logo": "Marist.png",
+        "date": "10-10",
+        "home": true
+    },
+    {
+        "opponent": "Columbia",
+        "opponent_logo": "Columbia.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Yale",
+        "opponent_logo": "Yale.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Brown",
+        "opponent_logo": "Brown.png",
+        "date": "10-31",
+        "home": true
+    },
+    {
+        "opponent": "Cornell",
+        "opponent_logo": "Cornell.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Harvard",
+        "opponent_logo": "Harvard.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Princeton",
+        "opponent_logo": "Princeton.png",
+        "date": "11-22",
+        "home": true
+    }
+]

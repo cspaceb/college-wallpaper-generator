@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Western Michigan",
+        "opponent_logo": "Western_Michigan.png",
+        "date": "08-29",
+        "home": true
+    },
+    {
+        "opponent": "Boston College",
+        "opponent_logo": "Boston_College.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Youngstown State",
+        "opponent_logo": "Youngstown_State.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "USC",
+        "opponent_logo": "USC.png",
+        "date": "09-21",
+        "home": false
+    },
+    {
+        "opponent": "Nebraska",
+        "opponent_logo": "Nebraska.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "UCLA",
+        "opponent_logo": "UCLA.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Indiana",
+        "opponent_logo": "Indiana.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Michigan",
+        "opponent_logo": "Michigan.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Minnesota",
+        "opponent_logo": "Minnesota.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Penn State",
+        "opponent_logo": "Penn_State.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Iowa",
+        "opponent_logo": "Iowa.png",
+        "date": "11-22",
+        "home": false
+    },
+    {
+        "opponent": "Maryland",
+        "opponent_logo": "Maryland.png",
+        "date": "11-30",
+        "home": true
+    }
+]

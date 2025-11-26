@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Stephen F. Austin",
+        "opponent_logo": "Stephen_F_Austin.png",
+        "date": "08-29",
+        "home": true
+    },
+    {
+        "opponent": "Rice",
+        "opponent_logo": "Rice.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Colorado",
+        "opponent_logo": "Colorado.png",
+        "date": "09-12",
+        "home": true
+    },
+    {
+        "opponent": "Oregon State",
+        "opponent_logo": "Oregon_State.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Texas Tech",
+        "opponent_logo": "Texas_Tech.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Oklahoma State",
+        "opponent_logo": "Oklahoma_State.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Arizona",
+        "opponent_logo": "Arizona.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Arizona State",
+        "opponent_logo": "Arizona_State.png",
+        "date": "10-26",
+        "home": false
+    },
+    {
+        "opponent": "West Virginia",
+        "opponent_logo": "West_Virginia.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "UCF",
+        "opponent_logo": "UCF.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "TCU",
+        "opponent_logo": "TCU.png",
+        "date": "11-22",
+        "home": true
+    },
+    {
+        "opponent": "Baylor",
+        "opponent_logo": "Baylor.png",
+        "date": "11-29",
+        "home": false
+    }
+]

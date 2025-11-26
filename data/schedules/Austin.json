@@ -1,0 +1,56 @@
+[
+    {
+        "opponent": "Kalamazoo",
+        "opponent_logo": "Kalamazoo.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Rhodes College",
+        "opponent_logo": "Rhodes_College.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "CENTENARY",
+        "opponent_logo": "CENTENARY.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Hendrix College",
+        "opponent_logo": "Hendrix_College.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "McMurry",
+        "opponent_logo": "McMurry.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Texas Lutheran",
+        "opponent_logo": "Texas_Lutheran.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "LYONCOLL",
+        "opponent_logo": "LYONCOLL.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "CENTENARY",
+        "opponent_logo": "CENTENARY.png",
+        "date": "11-09",
+        "home": false
+    },
+    {
+        "opponent": "CENTENARY",
+        "opponent_logo": "CENTENARY.png",
+        "date": "11-15",
+        "home": true
+    }
+]

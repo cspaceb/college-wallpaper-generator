@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Gannon",
+        "opponent_logo": "Gannon.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Truman State",
+        "opponent_logo": "Truman_State.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Northern Michigan",
+        "opponent_logo": "Northern_Michigan.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Lincoln (CA)",
+        "opponent_logo": "Lincoln_(CA).png",
+        "date": "09-25",
+        "home": true
+    },
+    {
+        "opponent": "Grand Valley State University",
+        "opponent_logo": "Grand_Valley_State_University.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Michigan Tech",
+        "opponent_logo": "Michigan_Tech.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Wayne State (MI)",
+        "opponent_logo": "Wayne_State_(MI).png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Roosevelt",
+        "opponent_logo": "Roosevelt.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Saginaw Valley State",
+        "opponent_logo": "Saginaw_Valley_State.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Northern Michigan",
+        "opponent_logo": "Northern_Michigan.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Ferris State",
+        "opponent_logo": "Ferris_State.png",
+        "date": "11-15",
+        "home": true
+    }
+]

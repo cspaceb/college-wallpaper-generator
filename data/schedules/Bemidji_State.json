@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Michigan Tech",
+        "opponent_logo": "Michigan_Tech.png",
+        "date": "08-28",
+        "home": false
+    },
+    {
+        "opponent": "Winona State",
+        "opponent_logo": "Winona_State.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Sioux Falls",
+        "opponent_logo": "Sioux_Falls.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Augustana University (SD)",
+        "opponent_logo": "Augustana_University_(SD).png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Minot State",
+        "opponent_logo": "Minot_State.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Northern State",
+        "opponent_logo": "Northern_State.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Wayne State (NE)",
+        "opponent_logo": "Wayne_State_(NE).png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Jamestown College",
+        "opponent_logo": "Jamestown_College.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Minnesota State Moorhead",
+        "opponent_logo": "Minnesota_State_Moorhead.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Minnesota Duluth",
+        "opponent_logo": "Minnesota_Duluth.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "University of Mary",
+        "opponent_logo": "University_of_Mary.png",
+        "date": "11-15",
+        "home": true
+    }
+]

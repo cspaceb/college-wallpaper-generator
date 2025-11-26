@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Davidson",
+        "opponent_logo": "Davidson.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Wagner",
+        "opponent_logo": "Wagner.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Lafayette",
+        "opponent_logo": "Lafayette.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Brown",
+        "opponent_logo": "Brown.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Columbia",
+        "opponent_logo": "Columbia.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Morgan State",
+        "opponent_logo": "Morgan_State.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Colgate",
+        "opponent_logo": "Colgate.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Bucknell",
+        "opponent_logo": "Bucknell.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Lehigh",
+        "opponent_logo": "Lehigh.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Richmond",
+        "opponent_logo": "Richmond.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Fordham",
+        "opponent_logo": "Fordham.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Holy Cross",
+        "opponent_logo": "Holy_Cross.png",
+        "date": "11-22",
+        "home": false
+    }
+]

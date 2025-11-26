@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Texas A&M",
+        "opponent_logo": "Texas_AandM.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Texas State",
+        "opponent_logo": "Texas_State.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Incarnate Word",
+        "opponent_logo": "Incarnate_Word.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Colorado State",
+        "opponent_logo": "Colorado_State.png",
+        "date": "09-21",
+        "home": false
+    },
+    {
+        "opponent": "Temple",
+        "opponent_logo": "Temple.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Rice",
+        "opponent_logo": "Rice.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "North Texas",
+        "opponent_logo": "North_Texas.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Tulane",
+        "opponent_logo": "Tulane.png",
+        "date": "10-30",
+        "home": true
+    },
+    {
+        "opponent": "South Florida",
+        "opponent_logo": "South_Florida.png",
+        "date": "11-07",
+        "home": false
+    },
+    {
+        "opponent": "Charlotte",
+        "opponent_logo": "Charlotte.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "East Carolina",
+        "opponent_logo": "East_Carolina.png",
+        "date": "11-22",
+        "home": true
+    },
+    {
+        "opponent": "Army",
+        "opponent_logo": "Army.png",
+        "date": "11-29",
+        "home": true
+    }
+]

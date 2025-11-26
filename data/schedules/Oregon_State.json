@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "California",
+        "opponent_logo": "California.png",
+        "date": "08-31",
+        "home": true
+    },
+    {
+        "opponent": "Fresno State",
+        "opponent_logo": "Fresno_State.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Texas Tech",
+        "opponent_logo": "Texas_Tech.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Oregon",
+        "opponent_logo": "Oregon.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Houston",
+        "opponent_logo": "Houston.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "App State",
+        "opponent_logo": "App_State.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Wake Forest",
+        "opponent_logo": "Wake_Forest.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Lafayette",
+        "opponent_logo": "Lafayette.png",
+        "date": "10-19",
+        "home": true
+    },
+    {
+        "opponent": "Washington State",
+        "opponent_logo": "Washington_State.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Sam Houston",
+        "opponent_logo": "Sam_Houston.png",
+        "date": "11-09",
+        "home": true
+    },
+    {
+        "opponent": "Tulsa",
+        "opponent_logo": "Tulsa.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Washington State",
+        "opponent_logo": "Washington_State.png",
+        "date": "11-29",
+        "home": false
+    }
+]

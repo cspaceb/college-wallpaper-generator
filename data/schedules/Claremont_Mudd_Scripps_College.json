@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Lake Forest College",
+        "opponent_logo": "Lake_Forest_College.png",
+        "date": "09-07",
+        "home": false
+    },
+    {
+        "opponent": "NEWBERG",
+        "opponent_logo": "NEWBERG.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Pomona Pitzer",
+        "opponent_logo": "Pomona_Pitzer.png",
+        "date": "09-28",
+        "home": false
+    },
+    {
+        "opponent": "California Lutheran University",
+        "opponent_logo": "California_Lutheran_University.png",
+        "date": "10-05",
+        "home": false
+    },
+    {
+        "opponent": "Redlands",
+        "opponent_logo": "Redlands.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "La Verne",
+        "opponent_logo": "La_Verne.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Chapman",
+        "opponent_logo": "Chapman.png",
+        "date": "10-26",
+        "home": false
+    },
+    {
+        "opponent": "California Lutheran University",
+        "opponent_logo": "California_Lutheran_University.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Redlands",
+        "opponent_logo": "Redlands.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "La Verne",
+        "opponent_logo": "La_Verne.png",
+        "date": "11-15",
+        "home": true
+    }
+]

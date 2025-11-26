@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Thiel",
+        "opponent_logo": "Thiel.png",
+        "date": "09-05",
+        "home": false
+    },
+    {
+        "opponent": "Calvin University",
+        "opponent_logo": "Calvin_University.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Wisconsin-Lutheran",
+        "opponent_logo": "Wisconsin_Lutheran.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Benedictine University",
+        "opponent_logo": "Benedictine_University.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "St. Norbert",
+        "opponent_logo": "St_Norbert.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Lakeland",
+        "opponent_logo": "Lakeland.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Aurora",
+        "opponent_logo": "Aurora.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Concordia University Chicago",
+        "opponent_logo": "Concordia_University_Chicago.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Rockford",
+        "opponent_logo": "Rockford.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Eureka College",
+        "opponent_logo": "Eureka_College.png",
+        "date": "11-15",
+        "home": true
+    }
+]

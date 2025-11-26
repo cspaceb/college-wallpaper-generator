@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Hawai'i",
+        "opponent_logo": "Hawaii.png",
+        "date": "08-31",
+        "home": true
+    },
+    {
+        "opponent": "Weber State",
+        "opponent_logo": "Weber_State.png",
+        "date": "09-07",
+        "home": true
+    },
+    {
+        "opponent": "Kansas State",
+        "opponent_logo": "Kansas_State.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Iowa State",
+        "opponent_logo": "Iowa_State.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Oklahoma State",
+        "opponent_logo": "Oklahoma_State.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "BYU",
+        "opponent_logo": "BYU.png",
+        "date": "10-12",
+        "home": true
+    },
+    {
+        "opponent": "Houston",
+        "opponent_logo": "Houston.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Colorado",
+        "opponent_logo": "Colorado.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Kansas",
+        "opponent_logo": "Kansas.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Cincinnati",
+        "opponent_logo": "Cincinnati.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Baylor",
+        "opponent_logo": "Baylor.png",
+        "date": "11-22",
+        "home": true
+    },
+    {
+        "opponent": "Arizona State",
+        "opponent_logo": "Arizona_State.png",
+        "date": "11-29",
+        "home": false
+    }
+]

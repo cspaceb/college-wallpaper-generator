@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Fort Lewis",
+        "opponent_logo": "Fort_Lewis.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Kentucky Wesleyan",
+        "opponent_logo": "Kentucky_Wesleyan.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Southwest Baptist",
+        "opponent_logo": "Southwest_Baptist.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "McKendree",
+        "opponent_logo": "McKendree.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Indianapolis",
+        "opponent_logo": "Indianapolis.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Quincy",
+        "opponent_logo": "Quincy.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Northeastern State",
+        "opponent_logo": "Northeastern_State.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Upper Iowa University",
+        "opponent_logo": "Upper_Iowa_University.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Missouri S&T",
+        "opponent_logo": "Missouri_SandT.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Truman State",
+        "opponent_logo": "Truman_State.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Lincoln (MO)",
+        "opponent_logo": "Lincoln_(MO).png",
+        "date": "11-15",
+        "home": true
+    }
+]

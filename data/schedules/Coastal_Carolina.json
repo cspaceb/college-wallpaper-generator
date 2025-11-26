@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Virginia",
+        "opponent_logo": "Virginia.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Charleston Southern",
+        "opponent_logo": "Charleston_Southern.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "East Carolina",
+        "opponent_logo": "East_Carolina.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "South Alabama",
+        "opponent_logo": "South_Alabama.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Old Dominion",
+        "opponent_logo": "Old_Dominion.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "UL Monroe",
+        "opponent_logo": "UL_Monroe.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "App State",
+        "opponent_logo": "App_State.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Marshall",
+        "opponent_logo": "Marshall.png",
+        "date": "10-30",
+        "home": true
+    },
+    {
+        "opponent": "Georgia State",
+        "opponent_logo": "Georgia_State.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Georgia Southern",
+        "opponent_logo": "Georgia_Southern.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "South Carolina",
+        "opponent_logo": "South_Carolina.png",
+        "date": "11-22",
+        "home": false
+    },
+    {
+        "opponent": "James Madison",
+        "opponent_logo": "James_Madison.png",
+        "date": "11-29",
+        "home": true
+    }
+]

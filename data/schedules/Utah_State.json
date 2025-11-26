@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "UTEP",
+        "opponent_logo": "UTEP.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Texas A&M",
+        "opponent_logo": "Texas_AandM.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Air Force",
+        "opponent_logo": "Air_Force.png",
+        "date": "09-14",
+        "home": true
+    },
+    {
+        "opponent": "McNeese",
+        "opponent_logo": "McNeese.png",
+        "date": "09-21",
+        "home": true
+    },
+    {
+        "opponent": "Vanderbilt",
+        "opponent_logo": "Vanderbilt.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Hawai'i",
+        "opponent_logo": "Hawaii.png",
+        "date": "10-12",
+        "home": false
+    },
+    {
+        "opponent": "San Jos\u00e9 State",
+        "opponent_logo": "San_Jose_State.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "New Mexico",
+        "opponent_logo": "New_Mexico.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Nevada",
+        "opponent_logo": "Nevada.png",
+        "date": "11-09",
+        "home": true
+    },
+    {
+        "opponent": "UNLV",
+        "opponent_logo": "UNLV.png",
+        "date": "11-16",
+        "home": false
+    },
+    {
+        "opponent": "Fresno State",
+        "opponent_logo": "Fresno_State.png",
+        "date": "11-23",
+        "home": false
+    },
+    {
+        "opponent": "Boise State",
+        "opponent_logo": "Boise_State.png",
+        "date": "11-28",
+        "home": true
+    }
+]

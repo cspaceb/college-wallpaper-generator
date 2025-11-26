@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Iowa State",
+        "opponent_logo": "Iowa_State.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Lamar",
+        "opponent_logo": "Lamar.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Northern Colorado",
+        "opponent_logo": "Northern_Colorado.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Drake",
+        "opponent_logo": "Drake.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "North Dakota State",
+        "opponent_logo": "North_Dakota_State.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Murray State",
+        "opponent_logo": "Murray_State.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Indiana State",
+        "opponent_logo": "Indiana_State.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Northern Iowa",
+        "opponent_logo": "Northern_Iowa.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Illinois State",
+        "opponent_logo": "Illinois_State.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "North Dakota",
+        "opponent_logo": "North_Dakota.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "South Dakota State",
+        "opponent_logo": "South_Dakota_State.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Southern Illinois",
+        "opponent_logo": "Southern_Illinois.png",
+        "date": "11-15",
+        "home": false
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Wilmington (OH)",
+        "opponent_logo": "Wilmington_(OH).png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Saint Vincent",
+        "opponent_logo": "Saint_Vincent.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Wabash College",
+        "opponent_logo": "Wabash_College.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Oberlin",
+        "opponent_logo": "Oberlin.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Wittenberg",
+        "opponent_logo": "Wittenberg.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Denison University",
+        "opponent_logo": "Denison_University.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Ohio Wesleyan",
+        "opponent_logo": "Ohio_Wesleyan.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "John Carroll University",
+        "opponent_logo": "John_Carroll_University.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Kenyon",
+        "opponent_logo": "Kenyon.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Depauw",
+        "opponent_logo": "Depauw.png",
+        "date": "11-08",
+        "home": false
+    }
+]

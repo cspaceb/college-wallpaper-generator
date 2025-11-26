@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Randolph-Macon",
+        "opponent_logo": "Randolph_Macon.png",
+        "date": "09-05",
+        "home": false
+    },
+    {
+        "opponent": "Waynesburg",
+        "opponent_logo": "Waynesburg.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Lycoming",
+        "opponent_logo": "Lycoming.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Johns Hopkins University",
+        "opponent_logo": "Johns_Hopkins_University.png",
+        "date": "10-03",
+        "home": false
+    },
+    {
+        "opponent": "Gettysburg",
+        "opponent_logo": "Gettysburg.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Franklin & Marshall",
+        "opponent_logo": "Franklin_and_Marshall.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "McDaniel College",
+        "opponent_logo": "McDaniel_College.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Carnegie Mellon",
+        "opponent_logo": "Carnegie_Mellon.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Ursinus",
+        "opponent_logo": "Ursinus.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Muhlenberg",
+        "opponent_logo": "Muhlenberg.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Delaware Valley",
+        "opponent_logo": "Delaware_Valley.png",
+        "date": "11-22",
+        "home": false
+    }
+]

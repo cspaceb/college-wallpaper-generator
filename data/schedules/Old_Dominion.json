@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Indiana",
+        "opponent_logo": "Indiana.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "North Carolina Central",
+        "opponent_logo": "North_Carolina_Central.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Virginia Tech",
+        "opponent_logo": "Virginia_Tech.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Liberty",
+        "opponent_logo": "Liberty.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Coastal Carolina",
+        "opponent_logo": "Coastal_Carolina.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Marshall",
+        "opponent_logo": "Marshall.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "James Madison",
+        "opponent_logo": "James_Madison.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "App State",
+        "opponent_logo": "App_State.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "UL Monroe",
+        "opponent_logo": "UL_Monroe.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Troy",
+        "opponent_logo": "Troy.png",
+        "date": "11-14",
+        "home": true
+    },
+    {
+        "opponent": "Georgia Southern",
+        "opponent_logo": "Georgia_Southern.png",
+        "date": "11-22",
+        "home": false
+    },
+    {
+        "opponent": "Georgia State",
+        "opponent_logo": "Georgia_State.png",
+        "date": "11-29",
+        "home": true
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "opponent": "Millsaps",
+        "opponent_logo": "Millsaps.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "East Texas Baptist University",
+        "opponent_logo": "East_Texas_Baptist_University.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Austin",
+        "opponent_logo": "Austin.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Texas Lutheran",
+        "opponent_logo": "Texas_Lutheran.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "LYONCOLL",
+        "opponent_logo": "LYONCOLL.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "McMurry",
+        "opponent_logo": "McMurry.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Hendrix College",
+        "opponent_logo": "Hendrix_College.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Austin",
+        "opponent_logo": "Austin.png",
+        "date": "11-09",
+        "home": true
+    },
+    {
+        "opponent": "Austin",
+        "opponent_logo": "Austin.png",
+        "date": "11-15",
+        "home": false
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Purdue",
+        "opponent_logo": "Purdue.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Auburn",
+        "opponent_logo": "Auburn.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "New Hampshire",
+        "opponent_logo": "New_Hampshire.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "UConn",
+        "opponent_logo": "UConn.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Ohio",
+        "opponent_logo": "Ohio.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Western Michigan",
+        "opponent_logo": "Western_Michigan.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Akron",
+        "opponent_logo": "Akron.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Northern Illinois",
+        "opponent_logo": "Northern_Illinois.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Kent State",
+        "opponent_logo": "Kent_State.png",
+        "date": "11-06",
+        "home": true
+    },
+    {
+        "opponent": "Eastern Michigan",
+        "opponent_logo": "Eastern_Michigan.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Toledo",
+        "opponent_logo": "Toledo.png",
+        "date": "11-22",
+        "home": false
+    },
+    {
+        "opponent": "Miami (OH)",
+        "opponent_logo": "Miami_(OH).png",
+        "date": "11-29",
+        "home": false
+    }
+]

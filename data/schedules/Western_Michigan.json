@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Michigan State",
+        "opponent_logo": "Michigan_State.png",
+        "date": "08-29",
+        "home": false
+    },
+    {
+        "opponent": "North Texas",
+        "opponent_logo": "North_Texas.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Illinois",
+        "opponent_logo": "Illinois.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Toledo",
+        "opponent_logo": "Toledo.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Rhode Island",
+        "opponent_logo": "Rhode_Island.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Massachusetts",
+        "opponent_logo": "Massachusetts.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Ball State",
+        "opponent_logo": "Ball_State.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Miami (OH)",
+        "opponent_logo": "Miami_(OH).png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Central Michigan",
+        "opponent_logo": "Central_Michigan.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Ohio",
+        "opponent_logo": "Ohio.png",
+        "date": "11-12",
+        "home": true
+    },
+    {
+        "opponent": "Northern Illinois",
+        "opponent_logo": "Northern_Illinois.png",
+        "date": "11-19",
+        "home": false
+    },
+    {
+        "opponent": "Eastern Michigan",
+        "opponent_logo": "Eastern_Michigan.png",
+        "date": "11-26",
+        "home": false
+    }
+]

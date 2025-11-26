@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Holy Cross",
+        "opponent_logo": "Holy_Cross.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Maryland",
+        "opponent_logo": "Maryland.png",
+        "date": "09-05",
+        "home": false
+    },
+    {
+        "opponent": "Mississippi State",
+        "opponent_logo": "Mississippi_State.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "San Diego State",
+        "opponent_logo": "San_Diego_State.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Miami (OH)",
+        "opponent_logo": "Miami_(OH).png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Eastern Michigan",
+        "opponent_logo": "Eastern_Michigan.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Ohio",
+        "opponent_logo": "Ohio.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Ball State",
+        "opponent_logo": "Ball_State.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Toledo",
+        "opponent_logo": "Toledo.png",
+        "date": "11-06",
+        "home": false
+    },
+    {
+        "opponent": "Massachusetts",
+        "opponent_logo": "Massachusetts.png",
+        "date": "11-13",
+        "home": false
+    },
+    {
+        "opponent": "Western Michigan",
+        "opponent_logo": "Western_Michigan.png",
+        "date": "11-19",
+        "home": true
+    },
+    {
+        "opponent": "Kent State",
+        "opponent_logo": "Kent_State.png",
+        "date": "11-28",
+        "home": true
+    }
+]

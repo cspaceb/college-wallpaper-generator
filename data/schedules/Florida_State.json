@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Alabama",
+        "opponent_logo": "Alabama.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "East Texas A&M",
+        "opponent_logo": "East_Texas_AandM.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Kent State",
+        "opponent_logo": "Kent_State.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Virginia",
+        "opponent_logo": "Virginia.png",
+        "date": "09-26",
+        "home": false
+    },
+    {
+        "opponent": "Miami",
+        "opponent_logo": "Miami.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Pittsburgh",
+        "opponent_logo": "Pittsburgh.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Stanford",
+        "opponent_logo": "Stanford.png",
+        "date": "10-19",
+        "home": false
+    },
+    {
+        "opponent": "Wake Forest",
+        "opponent_logo": "Wake_Forest.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Clemson",
+        "opponent_logo": "Clemson.png",
+        "date": "11-09",
+        "home": false
+    },
+    {
+        "opponent": "Virginia Tech",
+        "opponent_logo": "Virginia_Tech.png",
+        "date": "11-16",
+        "home": true
+    },
+    {
+        "opponent": "NC State",
+        "opponent_logo": "NC_State.png",
+        "date": "11-22",
+        "home": false
+    },
+    {
+        "opponent": "Florida",
+        "opponent_logo": "Florida.png",
+        "date": "11-29",
+        "home": false
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Tulsa",
+        "opponent_logo": "Tulsa.png",
+        "date": "08-31",
+        "home": false
+    },
+    {
+        "opponent": "Stephen F. Austin",
+        "opponent_logo": "Stephen_F_Austin.png",
+        "date": "09-07",
+        "home": true
+    },
+    {
+        "opponent": "TCU",
+        "opponent_logo": "TCU.png",
+        "date": "09-14",
+        "home": false
+    },
+    {
+        "opponent": "Austin Peay",
+        "opponent_logo": "Austin_Peay.png",
+        "date": "09-21",
+        "home": true
+    },
+    {
+        "opponent": "Incarnate Word",
+        "opponent_logo": "Incarnate_Word.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "North Alabama",
+        "opponent_logo": "North_Alabama.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "West Georgia",
+        "opponent_logo": "West_Georgia.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Southern Utah",
+        "opponent_logo": "Southern_Utah.png",
+        "date": "10-19",
+        "home": false
+    },
+    {
+        "opponent": "Tarleton State",
+        "opponent_logo": "Tarleton_State.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Utah Tech",
+        "opponent_logo": "Utah_Tech.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Eastern Kentucky",
+        "opponent_logo": "Eastern_Kentucky.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Central Arkansas",
+        "opponent_logo": "Central_Arkansas.png",
+        "date": "11-22",
+        "home": false
+    }
+]

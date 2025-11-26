@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "University of Rochester (NY)",
+        "opponent_logo": "University_of_Rochester_(NY).png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Madonna University (Mich.)",
+        "opponent_logo": "Madonna_University_(Mich).png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Bluffton",
+        "opponent_logo": "Bluffton.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Adrian",
+        "opponent_logo": "Adrian.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Kalamazoo",
+        "opponent_logo": "Kalamazoo.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Trine University",
+        "opponent_logo": "Trine_University.png",
+        "date": "10-16",
+        "home": true
+    },
+    {
+        "opponent": "Alma",
+        "opponent_logo": "Alma.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Calvin University",
+        "opponent_logo": "Calvin_University.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Albion",
+        "opponent_logo": "Albion.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Hope College",
+        "opponent_logo": "Hope_College.png",
+        "date": "11-15",
+        "home": false
+    }
+]

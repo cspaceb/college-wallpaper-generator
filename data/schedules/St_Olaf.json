@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Northwestern (MN)",
+        "opponent_logo": "Northwestern_(MN).png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Concordia Moorhead",
+        "opponent_logo": "Concordia_Moorhead.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Carleton",
+        "opponent_logo": "Carleton.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Augsburg",
+        "opponent_logo": "Augsburg.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Gustavus Adolphus",
+        "opponent_logo": "Gustavus_Adolphus.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Bethel (MN)",
+        "opponent_logo": "Bethel_(MN).png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "St. Scholastica",
+        "opponent_logo": "St_Scholastica.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Macalester",
+        "opponent_logo": "Macalester.png",
+        "date": "11-02",
+        "home": false
+    },
+    {
+        "opponent": "Hamline University",
+        "opponent_logo": "Hamline_University.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Saint John's (MN)",
+        "opponent_logo": "Saint_Johns_(MN).png",
+        "date": "11-15",
+        "home": false
+    }
+]

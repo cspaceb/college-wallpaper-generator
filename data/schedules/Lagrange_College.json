@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Point University",
+        "opponent_logo": "Point_University.png",
+        "date": "09-07",
+        "home": false
+    },
+    {
+        "opponent": "Berry College",
+        "opponent_logo": "Berry_College.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Centre College Kentucky",
+        "opponent_logo": "Centre_College_Kentucky.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "North Carolina Wesleyan",
+        "opponent_logo": "North_Carolina_Wesleyan.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Methodist",
+        "opponent_logo": "Methodist.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Brevard College",
+        "opponent_logo": "Brevard_College.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Huntingdon College (AL)",
+        "opponent_logo": "Huntingdon_College_(AL).png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Greensboro College",
+        "opponent_logo": "Greensboro_College.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Belhaven",
+        "opponent_logo": "Belhaven.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Southern Virginia",
+        "opponent_logo": "Southern_Virginia.png",
+        "date": "11-15",
+        "home": false
+    }
+]

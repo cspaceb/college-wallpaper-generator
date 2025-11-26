@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Idaho State",
+        "opponent_logo": "Idaho_State.png",
+        "date": "08-31",
+        "home": true
+    },
+    {
+        "opponent": "San Diego",
+        "opponent_logo": "San_Diego.png",
+        "date": "09-07",
+        "home": false
+    },
+    {
+        "opponent": "Northern Arizona",
+        "opponent_logo": "Northern_Arizona.png",
+        "date": "09-14",
+        "home": true
+    },
+    {
+        "opponent": "UC Davis",
+        "opponent_logo": "UC_Davis.png",
+        "date": "09-21",
+        "home": false
+    },
+    {
+        "opponent": "West Georgia",
+        "opponent_logo": "West_Georgia.png",
+        "date": "09-28",
+        "home": true
+    },
+    {
+        "opponent": "Tarleton State",
+        "opponent_logo": "Tarleton_State.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Abilene Christian",
+        "opponent_logo": "Abilene_Christian.png",
+        "date": "10-19",
+        "home": true
+    },
+    {
+        "opponent": "Utah Tech",
+        "opponent_logo": "Utah_Tech.png",
+        "date": "10-26",
+        "home": false
+    },
+    {
+        "opponent": "Austin Peay",
+        "opponent_logo": "Austin_Peay.png",
+        "date": "11-02",
+        "home": true
+    },
+    {
+        "opponent": "Eastern Kentucky",
+        "opponent_logo": "Eastern_Kentucky.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Central Arkansas",
+        "opponent_logo": "Central_Arkansas.png",
+        "date": "11-16",
+        "home": true
+    },
+    {
+        "opponent": "North Alabama",
+        "opponent_logo": "North_Alabama.png",
+        "date": "11-22",
+        "home": false
+    }
+]

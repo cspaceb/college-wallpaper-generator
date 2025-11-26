@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Tarleton State",
+        "opponent_logo": "Tarleton_State.png",
+        "date": "08-23",
+        "home": true
+    },
+    {
+        "opponent": "BYU",
+        "opponent_logo": "BYU.png",
+        "date": "08-31",
+        "home": false
+    },
+    {
+        "opponent": "North Dakota",
+        "opponent_logo": "North_Dakota.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Hawai'i",
+        "opponent_logo": "Hawaii.png",
+        "date": "09-14",
+        "home": false
+    },
+    {
+        "opponent": "Northern Arizona",
+        "opponent_logo": "Northern_Arizona.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Eastern Washington",
+        "opponent_logo": "Eastern_Washington.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Weber State",
+        "opponent_logo": "Weber_State.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Idaho",
+        "opponent_logo": "Idaho.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Cal Poly",
+        "opponent_logo": "Cal_Poly.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Sacramento State",
+        "opponent_logo": "Sacramento_State.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Montana",
+        "opponent_logo": "Montana.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Northern Colorado",
+        "opponent_logo": "Northern_Colorado.png",
+        "date": "11-22",
+        "home": false
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Hamline University",
+        "opponent_logo": "Hamline_University.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Simpson College (IA)",
+        "opponent_logo": "Simpson_College_(IA).png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Minnesota Morris",
+        "opponent_logo": "Minnesota_Morris.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Northwestern (MN)",
+        "opponent_logo": "Northwestern_(MN).png",
+        "date": "10-05",
+        "home": true
+    },
+    {
+        "opponent": "Martin Luther",
+        "opponent_logo": "Martin_Luther.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Westminster College (MO)",
+        "opponent_logo": "Westminster_College_(MO).png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Northwestern (MN)",
+        "opponent_logo": "Northwestern_(MN).png",
+        "date": "10-26",
+        "home": false
+    },
+    {
+        "opponent": "Minnesota Morris",
+        "opponent_logo": "Minnesota_Morris.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Martin Luther",
+        "opponent_logo": "Martin_Luther.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Greenville",
+        "opponent_logo": "Greenville.png",
+        "date": "11-15",
+        "home": false
+    }
+]

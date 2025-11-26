@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "South Florida",
+        "opponent_logo": "South_Florida.png",
+        "date": "08-28",
+        "home": false
+    },
+    {
+        "opponent": "Eastern Washington",
+        "opponent_logo": "Eastern_Washington.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Air Force",
+        "opponent_logo": "Air_Force.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "App State",
+        "opponent_logo": "App_State.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Notre Dame",
+        "opponent_logo": "Notre_Dame.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "New Mexico",
+        "opponent_logo": "New_Mexico.png",
+        "date": "10-12",
+        "home": true
+    },
+    {
+        "opponent": "UNLV",
+        "opponent_logo": "UNLV.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Nevada",
+        "opponent_logo": "Nevada.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Fresno State",
+        "opponent_logo": "Fresno_State.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "San Diego State",
+        "opponent_logo": "San_Diego_State.png",
+        "date": "11-16",
+        "home": false
+    },
+    {
+        "opponent": "Colorado State",
+        "opponent_logo": "Colorado_State.png",
+        "date": "11-23",
+        "home": true
+    },
+    {
+        "opponent": "Utah State",
+        "opponent_logo": "Utah_State.png",
+        "date": "11-28",
+        "home": false
+    }
+]

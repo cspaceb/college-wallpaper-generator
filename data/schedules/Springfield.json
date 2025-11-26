@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Western New England",
+        "opponent_logo": "Western_New_England.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Husson",
+        "opponent_logo": "Husson.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Wisconsin-Platteville",
+        "opponent_logo": "Wisconsin_Platteville.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "MIT",
+        "opponent_logo": "MIT.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Salve Regina",
+        "opponent_logo": "Salve_Regina.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Worcester Polytechnic Institute",
+        "opponent_logo": "Worcester_Polytechnic_Institute.png",
+        "date": "10-17",
+        "home": false
+    },
+    {
+        "opponent": "Merchant Marine Academy",
+        "opponent_logo": "Merchant_Marine_Academy.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Norwich",
+        "opponent_logo": "Norwich.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Coast Guard",
+        "opponent_logo": "Coast_Guard.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "SUNY Maritime",
+        "opponent_logo": "SUNY_Maritime.png",
+        "date": "11-15",
+        "home": true
+    }
+]

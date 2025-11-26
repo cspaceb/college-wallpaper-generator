@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Lenoir-Rhyne",
+        "opponent_logo": "Lenoir_Rhyne.png",
+        "date": "08-29",
+        "home": true
+    },
+    {
+        "opponent": "Kentucky Wesleyan",
+        "opponent_logo": "Kentucky_Wesleyan.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Shorter",
+        "opponent_logo": "Shorter.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "North Greenville",
+        "opponent_logo": "North_Greenville.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Northeastern State",
+        "opponent_logo": "Northeastern_State.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Chowan",
+        "opponent_logo": "Chowan.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "West Alabama",
+        "opponent_logo": "West_Alabama.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "West Virginia State",
+        "opponent_logo": "West_Virginia_State.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Delta State",
+        "opponent_logo": "Delta_State.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Valdosta State",
+        "opponent_logo": "Valdosta_State.png",
+        "date": "11-15",
+        "home": true
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "McKendree",
+        "opponent_logo": "McKendree.png",
+        "date": "08-28",
+        "home": true
+    },
+    {
+        "opponent": "Eastern Illinois",
+        "opponent_logo": "Eastern_Illinois.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Indiana",
+        "opponent_logo": "Indiana.png",
+        "date": "09-12",
+        "home": false
+    },
+    {
+        "opponent": "Montana",
+        "opponent_logo": "Montana.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Southern Illinois",
+        "opponent_logo": "Southern_Illinois.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "South Dakota",
+        "opponent_logo": "South_Dakota.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "North Dakota State",
+        "opponent_logo": "North_Dakota_State.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "North Dakota",
+        "opponent_logo": "North_Dakota.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "South Dakota State",
+        "opponent_logo": "South_Dakota_State.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Illinois State",
+        "opponent_logo": "Illinois_State.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Youngstown State",
+        "opponent_logo": "Youngstown_State.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Murray State",
+        "opponent_logo": "Murray_State.png",
+        "date": "11-22",
+        "home": true
+    }
+]

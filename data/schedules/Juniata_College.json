@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Gettysburg",
+        "opponent_logo": "Gettysburg.png",
+        "date": "09-05",
+        "home": false
+    },
+    {
+        "opponent": "Allegheny",
+        "opponent_logo": "Allegheny.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "McDaniel College",
+        "opponent_logo": "McDaniel_College.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "College Of New Jersey",
+        "opponent_logo": "College_Of_New_Jersey.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Western Connecticut St",
+        "opponent_logo": "Western_Connecticut_St.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Catholic",
+        "opponent_logo": "Catholic.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Susquehanna",
+        "opponent_logo": "Susquehanna.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Wilkes",
+        "opponent_logo": "Wilkes.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Moravian",
+        "opponent_logo": "Moravian.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Lycoming",
+        "opponent_logo": "Lycoming.png",
+        "date": "11-15",
+        "home": true
+    }
+]

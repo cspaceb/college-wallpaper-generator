@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "St. Lawrence",
+        "opponent_logo": "St_Lawrence.png",
+        "date": "09-05",
+        "home": false
+    },
+    {
+        "opponent": "Castleton",
+        "opponent_logo": "Castleton.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Maine Maritime",
+        "opponent_logo": "Maine_Maritime.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Merchant Marine Academy",
+        "opponent_logo": "Merchant_Marine_Academy.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Worcester Polytechnic Institute",
+        "opponent_logo": "Worcester_Polytechnic_Institute.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "SUNY Maritime",
+        "opponent_logo": "SUNY_Maritime.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Coast Guard",
+        "opponent_logo": "Coast_Guard.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Springfield",
+        "opponent_logo": "Springfield.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Salve Regina",
+        "opponent_logo": "Salve_Regina.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "MIT",
+        "opponent_logo": "MIT.png",
+        "date": "11-15",
+        "home": false
+    }
+]

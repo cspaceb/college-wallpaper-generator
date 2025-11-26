@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Juniata College",
+        "opponent_logo": "Juniata_College.png",
+        "date": "09-05",
+        "home": true
+    },
+    {
+        "opponent": "Christopher Newport",
+        "opponent_logo": "Christopher_Newport.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Western Connecticut St",
+        "opponent_logo": "Western_Connecticut_St.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Franklin & Marshall",
+        "opponent_logo": "Franklin_and_Marshall.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Dickinson (PA)",
+        "opponent_logo": "Dickinson_(PA).png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Carnegie Mellon",
+        "opponent_logo": "Carnegie_Mellon.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Johns Hopkins University",
+        "opponent_logo": "Johns_Hopkins_University.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Ursinus",
+        "opponent_logo": "Ursinus.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Muhlenberg",
+        "opponent_logo": "Muhlenberg.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "McDaniel College",
+        "opponent_logo": "McDaniel_College.png",
+        "date": "11-15",
+        "home": false
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Minnesota State Mankato",
+        "opponent_logo": "Minnesota_State_Mankato.png",
+        "date": "08-28",
+        "home": false
+    },
+    {
+        "opponent": "Washburn",
+        "opponent_logo": "Washburn.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Texas A&M-Kingsville",
+        "opponent_logo": "Texas_AandM_Kingsville.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Missouri Southern State",
+        "opponent_logo": "Missouri_Southern_State.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Central Oklahoma",
+        "opponent_logo": "Central_Oklahoma.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Central Missouri",
+        "opponent_logo": "Central_Missouri.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Fort Hays State",
+        "opponent_logo": "Fort_Hays_State.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Nebraska-Kearney",
+        "opponent_logo": "Nebraska_Kearney.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Emporia State University",
+        "opponent_logo": "Emporia_State_University.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Missouri Western",
+        "opponent_logo": "Missouri_Western.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Pittsburg St",
+        "opponent_logo": "Pittsburg_St.png",
+        "date": "11-15",
+        "home": false
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Youngstown State",
+        "opponent_logo": "Youngstown_State.png",
+        "date": "08-28",
+        "home": false
+    },
+    {
+        "opponent": "New Haven",
+        "opponent_logo": "New_Haven.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Sacramento State",
+        "opponent_logo": "Sacramento_State.png",
+        "date": "09-14",
+        "home": false
+    },
+    {
+        "opponent": "Montana State",
+        "opponent_logo": "Montana_State.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "South Dakota State",
+        "opponent_logo": "South_Dakota_State.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Long Island University",
+        "opponent_logo": "Long_Island_University.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Wagner",
+        "opponent_logo": "Wagner.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Duquesne",
+        "opponent_logo": "Duquesne.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Stonehill",
+        "opponent_logo": "Stonehill.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "St. Francis (PA)",
+        "opponent_logo": "St_Francis_(PA).png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Robert Morris",
+        "opponent_logo": "Robert_Morris.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Central Connecticut",
+        "opponent_logo": "Central_Connecticut.png",
+        "date": "11-22",
+        "home": false
+    }
+]

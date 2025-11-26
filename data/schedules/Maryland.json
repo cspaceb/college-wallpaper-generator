@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Florida Atlantic",
+        "opponent_logo": "Florida_Atlantic.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Northern Illinois",
+        "opponent_logo": "Northern_Illinois.png",
+        "date": "09-05",
+        "home": true
+    },
+    {
+        "opponent": "Towson",
+        "opponent_logo": "Towson.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Wisconsin",
+        "opponent_logo": "Wisconsin.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Washington",
+        "opponent_logo": "Washington.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Nebraska",
+        "opponent_logo": "Nebraska.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "UCLA",
+        "opponent_logo": "UCLA.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Indiana",
+        "opponent_logo": "Indiana.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Rutgers",
+        "opponent_logo": "Rutgers.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Illinois",
+        "opponent_logo": "Illinois.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Michigan",
+        "opponent_logo": "Michigan.png",
+        "date": "11-22",
+        "home": true
+    },
+    {
+        "opponent": "Michigan State",
+        "opponent_logo": "Michigan_State.png",
+        "date": "11-30",
+        "home": false
+    }
+]

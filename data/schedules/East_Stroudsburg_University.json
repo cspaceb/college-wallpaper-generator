@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Edinboro University",
+        "opponent_logo": "Edinboro_University.png",
+        "date": "08-28",
+        "home": true
+    },
+    {
+        "opponent": "Pace",
+        "opponent_logo": "Pace.png",
+        "date": "09-04",
+        "home": true
+    },
+    {
+        "opponent": "Gannon",
+        "opponent_logo": "Gannon.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Lock Haven University",
+        "opponent_logo": "Lock_Haven_University.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "West Chester",
+        "opponent_logo": "West_Chester.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Bloomsburg",
+        "opponent_logo": "Bloomsburg.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Shippensburg",
+        "opponent_logo": "Shippensburg.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Shepherd",
+        "opponent_logo": "Shepherd.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Kutztown University",
+        "opponent_logo": "Kutztown_University.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Millersville",
+        "opponent_logo": "Millersville.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Clarion",
+        "opponent_logo": "Clarion.png",
+        "date": "11-15",
+        "home": true
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "USC",
+        "opponent_logo": "USC.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Marshall",
+        "opponent_logo": "Marshall.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "SMU",
+        "opponent_logo": "SMU.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "UT Martin",
+        "opponent_logo": "UT_Martin.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Western Kentucky",
+        "opponent_logo": "Western_Kentucky.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Middle Tennessee",
+        "opponent_logo": "Middle_Tennessee.png",
+        "date": "10-08",
+        "home": false
+    },
+    {
+        "opponent": "New Mexico State",
+        "opponent_logo": "New_Mexico_State.png",
+        "date": "10-23",
+        "home": false
+    },
+    {
+        "opponent": "Florida International",
+        "opponent_logo": "Florida_International.png",
+        "date": "10-30",
+        "home": true
+    },
+    {
+        "opponent": "Liberty",
+        "opponent_logo": "Liberty.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "UTEP",
+        "opponent_logo": "UTEP.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Kennesaw State",
+        "opponent_logo": "Kennesaw_State.png",
+        "date": "11-22",
+        "home": false
+    },
+    {
+        "opponent": "Louisiana Tech",
+        "opponent_logo": "Louisiana_Tech.png",
+        "date": "11-29",
+        "home": true
+    }
+]

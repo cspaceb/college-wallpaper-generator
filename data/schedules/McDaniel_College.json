@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Catholic",
+        "opponent_logo": "Catholic.png",
+        "date": "09-05",
+        "home": false
+    },
+    {
+        "opponent": "Salisbury",
+        "opponent_logo": "Salisbury.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Juniata College",
+        "opponent_logo": "Juniata_College.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Carnegie Mellon",
+        "opponent_logo": "Carnegie_Mellon.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Ursinus",
+        "opponent_logo": "Ursinus.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Muhlenberg",
+        "opponent_logo": "Muhlenberg.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Dickinson (PA)",
+        "opponent_logo": "Dickinson_(PA).png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Franklin & Marshall",
+        "opponent_logo": "Franklin_and_Marshall.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Johns Hopkins University",
+        "opponent_logo": "Johns_Hopkins_University.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Gettysburg",
+        "opponent_logo": "Gettysburg.png",
+        "date": "11-15",
+        "home": true
+    }
+]

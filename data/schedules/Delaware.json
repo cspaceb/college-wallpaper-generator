@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Delaware State",
+        "opponent_logo": "Delaware_State.png",
+        "date": "08-28",
+        "home": true
+    },
+    {
+        "opponent": "Colorado",
+        "opponent_logo": "Colorado.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "UConn",
+        "opponent_logo": "UConn.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Florida International",
+        "opponent_logo": "Florida_International.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Western Kentucky",
+        "opponent_logo": "Western_Kentucky.png",
+        "date": "10-03",
+        "home": true
+    },
+    {
+        "opponent": "Jacksonville State",
+        "opponent_logo": "Jacksonville_State.png",
+        "date": "10-15",
+        "home": false
+    },
+    {
+        "opponent": "Middle Tennessee",
+        "opponent_logo": "Middle_Tennessee.png",
+        "date": "10-22",
+        "home": true
+    },
+    {
+        "opponent": "Liberty",
+        "opponent_logo": "Liberty.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Louisiana Tech",
+        "opponent_logo": "Louisiana_Tech.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Sam Houston",
+        "opponent_logo": "Sam_Houston.png",
+        "date": "11-16",
+        "home": false
+    },
+    {
+        "opponent": "Wake Forest",
+        "opponent_logo": "Wake_Forest.png",
+        "date": "11-22",
+        "home": false
+    },
+    {
+        "opponent": "UTEP",
+        "opponent_logo": "UTEP.png",
+        "date": "11-29",
+        "home": true
+    }
+]

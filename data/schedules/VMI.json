@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Navy",
+        "opponent_logo": "Navy.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Ferrum",
+        "opponent_logo": "Ferrum.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Bucknell",
+        "opponent_logo": "Bucknell.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Richmond",
+        "opponent_logo": "Richmond.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Chattanooga",
+        "opponent_logo": "Chattanooga.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "East Tennessee State",
+        "opponent_logo": "East_Tennessee_State.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Samford",
+        "opponent_logo": "Samford.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Mercer",
+        "opponent_logo": "Mercer.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "The Citadel",
+        "opponent_logo": "The_Citadel.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Wofford",
+        "opponent_logo": "Wofford.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Furman",
+        "opponent_logo": "Furman.png",
+        "date": "11-15",
+        "home": false
+    },
+    {
+        "opponent": "Western Carolina",
+        "opponent_logo": "Western_Carolina.png",
+        "date": "11-22",
+        "home": true
+    }
+]

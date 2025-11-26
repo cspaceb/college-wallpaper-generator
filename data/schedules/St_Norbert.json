@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Wabash College",
+        "opponent_logo": "Wabash_College.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Wisconsin-Stevens Pt",
+        "opponent_logo": "Wisconsin_Stevens_Pt.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Concordia University Chicago",
+        "opponent_logo": "Concordia_University_Chicago.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Concordia-Wisconsin",
+        "opponent_logo": "Concordia_Wisconsin.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Wisconsin-Lutheran",
+        "opponent_logo": "Wisconsin_Lutheran.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Eureka College",
+        "opponent_logo": "Eureka_College.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Rockford",
+        "opponent_logo": "Rockford.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Benedictine University",
+        "opponent_logo": "Benedictine_University.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Aurora",
+        "opponent_logo": "Aurora.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Lakeland",
+        "opponent_logo": "Lakeland.png",
+        "date": "11-15",
+        "home": false
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Western Illinois",
+        "opponent_logo": "Western_Illinois.png",
+        "date": "08-29",
+        "home": true
+    },
+    {
+        "opponent": "Duke",
+        "opponent_logo": "Duke.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Western Michigan",
+        "opponent_logo": "Western_Michigan.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Indiana",
+        "opponent_logo": "Indiana.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "USC",
+        "opponent_logo": "USC.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Purdue",
+        "opponent_logo": "Purdue.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Ohio State",
+        "opponent_logo": "Ohio_State.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Washington",
+        "opponent_logo": "Washington.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Rutgers",
+        "opponent_logo": "Rutgers.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Maryland",
+        "opponent_logo": "Maryland.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Wisconsin",
+        "opponent_logo": "Wisconsin.png",
+        "date": "11-23",
+        "home": false
+    },
+    {
+        "opponent": "Northwestern",
+        "opponent_logo": "Northwestern.png",
+        "date": "11-30",
+        "home": true
+    }
+]

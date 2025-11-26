@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Anderson (Sc)",
+        "opponent_logo": "Anderson_(Sc).png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Presbyterian",
+        "opponent_logo": "Presbyterian.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Brevard College",
+        "opponent_logo": "Brevard_College.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Delta State",
+        "opponent_logo": "Delta_State.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "UNC Pembroke",
+        "opponent_logo": "UNC_Pembroke.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "North Greenville",
+        "opponent_logo": "North_Greenville.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Shorter",
+        "opponent_logo": "Shorter.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Ferrum",
+        "opponent_logo": "Ferrum.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Chowan",
+        "opponent_logo": "Chowan.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Wilson",
+        "opponent_logo": "Wilson.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Allen",
+        "opponent_logo": "Allen.png",
+        "date": "11-15",
+        "home": false
+    }
+]

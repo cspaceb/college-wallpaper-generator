@@ -1,0 +1,14 @@
+[
+    {
+        "opponent": "McNeese",
+        "opponent_logo": "McNeese.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Hardin-Simmons",
+        "opponent_logo": "Hardin_Simmons.png",
+        "date": "09-20",
+        "home": false
+    }
+]

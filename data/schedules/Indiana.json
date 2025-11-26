@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Old Dominion",
+        "opponent_logo": "Old_Dominion.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Kennesaw State",
+        "opponent_logo": "Kennesaw_State.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Indiana State",
+        "opponent_logo": "Indiana_State.png",
+        "date": "09-12",
+        "home": true
+    },
+    {
+        "opponent": "Illinois",
+        "opponent_logo": "Illinois.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Iowa",
+        "opponent_logo": "Iowa.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Oregon",
+        "opponent_logo": "Oregon.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Michigan State",
+        "opponent_logo": "Michigan_State.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "UCLA",
+        "opponent_logo": "UCLA.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Maryland",
+        "opponent_logo": "Maryland.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Penn State",
+        "opponent_logo": "Penn_State.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Wisconsin",
+        "opponent_logo": "Wisconsin.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Purdue",
+        "opponent_logo": "Purdue.png",
+        "date": "11-29",
+        "home": false
+    }
+]

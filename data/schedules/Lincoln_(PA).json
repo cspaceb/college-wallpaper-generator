@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Grand Valley State University",
+        "opponent_logo": "Grand_Valley_State_University.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Duquesne",
+        "opponent_logo": "Duquesne.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Winston-Salem",
+        "opponent_logo": "Winston_Salem.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Shaw",
+        "opponent_logo": "Shaw.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Livingstone",
+        "opponent_logo": "Livingstone.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Bluefield State",
+        "opponent_logo": "Bluefield_State.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Virginia Union",
+        "opponent_logo": "Virginia_Union.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Elizabeth City State",
+        "opponent_logo": "Elizabeth_City_State.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Virginia St",
+        "opponent_logo": "Virginia_St.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Bowie State",
+        "opponent_logo": "Bowie_State.png",
+        "date": "11-08",
+        "home": true
+    }
+]

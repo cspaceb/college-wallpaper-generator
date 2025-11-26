@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Post University",
+        "opponent_logo": "Post_University.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "American International",
+        "opponent_logo": "American_International.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Catawba",
+        "opponent_logo": "Catawba.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Bentley",
+        "opponent_logo": "Bentley.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Delaware State",
+        "opponent_logo": "Delaware_State.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Pace",
+        "opponent_logo": "Pace.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "St. Anselm",
+        "opponent_logo": "St_Anselm.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Assumption",
+        "opponent_logo": "Assumption.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Franklin Pierce",
+        "opponent_logo": "Franklin_Pierce.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Post University",
+        "opponent_logo": "Post_University.png",
+        "date": "11-15",
+        "home": true
+    }
+]

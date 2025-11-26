@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Kutztown University",
+        "opponent_logo": "Kutztown_University.png",
+        "date": "09-04",
+        "home": false
+    },
+    {
+        "opponent": "American International",
+        "opponent_logo": "American_International.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "St. Anselm",
+        "opponent_logo": "St_Anselm.png",
+        "date": "09-19",
+        "home": true
+    },
+    {
+        "opponent": "Franklin Pierce",
+        "opponent_logo": "Franklin_Pierce.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Pace",
+        "opponent_logo": "Pace.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Post University",
+        "opponent_logo": "Post_University.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "American International",
+        "opponent_logo": "American_International.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Southern Connecticut State",
+        "opponent_logo": "Southern_Connecticut_State.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Bentley",
+        "opponent_logo": "Bentley.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "West Chester",
+        "opponent_logo": "West_Chester.png",
+        "date": "11-15",
+        "home": false
+    }
+]

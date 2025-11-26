@@ -1,0 +1,20 @@
+[
+    {
+        "opponent": "Brevard College",
+        "opponent_logo": "Brevard_College.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Morehead State",
+        "opponent_logo": "Morehead_State.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Central State (OH)",
+        "opponent_logo": "Central_State_(OH).png",
+        "date": "10-18",
+        "home": false
+    }
+]

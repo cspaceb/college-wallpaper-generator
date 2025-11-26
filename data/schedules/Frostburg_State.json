@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "Shepherd",
+        "opponent_logo": "Shepherd.png",
+        "date": "08-30",
+        "home": true
+    },
+    {
+        "opponent": "Millersville",
+        "opponent_logo": "Millersville.png",
+        "date": "09-04",
+        "home": false
+    },
+    {
+        "opponent": "West Liberty",
+        "opponent_logo": "West_Liberty.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "West Virginia Wesleyan",
+        "opponent_logo": "West_Virginia_Wesleyan.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Concord University",
+        "opponent_logo": "Concord_University.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Glenville State",
+        "opponent_logo": "Glenville_State.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "University Of Charleston (WV)",
+        "opponent_logo": "University_Of_Charleston_(WV).png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Wheeling",
+        "opponent_logo": "Wheeling.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "PennWest California",
+        "opponent_logo": "PennWest_California.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "West Virginia State",
+        "opponent_logo": "West_Virginia_State.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Fairmont State",
+        "opponent_logo": "Fairmont_State.png",
+        "date": "11-15",
+        "home": false
+    }
+]

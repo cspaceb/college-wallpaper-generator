@@ -1,0 +1,68 @@
+[
+    {
+        "opponent": "UT Permian Basin",
+        "opponent_logo": "UT_Permian_Basin.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Pittsburg St",
+        "opponent_logo": "Pittsburg_St.png",
+        "date": "09-07",
+        "home": true
+    },
+    {
+        "opponent": "Washburn",
+        "opponent_logo": "Washburn.png",
+        "date": "09-21",
+        "home": true
+    },
+    {
+        "opponent": "Northwest Missouri St",
+        "opponent_logo": "Northwest_Missouri_St.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Central Missouri",
+        "opponent_logo": "Central_Missouri.png",
+        "date": "10-05",
+        "home": true
+    },
+    {
+        "opponent": "Fort Hays State",
+        "opponent_logo": "Fort_Hays_State.png",
+        "date": "10-12",
+        "home": false
+    },
+    {
+        "opponent": "Emporia State University",
+        "opponent_logo": "Emporia_State_University.png",
+        "date": "10-19",
+        "home": true
+    },
+    {
+        "opponent": "Northeastern State",
+        "opponent_logo": "Northeastern_State.png",
+        "date": "10-26",
+        "home": true
+    },
+    {
+        "opponent": "Nebraska-Kearney",
+        "opponent_logo": "Nebraska_Kearney.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Missouri Southern State",
+        "opponent_logo": "Missouri_Southern_State.png",
+        "date": "11-08",
+        "home": true
+    },
+    {
+        "opponent": "Missouri Western",
+        "opponent_logo": "Missouri_Western.png",
+        "date": "11-15",
+        "home": false
+    }
+]

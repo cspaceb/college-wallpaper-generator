@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Coast Guard",
+        "opponent_logo": "Coast_Guard.png",
+        "date": "09-06",
+        "home": true
+    },
+    {
+        "opponent": "Worcester Polytechnic Institute",
+        "opponent_logo": "Worcester_Polytechnic_Institute.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Castleton",
+        "opponent_logo": "Castleton.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Western New England",
+        "opponent_logo": "Western_New_England.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Endicott College",
+        "opponent_logo": "Endicott_College.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Maine Maritime",
+        "opponent_logo": "Maine_Maritime.png",
+        "date": "10-17",
+        "home": false
+    },
+    {
+        "opponent": "Husson",
+        "opponent_logo": "Husson.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Nichols College",
+        "opponent_logo": "Nichols_College.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "Curry College",
+        "opponent_logo": "Curry_College.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "New England College",
+        "opponent_logo": "New_England_College.png",
+        "date": "11-15",
+        "home": true
+    }
+]

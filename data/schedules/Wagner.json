@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Kansas",
+        "opponent_logo": "Kansas.png",
+        "date": "08-29",
+        "home": false
+    },
+    {
+        "opponent": "Georgetown",
+        "opponent_logo": "Georgetown.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Marist",
+        "opponent_logo": "Marist.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Central Michigan",
+        "opponent_logo": "Central_Michigan.png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Norfolk State",
+        "opponent_logo": "Norfolk_State.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Mercyhurst",
+        "opponent_logo": "Mercyhurst.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Central Connecticut",
+        "opponent_logo": "Central_Connecticut.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Duquesne",
+        "opponent_logo": "Duquesne.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "St. Francis (PA)",
+        "opponent_logo": "St_Francis_(PA).png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Robert Morris",
+        "opponent_logo": "Robert_Morris.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Stonehill",
+        "opponent_logo": "Stonehill.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "Long Island University",
+        "opponent_logo": "Long_Island_University.png",
+        "date": "11-22",
+        "home": false
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "opponent": "Chapman",
+        "opponent_logo": "Chapman.png",
+        "date": "09-07",
+        "home": false
+    },
+    {
+        "opponent": "McMurry",
+        "opponent_logo": "McMurry.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Louisiana College",
+        "opponent_logo": "Louisiana_College.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Howard Payne",
+        "opponent_logo": "Howard_Payne.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Mary Hardin-Baylor",
+        "opponent_logo": "Mary_Hardin_Baylor.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "East Texas Baptist University",
+        "opponent_logo": "East_Texas_Baptist_University.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Southwestern Assemblies Of God",
+        "opponent_logo": "Southwestern_Assemblies_Of_God.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Howard Payne",
+        "opponent_logo": "Howard_Payne.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Mary Hardin-Baylor",
+        "opponent_logo": "Mary_Hardin_Baylor.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "East Texas Baptist University",
+        "opponent_logo": "East_Texas_Baptist_University.png",
+        "date": "11-15",
+        "home": true
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "Idaho",
+        "opponent_logo": "Idaho.png",
+        "date": "08-31",
+        "home": true
+    },
+    {
+        "opponent": "San Diego State",
+        "opponent_logo": "San_Diego_State.png",
+        "date": "09-07",
+        "home": true
+    },
+    {
+        "opponent": "North Texas",
+        "opponent_logo": "North_Texas.png",
+        "date": "09-13",
+        "home": false
+    },
+    {
+        "opponent": "Washington",
+        "opponent_logo": "Washington.png",
+        "date": "09-20",
+        "home": true
+    },
+    {
+        "opponent": "Colorado State",
+        "opponent_logo": "Colorado_State.png",
+        "date": "09-27",
+        "home": false
+    },
+    {
+        "opponent": "Ole Miss",
+        "opponent_logo": "Ole_Miss.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Virginia",
+        "opponent_logo": "Virginia.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "Toledo",
+        "opponent_logo": "Toledo.png",
+        "date": "10-25",
+        "home": true
+    },
+    {
+        "opponent": "Oregon State",
+        "opponent_logo": "Oregon_State.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Louisiana Tech",
+        "opponent_logo": "Louisiana_Tech.png",
+        "date": "11-16",
+        "home": true
+    },
+    {
+        "opponent": "James Madison",
+        "opponent_logo": "James_Madison.png",
+        "date": "11-22",
+        "home": false
+    },
+    {
+        "opponent": "Oregon State",
+        "opponent_logo": "Oregon_State.png",
+        "date": "11-29",
+        "home": true
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "opponent": "Amherst",
+        "opponent_logo": "Amherst.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "Trinity (CT)",
+        "opponent_logo": "Trinity_(CT).png",
+        "date": "09-20",
+        "home": false
+    },
+    {
+        "opponent": "Wesleyan University (CT)",
+        "opponent_logo": "Wesleyan_University_(CT).png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Colby College",
+        "opponent_logo": "Colby_College.png",
+        "date": "10-04",
+        "home": true
+    },
+    {
+        "opponent": "Tufts",
+        "opponent_logo": "Tufts.png",
+        "date": "10-11",
+        "home": false
+    },
+    {
+        "opponent": "Williams",
+        "opponent_logo": "Williams.png",
+        "date": "10-18",
+        "home": true
+    },
+    {
+        "opponent": "Middlebury",
+        "opponent_logo": "Middlebury.png",
+        "date": "10-25",
+        "home": false
+    },
+    {
+        "opponent": "Bowdoin",
+        "opponent_logo": "Bowdoin.png",
+        "date": "11-01",
+        "home": false
+    },
+    {
+        "opponent": "Hamilton",
+        "opponent_logo": "Hamilton.png",
+        "date": "11-08",
+        "home": true
+    }
+]

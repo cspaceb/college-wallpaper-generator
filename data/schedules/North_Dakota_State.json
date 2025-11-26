@@ -1,0 +1,74 @@
+[
+    {
+        "opponent": "The Citadel",
+        "opponent_logo": "The_Citadel.png",
+        "date": "08-30",
+        "home": false
+    },
+    {
+        "opponent": "Tennessee State",
+        "opponent_logo": "Tennessee_State.png",
+        "date": "09-06",
+        "home": false
+    },
+    {
+        "opponent": "Southeast Missouri State",
+        "opponent_logo": "Southeast_Missouri_State.png",
+        "date": "09-13",
+        "home": true
+    },
+    {
+        "opponent": "South Dakota",
+        "opponent_logo": "South_Dakota.png",
+        "date": "09-27",
+        "home": true
+    },
+    {
+        "opponent": "Illinois State",
+        "opponent_logo": "Illinois_State.png",
+        "date": "10-04",
+        "home": false
+    },
+    {
+        "opponent": "Southern Illinois",
+        "opponent_logo": "Southern_Illinois.png",
+        "date": "10-11",
+        "home": true
+    },
+    {
+        "opponent": "Indiana State",
+        "opponent_logo": "Indiana_State.png",
+        "date": "10-18",
+        "home": false
+    },
+    {
+        "opponent": "South Dakota State",
+        "opponent_logo": "South_Dakota_State.png",
+        "date": "10-26",
+        "home": false
+    },
+    {
+        "opponent": "Youngstown State",
+        "opponent_logo": "Youngstown_State.png",
+        "date": "11-01",
+        "home": true
+    },
+    {
+        "opponent": "North Dakota",
+        "opponent_logo": "North_Dakota.png",
+        "date": "11-08",
+        "home": false
+    },
+    {
+        "opponent": "Northern Iowa",
+        "opponent_logo": "Northern_Iowa.png",
+        "date": "11-15",
+        "home": true
+    },
+    {
+        "opponent": "St. Thomas (MN)",
+        "opponent_logo": "St_Thomas_(MN).png",
+        "date": "11-22",
+        "home": true
+    }
+]
