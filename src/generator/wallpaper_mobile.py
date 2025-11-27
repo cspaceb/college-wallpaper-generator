@@ -116,8 +116,8 @@ def generate_mobile_wallpaper(
     # With schedule → place near top
     bg.paste(hero_logo, ((WIDTH - hero_logo.width) // 2, 120), hero_logo)
 
-    # ---------------------------------------------------------
-    #  SCHEDULE GRID
+     # ---------------------------------------------------------
+    #  SCHEDULE GRID — 4 ROWS × 3 COLUMNS
     # ---------------------------------------------------------
     items = [
         {
@@ -130,10 +130,10 @@ def generate_mobile_wallpaper(
         if g["opponent"] != "BYE"
     ][:12]
 
-    ROWS, COLS = 6, 2
+    ROWS, COLS = 4, 3
     GRID_START_Y = 1050
-    ROW_SPACING = 240
-    COLUMN_SPACING = 360
+    ROW_SPACING = 230
+    COLUMN_SPACING = 300
     GRID_LEFT_X = WIDTH // 2 - ((COLS - 1) * COLUMN_SPACING) // 2
 
     OPP_LOGO_SIZE = 150

@@ -115,7 +115,7 @@ def generate_pc_wallpaper(
     bg.paste(hero_logo, ((WIDTH - hero_logo.width) // 2, 60), hero_logo)
 
     # ---------------------------------------------------------
-    #  SCHEDULE GRID (unchanged)
+    #  SCHEDULE GRID — 4 ROWS × 3 COLUMNS
     # ---------------------------------------------------------
     items = [
         {
@@ -128,10 +128,10 @@ def generate_pc_wallpaper(
         if g["opponent"] != "BYE"
     ][:12]
 
-    ROWS, COLS = 2, 6
-    GRID_START_Y = 780
-    ROW_SPACING = 185
-    COLUMN_SPACING = 350
+    ROWS, COLS = 4, 3
+    GRID_START_Y = 680
+    ROW_SPACING = 165
+    COLUMN_SPACING = 420
     GRID_LEFT_X = WIDTH // 2 - ((COLS - 1) * COLUMN_SPACING) // 2
 
     OPP_LOGO_SIZE = 115
