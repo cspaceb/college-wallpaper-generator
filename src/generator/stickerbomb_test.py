@@ -20,33 +20,14 @@ BG_COLOR = (17, 17, 17)
 
 
 # ============================================================
-# HIGH-QUALITY STICKER BORDER
+# STICKER BORDER REMOVED (PASSTHROUGH)
 # ============================================================
 
-def add_sticker_border(logo: Image.Image, border_size=2):
+def add_sticker_border(logo: Image.Image, border_size=1):
     """
-    Adds a clean white die-cut sticker border around a logo PNG.
-    High-quality, sharp edge version.
+    Sticker border disabled — returns original logo unchanged.
     """
-    logo = logo.convert("RGBA")
-
-    # Extract alpha channel
-    alpha = logo.split()[3]
-
-    # Slight blur for expansion – reduced for sharpness
-    expanded = alpha.filter(ImageFilter.GaussianBlur(border_size / 4))
-
-    # High threshold for crisp border
-    bw = expanded.point(lambda p: 255 if p > 5 else 0)
-
-    # Create white silhouette
-    border_layer = Image.new("RGBA", logo.size, (255, 255, 255, 255))
-    border_layer.putalpha(bw)
-
-    # Composite original logo on top
-    bordered_logo = Image.alpha_composite(border_layer, logo)
-
-    return bordered_logo
+    return logo.convert("RGBA")
 
 
 # ============================================================
@@ -67,7 +48,7 @@ def get_all_logos():
 # ============================================================
 
 def paste_random_logo(canvas, logo_path, WIDTH, HEIGHT):
-    """Past 5–8 logos with crisp edges, sharp rotation, and border."""
+    """Paste 5–8 logos randomly, no border."""
     for _ in range(random.randint(5, 8)):
         try:
             size = random.randint(70, 180)
@@ -79,8 +60,8 @@ def paste_random_logo(canvas, logo_path, WIDTH, HEIGHT):
                 resample=Image.Resampling.LANCZOS
             )
 
-            # Add clean sticker-style border
-            logo = add_sticker_border(logo, border_size=10)
+            # NO border — passthrough
+            logo = add_sticker_border(logo, border_size=0)
 
             # High-quality rotation
             logo = logo.rotate(
