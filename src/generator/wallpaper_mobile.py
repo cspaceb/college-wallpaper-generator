@@ -114,7 +114,7 @@ def generate_mobile_wallpaper(
         return bg
 
     # With schedule → place near top
-    bg.paste(hero_logo, ((WIDTH - hero_logo.width) // 2, 120), hero_logo)
+    bg.paste(hero_logo, ((WIDTH - hero_logo.width) // 2, 300), hero_logo)
 
      # ---------------------------------------------------------
     #  SCHEDULE GRID — 4 ROWS × 3 COLUMNS

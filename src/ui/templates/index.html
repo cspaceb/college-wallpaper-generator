@@ -17,12 +17,38 @@
     <meta name="twitter:title" content="CFB Wallpaper Generator">
     <meta name="twitter:description" content="Generate custom college football wallpapers in one click.">
     <meta name="twitter:image" content="/static/og-image.png">
+
     <title>CFB Wallpaper Generator</title>
 
     <!-- MAIN STYLESHEET -->
     <link rel="stylesheet" href="/static/styles.css">
 </head>
+
 <body>
+
+    <!-- =====================================================
+         SVG FILTER: Perfect hard white stroke (matches Python)
+    ===================================================== -->
+    <svg width="0" height="0" style="position:absolute;">
+        <defs>
+            <filter id="logo-stroke" x="-40%" y="-40%" width="180%" height="180%">
+                <!-- DILATE ALPHA CHANNEL (exact match to Python binary_dilation) -->
+                <!-- Scaled-down stroke for preview (not full-size wallpaper) -->
+                <feMorphology operator="dilate" radius="2" in="SourceAlpha" result="dilated" />
+
+
+                <!-- Color the stroke white -->
+                <feFlood flood-color="white" result="white" />
+                <feComposite in="white" in2="dilated" operator="in" result="outline" />
+
+                <!-- Merge outline + source logo -->
+                <feMerge>
+                    <feMergeNode in="outline" />
+                    <feMergeNode in="SourceGraphic" />
+                </feMerge>
+            </filter>
+        </defs>
+    </svg>
 
     <div class="card fade-in">
 
@@ -39,7 +65,6 @@
             <div id="teamList" class="dropdown-list"></div>
         </div>
 
-
         <!-- ===============================
              STICKER BOMB TOGGLE
         ================================ -->
@@ -50,7 +75,6 @@
                 <span class="slider"></span>
             </label>
         </div>
-
 
         <!-- ===============================
              COLOR + GRADIENT SECTION
@@ -70,7 +94,6 @@
             </div>
 
         </div>
-
 
         <!-- ===============================
              GRADIENT TOGGLE
@@ -112,7 +135,6 @@
             </div>
         </div>
 
-
         <!-- ===============================
              PREVIEW WINDOW
         ================================ -->
@@ -120,7 +142,6 @@
         <div id="colorPreview" class="color-preview">
             <img id="previewTeamLogo" class="preview-logo-img" src="" alt="">
         </div>
-
 
         <!-- ===============================
              WALLPAPER TYPE
@@ -131,14 +152,12 @@
             <option value="mobile">Mobile</option>
         </select>
 
-
         <!-- ===============================
              GENERATE BUTTON
         ================================ -->
         <button id="generateBtn" class="button">
             Generate Wallpaper
         </button>
-
 
         <!-- ===============================
              RESULT PREVIEW
@@ -153,8 +172,8 @@
 
     </div>
 
-    <!-- MAIN JAVASCRIPT -->
-    <script src="/static/app.js"></script>
+    <!-- MAIN JAVASCRIPT (versioned to force reload on update) -->
+    <script src="/static/app.js?v=12"></script>
 
 </body>
 </html>

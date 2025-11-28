@@ -259,7 +259,7 @@ input:disabled + .slider {
    ===================================================== */
 
 .color-preview {
-    height: 220px;
+    min-height: 220px;  /* ensures layout matches real output */
     width: 100%;
     background: #111;
     border-radius: 12px;
@@ -273,9 +273,11 @@ input:disabled + .slider {
     transition: opacity 0.2s;
 }
 
+/* ⭐ PERFECT HARD STROKE — matches Python binary_dilation */
 .preview-logo-img {
     max-height: 160px;
-    opacity: 0.7;
+    opacity: 1;
+    filter: url(#logo-stroke);
 }
 
 
@@ -372,6 +374,7 @@ input:disabled + .slider {
     transform: translateY(-2px);
 }
 
+
 /* =====================================================
    LOADING OVERLAY (RESTORED)
    ===================================================== */
@@ -386,7 +389,7 @@ input:disabled + .slider {
     backdrop-filter: blur(4px);
     -webkit-backdrop-filter: blur(4px);
 
-    display: none; /* JS toggles this */
+    display: none;
     justify-content: center;
     align-items: center;
     flex-direction: column;

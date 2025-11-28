@@ -95,7 +95,7 @@ async function applyTeamColors(teamName) {
 
 
 /* ----------------------------------------------------
-   PREVIEW ENGINE — FULLY REBUILT
+   PREVIEW ENGINE — Fixed Angles + Split Mode + Stroke
 ---------------------------------------------------- */
 
 function setPreviewGradient(css) {
@@ -105,14 +105,14 @@ function setPreviewGradient(css) {
 function refreshPreview() {
     const type = typeSelect.value;
 
-    /* =============================
-       STICKERBOMB MODE
-    ============================== */
+    /* ============================
+       STICKERBOMB PREVIEW
+    ============================ */
     if (stickerBombEnabled) {
         const previewImage =
             type === "pc"
-                ? "/data/stickerbomb/pc_preview.png"
-                : "/data/stickerbomb/mobile_preview.png";
+                ? "/data/stickerbomb/pc.png"
+                : "/data/stickerbomb/mobile.png";
 
         colorPreview.style.background = `url('${previewImage}') center/cover no-repeat`;
 
@@ -126,11 +126,10 @@ function refreshPreview() {
         return;
     }
 
-    /* =============================
-       NORMAL MODE (COLOR & GRADIENT)
-    ============================== */
+    /* ============================
+       NORMAL MODE PREVIEW
+    ============================ */
 
-    // Logo on
     if (selectedTeam) {
         previewTeamLogo.style.display = "block";
         previewTeamLogo.src = `/data/logos/${selectedTeam.replace(/ /g, "_")}.png`;
@@ -138,43 +137,62 @@ function refreshPreview() {
         previewTeamLogo.style.display = "none";
     }
 
-    // Solid color
     if (!gradientToggle.checked) {
         colorPreview.style.background = colorPicker.value;
         return;
     }
 
+    // FIX: CSS angle reversed vs Pillow
+    const correctedAngle = (360 - angleSlider.value) % 360;
+
+    const c1 = colorPicker.value;
+    const c2 = gradColor2.value;
     let gradientCSS = "";
 
     switch (gradientStyle.value) {
+
         case "linear":
-            gradientCSS = `linear-gradient(${angleSlider.value}deg, ${colorPicker.value}, ${gradColor2.value})`;
+            gradientCSS = `linear-gradient(${correctedAngle}deg, ${c1}, ${c2})`;
             break;
+
         case "radial":
-            gradientCSS = `radial-gradient(circle, ${colorPicker.value}, ${gradColor2.value})`;
+            gradientCSS = `radial-gradient(circle, ${c1}, ${c2})`;
             break;
+
         case "diamond":
-            gradientCSS = `radial-gradient(circle at top left, ${colorPicker.value}, ${gradColor2.value})`;
+            gradientCSS = `radial-gradient(circle at top left, ${c1}, ${c2})`;
             break;
-        case "fade":
-            const darker = shadeColor(colorPicker.value, -40);
-            gradientCSS = `linear-gradient(180deg, ${colorPicker.value}, ${darker})`;
+
+        case "fade": {
+            const darker = shadeColor(c1, -40);
+            gradientCSS = `linear-gradient(180deg, ${c1}, ${darker})`;
             break;
-        case "split":
-            gradientCSS = `linear-gradient(${angleSlider.value}deg, ${colorPicker.value} 50%, ${gradColor2.value} 50%)`;
+        }
+
+        case "split": {
+            // Python produces top/bottom based on midpoint of rotated diag gradient.
+            // CSS reverses this for 0° and 180°.
+            const reversed = (correctedAngle === 0 || correctedAngle === 180);
+            const startColor = reversed ? c2 : c1;
+            const endColor = reversed ? c1 : c2;
+
+            gradientCSS = `linear-gradient(${correctedAngle}deg, ${startColor} 50%, ${endColor} 50%)`;
             break;
+        }
+
         case "mirror":
-            gradientCSS = `linear-gradient(${angleSlider.value}deg, ${colorPicker.value}, ${gradColor2.value}, ${colorPicker.value})`;
+            gradientCSS = `linear-gradient(${correctedAngle}deg, ${c1}, ${c2}, ${c1})`;
             break;
+
         case "noise":
             gradientCSS = `
-                linear-gradient(180deg, ${colorPicker.value}, ${gradColor2.value}),
+                linear-gradient(180deg, ${c1}, ${c2}),
                 repeating-linear-gradient(
                     45deg,
-                    rgba(255,255,255,.06) 0px,
-                    rgba(255,255,255,.06) 2px,
-                    rgba(0,0,0,.06) 2px,
-                    rgba(0,0,0,.06) 4px
+                    rgba(255,255,255,0.06) 0px,
+                    rgba(255,255,255,0.06) 2px,
+                    rgba(0,0,0,0.06) 2px,
+                    rgba(0,0,0,0.06) 4px
                 )
             `;
             break;
@@ -185,7 +203,7 @@ function refreshPreview() {
 
 
 /* ----------------------------------------------------
-   UI DISABLES FOR STICKERBOMB
+   UI DISABLES FOR STICKERBOMB MODE
 ---------------------------------------------------- */
 
 function applyStickerBombState() {
@@ -247,6 +265,8 @@ gradientToggle.addEventListener("change", () => {
    TEAM DROPDOWN POPULATION
 ---------------------------------------------------- */
 
+let searchBoxRef = null;
+
 fetch("/teams")
     .then(res => res.json())
     .then(data => {
@@ -256,6 +276,7 @@ fetch("/teams")
         searchBox.className = "dropdown-search";
         searchBox.placeholder = "Search team...";
         dropdownList.appendChild(searchBox);
+        searchBoxRef = searchBox;
 
         searchBox.addEventListener("click", e => e.stopPropagation());
         searchBox.addEventListener("input", () => {
@@ -294,15 +315,44 @@ fetch("/teams")
         }
     });
 
-dropdownSelected.onclick = e => {
-    e.stopPropagation();
-    dropdownList.style.display =
-        dropdownList.style.display === "block" ? "none" : "block";
-};
 
-document.addEventListener("click", () => {
+/* ----------------------------------------------------
+   IMPROVED DROPDOWN UX
+---------------------------------------------------- */
+
+function openDropdown() {
+    dropdownList.style.display = "block";
+
+    if (searchBoxRef) {
+        setTimeout(() => searchBoxRef.focus(), 0);
+    }
+
+    if (selectedTeam) {
+        const items = dropdownList.querySelectorAll(".dropdown-item");
+        for (const item of items) {
+            if (item.dataset.team === selectedTeam) {
+                setTimeout(() => {
+                    item.scrollIntoView({ behavior: "smooth", block: "center" });
+                }, 50);
+                break;
+            }
+        }
+    }
+}
+
+function closeDropdown() {
     dropdownList.style.display = "none";
+}
+
+["click", "touchstart"].forEach(evt => {
+    dropdownSelected.addEventListener(evt, e => {
+        e.stopPropagation();
+        const isOpen = dropdownList.style.display === "block";
+        isOpen ? closeDropdown() : openDropdown();
+    });
 });
+
+document.addEventListener("click", closeDropdown);
 
 
 /* ----------------------------------------------------
@@ -357,7 +407,7 @@ generateBtn.onclick = async () => {
 
     const params = new URLSearchParams({
         team: selectedTeam,
-        type: type,
+        type,
     });
 
     if (stickerBombEnabled) {
@@ -386,7 +436,6 @@ generateBtn.onclick = async () => {
         document.getElementById("previewImage").src = url;
         document.getElementById("downloadLink").href = url;
         document.getElementById("previewSection").classList.remove("hidden");
-
     } catch (err) {
         console.error(err);
         alert("Error generating wallpaper.");
@@ -405,7 +454,10 @@ function shadeColor(hex, percent) {
     const r = Math.max(0, (num >> 16) + percent);
     const g = Math.max(0, ((num >> 8) & 0x00FF) + percent);
     const b = Math.max(0, (num & 0x0000FF) + percent);
-    return "#" + ((r << 16) | (g << 8) | b)
-        .toString(16)
-        .padStart(6, "0");
+    return (
+        "#" +
+        ((r << 16) | (g << 8) | b)
+            .toString(16)
+            .padStart(6, "0")
+    );
 }
